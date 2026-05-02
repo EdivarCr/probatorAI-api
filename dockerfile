@@ -1,20 +1,39 @@
-# Estágio 1: Build
-FROM node:20-alpine AS builder
+
+FROM node:20-slim AS development
 WORKDIR /usr/src/app
+
+# Copia arquivos de dependências primeiro para aproveitar o cache do Docker
 COPY package*.json ./
 RUN npm install
+
+
 COPY . .
+
+
+RUN npx prisma generate
+
+
+CMD ["npm", "run", "start:dev"]
+
+
+FROM development AS builder
+
 RUN npm run build
 
-# Estágio 2: Produção (Imagem mais leve)
-FROM node:20-alpine
+# ---
+
+# Estágio Final: Produção
+FROM node:20-alpine AS runner
 WORKDIR /usr/src/app
+ENV NODE_ENV=production
+
 COPY package*.json ./
-# Instala apenas as dependências de produção
+# Instala apenas o necessário para rodar (sem devDependencies)
 RUN npm install --only=production
-# Copia apenas o build compilado do estágio anterior
+
+# Copia o build e o cliente do Prisma gerado
 COPY --from=builder /usr/src/app/dist ./dist
+COPY --from=builder /usr/src/app/node_modules/@prisma/client ./node_modules/@prisma/client
 
 EXPOSE 3000
-# Aponta diretamente para o arquivo compilado
 CMD ["node", "dist/main.js"]
