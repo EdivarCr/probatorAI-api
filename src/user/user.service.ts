@@ -111,4 +111,17 @@ export class UserService {
       throw new NotFoundException('usuario nao encontrado');
     }
   }
+
+  async existsByEmail(email: string) {
+    return await this.prisma.user.findUnique({
+      where: { email },
+      select: {
+        id: true,
+        role: true,
+        name: true,
+        email: true,
+        password: true,
+      },
+    });
+  }
 }
