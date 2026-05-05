@@ -13,7 +13,7 @@ import { CreateUserDto, UpdatedUserDto } from './dto/user.dto';
 import { Public } from '../auth/public.decorator';
 import { Roles } from '../auth/roles.decorators';
 import { JwtPayload } from 'jsonwebtoken';
-import { Role } from 'src/auth/role.enum';
+import { Role } from '../auth/role.enum';
 
 type AuthenticatedRequest = Request & { user: JwtPayload };
 @Controller('user')
