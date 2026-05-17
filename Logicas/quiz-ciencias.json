@@ -1,0 +1,830 @@
+{
+  "capturedAt": "2026-04-29T00:47:22.090Z",
+  "source": "notebooklm",
+  "url": "blob:https://5x5lgbi6ctugv785oq0dcdnkand2dvupguy3vwqjtawdvl02em-h903225159.scf.usercontent.goog/84d5b072-55a3-4dee-9d7a-ce2a24489987",
+  "totalQuestions": 20,
+  "subject": "ciencias",
+  "level": "dificil",
+  "questions": [
+    {
+      "index": 1,
+      "question": "No contexto da vacinação, como se define a função biológica dos antígenos introduzidos no organismo?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Atuam como catalisadores químicos que aceleram a cura de doenças já instaladas no paciente.",
+          "explanation": "Vacinas possuem caráter preventivo e não são projetadas para curar infecções agudas em estágio avançado.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Servem como moldes ou sinalizadores para que o sistema imune aprenda a produzir suas próprias defesas.",
+          "explanation": "Os antígenos enfraquecidos ou mortos estimulam a produção de anticorpos sem causar a patologia completa.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Substituem as células de defesa naturais do corpo por versões laboratoriais mais resistentes.",
+          "explanation": "O sistema imunológico continua usando suas próprias células; a vacina apenas fornece a 'instrução' necessária.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "São substâncias químicas que destroem a membrana plasmática de microrganismos patogênicos.",
+          "explanation": "Esta seria a função de certos agentes desinfetantes ou antibióticos, não o mecanismo de uma vacina.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Eles atuam como proteínas de defesa que atacam diretamente os vírus e bactérias invasores.",
+          "explanation": "Esta descrição refere-se aos anticorpos, e não aos antígenos que compõem a vacina.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "Qual característica fundamental diferencia os vírus de todos os outros grupos de seres vivos mencionados no material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Sua organização estrutural ser classificada como acelular.",
+          "explanation": "Diferente de bactérias, fungos e animais, os vírus não são formados por unidades celulares.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A ausência de proteínas em sua estrutura externa protetora.",
+          "explanation": "Todos os vírus possuem uma cápsula de proteína que protege seu interior genético.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A incapacidade total de possuir qualquer tipo de material genético como o DNA.",
+          "explanation": "Vírus possuem material genético, podendo ser DNA ou RNA, como no caso do coronavírus.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A capacidade de se reproduzir de forma independente em qualquer ambiente nutritivo.",
+          "explanation": "Vírus são parasitas intracelulares obrigatórios e só se replicam dentro de células hospedeiras.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A presença de uma parede celular rígida composta de proteínas e lipídios.",
+          "explanation": "Eles possuem cápsulas ou envelopes, mas a parede celular é uma característica de bactérias e vegetais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "Ao analisar uma célula sob o microscópio, um cientista percebe a ausência de uma carioteca (membrana nuclear). Como essa célula deve ser classificada?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Célula pluricelular.",
+          "explanation": "Pluricelular refere-se ao número de células em um organismo, não ao tipo de organização interna da célula.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Célula organelar complexa.",
+          "explanation": "Este termo não é uma classificação biológica padrão para tipos celulares baseados na presença de núcleo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Célula eucariota animal.",
+          "explanation": "Células animais são eucariotas e possuem núcleo delimitado por membrana.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Célula eucariota vegetal.",
+          "explanation": "Células vegetais, assim como as animais, possuem núcleo organizado e organelas membranosas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Célula procariota.",
+          "explanation": "Células procariotas têm estrutura simplificada e o material genético fica disperso no citoplasma.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "question": "Em um organismo pluricelular, qual é o nível de organização que se situa imediatamente após o conjunto de células especializadas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Órgão.",
+          "explanation": "Um órgão é formado por um conjunto de tecidos, situando-se dois níveis acima da célula individual.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Sistema.",
+          "explanation": "Sistemas são conjuntos de órgãos que trabalham de forma coordenada.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "População.",
+          "explanation": "População é um termo ecológico que se refere a um conjunto de indivíduos da mesma espécie.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Tecido.",
+          "explanation": "O tecido é definido como um conjunto de células que colaboram e dividem o trabalho entre si.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Organismo.",
+          "explanation": "O organismo representa a totalidade do indivíduo, sendo o nível mais complexo da organização biológica individual.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "question": "A Floresta Amazônica é vital para o equilíbrio climático mundial. Qual processo vegetal contribui diretamente para a regularidade das chuvas em outras regiões?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A erosão das margens dos rios.",
+          "explanation": "A erosão é um dano ambiental que prejudica a qualidade da água e a vazão dos rios.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A extração sustentável de pau-brasil.",
+          "explanation": "A extração de madeira, mesmo que sustentável, não é o motor principal da regulação hídrica atmosférica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O acúmulo de sedimentos que tornam os rios turvos.",
+          "explanation": "A turbidez do rio é um indicador de desmatamento e perda de solo, não de saúde climática.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A liberação de umidade através da transpiração das árvores.",
+          "explanation": "As árvores da Amazônia lançam grandes volumes de vapor d'água na atmosfera, influenciando o ciclo de chuvas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "A savanização das áreas degradadas.",
+          "explanation": "A savanização é um processo negativo de degradação que reduz a umidade da floresta.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "question": "O nome 'Caatinga' significa 'mata branca' em tupi-guarani. A que característica física do bioma esse nome se refere predominantemente?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "À neve que ocasionalmente cai nas regiões mais altas do Nordeste.",
+          "explanation": "O clima da Caatinga é semiárido e quente, tornando a ocorrência de neve inexistente.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "À presença de neblina constante que cobre a vegetação pela manhã.",
+          "explanation": "A Caatinga é um bioma seco e quente, com baixa incidência de neblina.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ao tipo de solo arenoso e rico em calcário que reflete a luz solar.",
+          "explanation": "A designação indígena foca na aparência da vegetação (mata) e não especificamente na geologia do solo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "À cor das flores que desabrocham apenas no período chuvoso.",
+          "explanation": "Embora existam flores brancas, o nome refere-se ao aspecto geral da paisagem na maior parte do ano.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ao aspecto esbranquiçado dos troncos e folhas ressecadas durante a seca.",
+          "explanation": "Na estação seca, as plantas perdem as folhas e os troncos adquirem um tom cinza-claro ou esbranquiçado.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "question": "Sobre o bioma Cerrado, qual fator é mencionado como um motor de transformação econômica, mas que gera preocupação ambiental?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A extração de látex das seringueiras nativas.",
+          "explanation": "A extração de látex é uma atividade historicamente ligada à Amazônia.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A pesca industrial nos rios alagados.",
+          "explanation": "A pesca em áreas alagadas é mais característica do bioma Pantanal.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A exploração de carvão mineral em áreas de preservação.",
+          "explanation": "O texto foca na produção agrícola e no impacto do desmatamento para esse fim.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O desenvolvimento da pecuária em campos de gramíneas naturais.",
+          "explanation": "Esta atividade é o foco principal de desenvolvimento no bioma Pampa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A expansão de monoculturas e produtos cultivados em larga escala.",
+          "explanation": "O Cerrado é uma fronteira agrícola importante, mas o cultivo intensivo ameaça sua biodiversidade.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "question": "O Pantanal possui uma dinâmica ecológica única definida por ciclos hidrológicos. Como se caracteriza o período entre outubro e abril nesse bioma?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Período de colheita de gramíneas para a pecuária intensiva.",
+          "explanation": "Com o alagamento, a dinâmica da pecuária precisa ser ajustada, não sendo o momento de colheita de pasto seco.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Fase de migração das aves para o bioma Pampa em busca de calor.",
+          "explanation": "As aves utilizam o Pantanal justamente pela abundância de recursos durante as mudanças sazonais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Estação de hibernação para a maioria dos mamíferos da região.",
+          "explanation": "Animais do Pantanal não hibernam; eles adaptam seus comportamentos aos ciclos de água.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Tempo de cheia, com as planícies de terras baixas alagadas.",
+          "explanation": "O texto afirma explicitamente que o tempo de cheia ocorre de outubro a abril.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Período de seca extrema com risco de incêndios naturais.",
+          "explanation": "O período de seca no Pantanal ocorre nos meses que não compreendem o intervalo de cheia mencionado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "question": "Na composição da atmosfera terrestre, qual gás é o mais abundante, sendo essencial para a formação de proteínas nos seres vivos?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Gás Carbônico (CO₂ ).",
+          "explanation": "O CO₂ é um gás traço, compondo apenas cerca de 0,03% do ar.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Gás Nitrogênio (N₂ ).",
+          "explanation": "O nitrogênio representa 78% da atmosfera e é fundamental para a composição de proteínas e DNA.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Vapor d'água.",
+          "explanation": "Embora presente, o vapor d'água varia muito em quantidade e não é o gás predominante na composição seca.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Gás Oxigênio (O₂ ).",
+          "explanation": "O oxigênio compõe cerca de 21% da atmosfera, sendo o segundo mais abundante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Argônio.",
+          "explanation": "O argônio é um gás nobre presente em quantidades muito pequenas na mistura atmosférica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "question": "O Efeito Estufa é frequentemente confundido com o Aquecimento Global. Segundo o material, qual a principal diferença conceitual entre eles?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Não há diferença, ambos os termos descrevem a destruição da camada de ozônio.",
+          "explanation": "A camada de ozônio é outro tema; o efeito estufa trata da retenção de calor por gases como CO₂ e metano.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O efeito estufa é um fenômeno natural essencial para a vida, enquanto o aquecimento global é o seu agravamento.",
+          "explanation": "Sem o efeito estufa, a Terra seria muito fria; o problema é o aumento excessivo da temperatura (aquecimento global).",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "O efeito estufa resfria o planeta à noite, e o aquecimento global o esquenta de dia.",
+          "explanation": "O efeito estufa mantém o calor retido, evitando que a temperatura caia drasticamente à noite.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O efeito estufa é um erro humano, enquanto o aquecimento global é um ciclo solar.",
+          "explanation": "É o oposto: o efeito estufa é natural, e o aquecimento global atual é intensificado por ações humanas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O aquecimento global ocorre apenas nos oceanos, e o efeito estufa apenas na atmosfera.",
+          "explanation": "Ambos afetam todo o sistema climático terrestre, incluindo atmosfera e hidrosfera.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "question": "Ao ligar um interruptor e acender uma lâmpada, qual transformação de energia ocorre predominantemente para iluminar o ambiente?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Energia hidráulica em energia térmica.",
+          "explanation": "A energia hidráulica é usada para gerar eletricidade nas usinas, não diretamente luz em casa.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Energia química em energia mecânica.",
+          "explanation": "Essa transformação ocorre, por exemplo, na queima de combustíveis em um motor.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Energia elétrica em energia luminosa.",
+          "explanation": "A corrente elétrica que passa pelos fios é convertida em luz pela lâmpada.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Energia luminosa em energia química.",
+          "explanation": "Essa transformação é característica da fotossíntese realizada pelas plantas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Energia térmica em energia elétrica.",
+          "explanation": "Esta seria a função de uma usina termoelétrica, não de uma lâmpada residencial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "question": "As plantas da Caatinga desenvolveram adaptações para sobreviver ao clima semiárido. Qual das alternativas descreve uma dessas adaptações citadas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Produção constante de flores para atrair polinizadores diurnos.",
+          "explanation": "A maioria das plantas da região poupa energia e água, florescendo apenas em períodos favoráveis.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Ausência total de cutícula impermeável nas folhas.",
+          "explanation": "Pelo contrário, elas possuem revestimentos impermeáveis para evitar a evaporação excessiva.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Sistemas de armazenamento de água em raízes e caules modificados.",
+          "explanation": "Acumular água internamente permite que a planta sobreviva durante os longos períodos sem chuva.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Raízes aéreas que buscam umidade diretamente das nuvens.",
+          "explanation": "Plantas da Caatinga focam em buscar água no solo ou armazená-la, não em umidade atmosférica escassa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Folhas largas e finas para aumentar a absorção de luz solar.",
+          "explanation": "Folhas largas aumentariam a perda de água, o que é prejudicial em climas secos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "question": "Qual é a principal fonte de energia utilizada para a produção de eletricidade no Brasil, conforme mencionado no texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Energia Nuclear.",
+          "explanation": "A energia nuclear representa uma parcela muito pequena da matriz elétrica brasileira.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Energia Hidráulica (água).",
+          "explanation": "O texto afirma que a eletricidade no Brasil é de origem predominantemente hidráulica, vinda de usinas hidrelétricas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Queima de Carvão Mineral.",
+          "explanation": "O Brasil utiliza termoelétricas a carvão, mas a base principal continua sendo a força dos rios.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Energia Eólica (ventos).",
+          "explanation": "Embora em crescimento, a energia eólica não é a fonte predominante mencionada no material.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Energia Solar.",
+          "explanation": "A energia solar ainda é uma fonte alternativa e não a principal base da rede nacional descrita.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "question": "Por que o monóxido de carbono é classificado como um gás perigoso para os seres humanos, diferentemente do gás carbônico?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Porque ele é um gás muito tóxico que pode causar a morte.",
+          "explanation": "O monóxido de carbono interfere no transporte de oxigênio no sangue, sendo altamente letal.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Porque ele é um gás nobre que não reage com nada no corpo.",
+          "explanation": "Gases nobres como o hélio são inertes; o monóxido de carbono é altamente reativo e perigoso.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Porque ele é o componente principal do ar (78%).",
+          "explanation": "O componente principal do ar é o nitrogênio; o monóxido é um poluente em baixas concentrações.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Porque ele é o único responsável pelo efeito estufa natural.",
+          "explanation": "Os principais gases do efeito estufa são o CO₂ e o metano, e não o monóxido de carbono.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Porque ele é necessário para a fotossíntese e sua falta mata as plantas.",
+          "explanation": "O gás necessário para a fotossíntese é o dióxido de carbono (CO₂ ), não o monóxido.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "question": "O bioma Pampa, localizado no Rio Grande do Sul, é caracterizado por extensas áreas de gramíneas. Qual atividade econômica é historicamente favorecida por essa vegetação?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Cultivo de seringueiras para borracha.",
+          "explanation": "As seringueiras necessitam de clima tropical úmido de floresta, não de campos abertos.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Pecuária.",
+          "explanation": "A abundância de gramíneas (pastagem natural) torna a criação de gado uma atividade central no Pampa.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Silvicultura de eucalipto para papel.",
+          "explanation": "Embora ocorra, a pecuária é a atividade historicamente ligada à formação natural das gramíneas do bioma.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Turismo de neve e esportes de inverno.",
+          "explanation": "O Pampa tem invernos frios, mas não é a característica econômica principal baseada em sua vegetação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Mineração de ouro em encostas de montanhas.",
+          "explanation": "O Pampa é predominantemente plano ou levemente ondulado, sem grandes cadeias montanhosas mineiras.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "question": "De acordo com o material, qual a função das organelas celulares, como os ribossomos, nas células procariotas e eucariotas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Delimitar a célula e protegê-la de invasores.",
+          "explanation": "Esta é a função da membrana plasmática ou da parede celular.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Realizar a fotossíntese em todas as células animais.",
+          "explanation": "Células animais não realizam fotossíntese; essa é uma função de cloroplastos em vegetais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Promover a locomoção da célula em meios líquidos.",
+          "explanation": "A locomoção é geralmente realizada por cílios ou flagelos, não por ribossomos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Desempenhar funções específicas, como a produção de proteínas.",
+          "explanation": "Os ribossomos, especificamente, são responsáveis pela síntese proteica na célula.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Armazenar o material genético dentro de um núcleo organizado.",
+          "explanation": "O armazenamento no núcleo é função da carioteca em células eucariotas; procariotas não têm essa estrutura.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "question": "Um experimento com dois terrários é proposto no livro: um coberto com papel alumínio e outro transparente. O que se pretende testar com essa montagem?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O efeito da gravidade no crescimento das raízes.",
+          "explanation": "Para testar a gravidade, os terrários precisariam estar em posições diferentes, não cobertos.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A capacidade de pequenos animais de sobreviverem sem oxigênio.",
+          "explanation": "Ambos os terrários estão fechados, então a variável testada não é o suprimento de ar, mas a entrada de luz.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A resistência do plástico da garrafa PET ao calor.",
+          "explanation": "O objetivo é biológico (estudo do ecossistema) e não um teste de materiais de engenharia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A importância da luz e do calor para o ecossistema.",
+          "explanation": "O papel alumínio bloqueia a luz, permitindo observar como as plantas e animais reagem à sua ausência.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "A importância da água para a germinação.",
+          "explanation": "Para testar a água, seria necessário variar a rega, e não a cobertura de luz.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "question": "No estudo das aves, a diversidade de formatos de bicos é explicada por qual fator principal de adaptação?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O tipo de ninho que a ave precisa construir na floresta.",
+          "explanation": "Ninhos são consequências da habilidade do bico, mas a pressão evolutiva maior vem da sobrevivência alimentar.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A camuflagem contra predadores em diferentes biomas.",
+          "explanation": "A camuflagem é geralmente provida pela plumagem, não pelo formato estrutural do bico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A regulação da temperatura corporal em voos de longa distância.",
+          "explanation": "Bicos são feitos de queratina e osso, tendo pouca influência na termorregulação comparado às penas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A necessidade de atrair parceiros durante o acasalamento.",
+          "explanation": "Embora a aparência conte, o motor principal das adaptações de bico citadas é a alimentação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A disputa por comida e a adaptação a dietas específicas.",
+          "explanation": "Formatos como ganchos ou peneiras permitem que diferentes espécies explorem fontes de alimento distintas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "question": "O que ocorre com os Girinos da 'Perereca-de-vidro' após romperem a cápsula do ovo, evidenciando sua dependência de fatores abióticos?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Eles entram em estivação no solo seco até a próxima chuva.",
+          "explanation": "O texto descreve que o desenvolvimento ocorre durante o período chuvoso, diretamente na água.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Eles se alimentam imediatamente de frutos das árvores ciliares.",
+          "explanation": "Girinos geralmente possuem dietas diferentes dos adultos e dependem do meio aquático para se nutrir.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Eles caem na água e lá permanecem até completarem o desenvolvimento.",
+          "explanation": "A água é o fator abiótico essencial onde ocorre a fase larval desses anfíbios.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Eles voam para as copas das árvores em busca de insetos.",
+          "explanation": "Girinos são formas larvárias aquáticas e não possuem capacidade de voo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Eles mudam de cor para se tornarem opacos e fugirem de predadores.",
+          "explanation": "A transparência é uma característica do adulto; a questão foca no habitat necessário para o girino.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "question": "Qual é a relação entre os combustíveis fósseis e a qualidade do ar mencionada nas orientações finais do material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A queima desses combustíveis purifica o ar ao remover o excesso de nitrogênio.",
+          "explanation": "A queima de combustíveis fósseis é uma fonte de poluição, não de purificação.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Eles aumentam a umidade do ar, favorecendo a biodiversidade urbana.",
+          "explanation": "A combustão libera gases e partículas secas, sem impacto positivo na umidade benéfica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A substituição de bicicletas por carros a diesel melhora a circulação do ar.",
+          "explanation": "Carros a diesel emitem muitos poluentes; o incentivo é justamente para o transporte não poluente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Eles são fontes de energia limpa que não interferem no aquecimento global.",
+          "explanation": "Combustíveis fósseis liberam grandes quantidades de gases estufa e poluentes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Sua utilização excessiva libera poluentes que prejudicam a saúde pública.",
+          "explanation": "O material incentiva o uso de alternativas como biocombustíveis e caminhadas para reduzir esses danos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
