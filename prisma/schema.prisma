@@ -26,10 +26,151 @@ model User {
 }
 
 model Materia {
-  id          String  @id @default(uuid())
-  name        String  @unique
+  id          String     @id @default(uuid())
+  name        String     @unique
   description String?
   user        User[]
+  questions   Question[]
+  exams       Exam[]
 
   @@map("subjects")
+}
+
+enum DifficultyLevel {
+  facil
+  medio
+  dificil
+}
+
+enum AlternativeLabel {
+  A
+  B
+  C
+  D
+  E
+}
+
+enum ExamStatus {
+  draft
+  generated
+  archived
+}
+
+model Question {
+  id               String          @id @default(uuid())
+  materiaId        String          @map("materia_id")
+  materia          Materia         @relation(fields: [materiaId], references: [id], onDelete: Restrict)
+  statement        String
+  level            DifficultyLevel
+  importedFrom     String?         @map("imported_from")
+  sourceUrl        String?         @map("source_url")
+  sourceIndex      Int?            @map("source_index")
+  sourceCapturedAt DateTime?       @map("source_captured_at")
+  archivedAt       DateTime?       @map("archived_at")
+  createdAt        DateTime        @default(now()) @map("created_at")
+  updatedAt        DateTime        @updatedAt @map("updated_at")
+
+  alternatives         Alternative[]
+  examVersionQuestions ExamVersionQuestion[]
+  answerKeys           AnswerKey[]
+
+  @@unique([materiaId, statement])
+  @@index([materiaId])
+  @@index([materiaId, level])
+  @@index([materiaId, archivedAt])
+  @@map("questions")
+}
+
+model Alternative {
+  id            String           @id @default(uuid())
+  questionId    String           @map("question_id")
+  question      Question         @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  originalLabel AlternativeLabel @map("original_label")
+  text          String
+  explanation   String?
+  isCorrect     Boolean          @map("is_correct")
+
+  examVersionAlternatives ExamVersionAlternative[]
+
+  @@unique([questionId, originalLabel])
+  @@index([questionId])
+  @@map("alternatives")
+}
+
+model Exam {
+  id          String     @id @default(uuid())
+  materiaId   String     @map("materia_id")
+  materia     Materia    @relation(fields: [materiaId], references: [id], onDelete: Restrict)
+  title       String
+  description String?
+  status      ExamStatus @default(draft)
+  createdAt   DateTime   @default(now()) @map("created_at")
+  updatedAt   DateTime   @updatedAt @map("updated_at")
+
+  versions ExamVersion[]
+
+  @@index([materiaId])
+  @@index([status])
+  @@map("exams")
+}
+
+model ExamVersion {
+  id           String   @id @default(uuid())
+  examId       String   @map("exam_id")
+  exam         Exam     @relation(fields: [examId], references: [id], onDelete: Cascade)
+  versionLabel String   @map("version_label")
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  questions  ExamVersionQuestion[]
+  answerKeys AnswerKey[]
+
+  @@unique([examId, versionLabel])
+  @@index([examId])
+  @@map("exam_versions")
+}
+
+model ExamVersionQuestion {
+  id               String      @id @default(uuid())
+  examVersionId    String      @map("exam_version_id")
+  examVersion      ExamVersion @relation(fields: [examVersionId], references: [id], onDelete: Cascade)
+  questionId       String      @map("question_id")
+  question         Question    @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  questionPosition Int         @map("question_position")
+
+  alternatives ExamVersionAlternative[]
+
+  @@unique([examVersionId, questionPosition])
+  @@unique([examVersionId, questionId])
+  @@index([examVersionId])
+  @@index([questionId])
+  @@map("exam_version_questions")
+}
+
+model ExamVersionAlternative {
+  id                    String              @id @default(uuid())
+  examVersionQuestionId String              @map("exam_version_question_id")
+  examVersionQuestion   ExamVersionQuestion @relation(fields: [examVersionQuestionId], references: [id], onDelete: Cascade)
+  alternativeId         String              @map("alternative_id")
+  alternative           Alternative         @relation(fields: [alternativeId], references: [id], onDelete: Restrict)
+  alternativePosition   Int                 @map("alternative_position")
+
+  @@unique([examVersionQuestionId, alternativePosition], map: "uq_evalt_question_position")
+  @@unique([examVersionQuestionId, alternativeId], map: "uq_evalt_question_alternative")
+  @@index([examVersionQuestionId])
+  @@map("exam_version_alternatives")
+}
+
+model AnswerKey {
+  id               String           @id @default(uuid())
+  examVersionId    String           @map("exam_version_id")
+  examVersion      ExamVersion      @relation(fields: [examVersionId], references: [id], onDelete: Cascade)
+  questionId       String           @map("question_id")
+  question         Question         @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  questionPosition Int              @map("question_position")
+  originalLabel    AlternativeLabel @map("original_label")
+  shuffledLabel    AlternativeLabel @map("shuffled_label")
+
+  @@unique([examVersionId, questionPosition])
+  @@index([examVersionId])
+  @@map("answer_keys")
 }
