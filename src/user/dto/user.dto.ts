@@ -17,9 +17,6 @@ export class CreateUserDto {
   @IsString()
   @MinLength(6, { message: 'A senha deve ter pelo menos 6 caracteres.' })
   password!: string;
-
-  @IsString()
-  materiaId!: string;
 }
 
 export class UpdatedUserDto {
