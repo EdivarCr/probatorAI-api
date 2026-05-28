@@ -64,6 +64,15 @@ export class ExamsService {
       dto.level,
     );
 
+    for (const q of questions) {
+      const correct = q.alternatives.find((a) => a.isCorrect);
+      if (!correct) {
+        throw new BadRequestException(
+          `A questão "${q.statement.slice(0, 50)}..." não possui nenhuma alternativa correta configurada.`,
+        );
+      }
+    }
+
     const labels = dto.versionLabels?.length === dto.versionCount
       ? dto.versionLabels
       : Array.from({ length: dto.versionCount }, (_, i) =>
@@ -183,8 +192,13 @@ export class ExamsService {
     }
 
     const replacement = await this.questionsService.findOne(dto.replacementQuestionId);
+    const correctAlt = replacement.alternatives.find((a) => a.isCorrect);
+    if (!correctAlt) {
+      throw new BadRequestException(
+        `A questão substituta "${replacement.statement.slice(0, 50)}..." não possui nenhuma alternativa correta configurada.`,
+      );
+    }
     const shuffledAlternatives = fisherYates(replacement.alternatives);
-    const correctAlt = replacement.alternatives.find((a) => a.isCorrect)!;
     const shuffledIdx = shuffledAlternatives.findIndex((a) => a.id === correctAlt.id);
 
     try {
