@@ -10,7 +10,7 @@ export class QuestionsService {
   async findAll(query: QueryQuestionsDto) {
     const { materiaId, level, page = 1, limit = 20 } = query;
 
-    return this.prisma.question.findMany({
+    return await this.prisma.question.findMany({
       where: {
         ...(materiaId && { materiaId }),
         ...(level && { level }),
