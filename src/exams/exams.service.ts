@@ -30,18 +30,27 @@ export class ExamsService {
   ) {}
 
   async create(dto: CreateExamDto) {
-    const materia = await this.prisma.materia.findUnique({ where: { id: dto.materiaId } });
+    const materia = await this.prisma.materia.findUnique({
+      where: { id: dto.materiaId },
+    });
     if (!materia) throw new NotFoundException('Matéria não encontrada');
 
     return this.prisma.exam.create({
-      data: { title: dto.title, description: dto.description, materiaId: dto.materiaId },
+      data: {
+        title: dto.title,
+        description: dto.description,
+        materiaId: dto.materiaId,
+      },
     });
   }
 
   async findOne(id: string) {
     const exam = await this.prisma.exam.findUnique({
       where: { id },
-      include: { versions: { orderBy: { versionLabel: 'asc' } }, materia: true },
+      include: {
+        versions: { orderBy: { versionLabel: 'asc' } },
+        materia: true,
+      },
     });
     if (!exam) throw new NotFoundException('Prova não encontrada');
     return exam;
@@ -50,7 +59,10 @@ export class ExamsService {
   async findAll(materiaId?: string) {
     return this.prisma.exam.findMany({
       where: { ...(materiaId && { materiaId }) },
-      include: { materia: true, versions: { select: { id: true, versionLabel: true } } },
+      include: {
+        materia: true,
+        versions: { select: { id: true, versionLabel: true } },
+      },
       orderBy: { createdAt: 'desc' },
     });
   }
@@ -73,58 +85,78 @@ export class ExamsService {
       }
     }
 
-    const labels = dto.versionLabels?.length === dto.versionCount
-      ? dto.versionLabels
-      : Array.from({ length: dto.versionCount }, (_, i) =>
-          String.fromCharCode(65 + i),
-        );
+    const labels =
+      dto.versionLabels?.length === dto.versionCount
+        ? dto.versionLabels
+        : Array.from({ length: dto.versionCount }, (_, i) =>
+            String.fromCharCode(65 + i),
+          );
 
     const versions = await this.prisma.$transaction(
-      labels.map((versionLabel) => {
-        const shuffledQuestions = fisherYates(questions);
+      async (tx) => {
+        const promises = labels.map(async (versionLabel) => {
+          const shuffledQuestions = fisherYates(questions);
 
-        const examVersionQuestionsData = shuffledQuestions.map((q, qIdx) => {
-          const shuffledAlternatives = fisherYates(q.alternatives);
-          const correctAlt = q.alternatives.find((a) => a.isCorrect)!;
-          const shuffledIdx = shuffledAlternatives.findIndex((a) => a.id === correctAlt.id);
+          const examVersionQuestionsData = shuffledQuestions.map((q, qIdx) => {
+            const shuffledAlternatives = fisherYates(q.alternatives);
+            const correctAlt = q.alternatives.find((a) => a.isCorrect)!;
+            const shuffledIdx = shuffledAlternatives.findIndex(
+              (a) => a.id === correctAlt.id,
+            );
 
-          return {
-            questionId: q.id,
-            questionPosition: qIdx + 1,
-            originalLabel: correctAlt.originalLabel,
-            shuffledLabel: LABEL_MAP[shuffledIdx],
-            alternatives: shuffledAlternatives,
-          };
+            return {
+              questionId: q.id,
+              questionPosition: qIdx + 1,
+              originalLabel: correctAlt.originalLabel,
+              shuffledLabel: LABEL_MAP[shuffledIdx],
+              alternatives: shuffledAlternatives,
+            };
+          });
+
+          return tx.examVersion.create({
+            data: {
+              examId,
+              versionLabel,
+              questions: {
+                create: examVersionQuestionsData.map(
+                  ({ questionId, questionPosition, alternatives }) => ({
+                    questionId,
+                    questionPosition,
+                    alternatives: {
+                      create: alternatives.map((alt, altIdx) => ({
+                        alternativeId: alt.id,
+                        alternativePosition: altIdx,
+                      })),
+                    },
+                  }),
+                ),
+              },
+              answerKeys: {
+                create: examVersionQuestionsData.map(
+                  ({
+                    questionId,
+                    questionPosition,
+                    originalLabel,
+                    shuffledLabel,
+                  }) => ({
+                    questionId,
+                    questionPosition,
+                    originalLabel,
+                    shuffledLabel,
+                  }),
+                ),
+              },
+            },
+            include: { answerKeys: { orderBy: { questionPosition: 'asc' } } },
+          });
         });
 
-        return this.prisma.examVersion.create({
-          data: {
-            examId,
-            versionLabel,
-            questions: {
-              create: examVersionQuestionsData.map(({ questionId, questionPosition, alternatives }) => ({
-                questionId,
-                questionPosition,
-                alternatives: {
-                  create: alternatives.map((alt, altIdx) => ({
-                    alternativeId: alt.id,
-                    alternativePosition: altIdx,
-                  })),
-                },
-              })),
-            },
-            answerKeys: {
-              create: examVersionQuestionsData.map(({ questionId, questionPosition, originalLabel, shuffledLabel }) => ({
-                questionId,
-                questionPosition,
-                originalLabel,
-                shuffledLabel,
-              })),
-            },
-          },
-          include: { answerKeys: { orderBy: { questionPosition: 'asc' } } },
-        });
-      }),
+        return Promise.all(promises);
+      },
+      {
+        maxWait: 15000,
+        timeout: 30000,
+      },
     );
 
     await this.prisma.exam.update({
@@ -138,7 +170,10 @@ export class ExamsService {
   async regenerate(examId: string, dto: GenerateVersionsDto) {
     await this.findOne(examId);
     await this.prisma.examVersion.deleteMany({ where: { examId } });
-    await this.prisma.exam.update({ where: { id: examId }, data: { status: ExamStatus.draft } });
+    await this.prisma.exam.update({
+      where: { id: examId },
+      data: { status: ExamStatus.draft },
+    });
     return this.generateVersions(examId, dto);
   }
 
@@ -176,22 +211,35 @@ export class ExamsService {
     return version.answerKeys;
   }
 
-  async replaceQuestion(versionId: string, position: number, dto: ReplaceQuestionDto) {
+  async replaceQuestion(
+    versionId: string,
+    position: number,
+    dto: ReplaceQuestionDto,
+  ) {
     const version = await this.prisma.examVersion.findUnique({
       where: { id: versionId },
       include: { questions: true },
     });
     if (!version) throw new NotFoundException('Versão não encontrada');
 
-    const target = version.questions.find((q) => q.questionPosition === position);
-    if (!target) throw new NotFoundException(`Questão na posição ${position} não encontrada`);
+    const target = version.questions.find(
+      (q) => q.questionPosition === position,
+    );
+    if (!target)
+      throw new NotFoundException(
+        `Questão na posição ${position} não encontrada`,
+      );
 
     const alreadyUsed = version.questions.map((q) => q.questionId);
     if (alreadyUsed.includes(dto.replacementQuestionId)) {
-      throw new BadRequestException('A questão substituta já está sendo usada nesta versão');
+      throw new BadRequestException(
+        'A questão substituta já está sendo usada nesta versão',
+      );
     }
 
-    const replacement = await this.questionsService.findOne(dto.replacementQuestionId);
+    const replacement = await this.questionsService.findOne(
+      dto.replacementQuestionId,
+    );
     const correctAlt = replacement.alternatives.find((a) => a.isCorrect);
     if (!correctAlt) {
       throw new BadRequestException(
@@ -199,7 +247,9 @@ export class ExamsService {
       );
     }
     const shuffledAlternatives = fisherYates(replacement.alternatives);
-    const shuffledIdx = shuffledAlternatives.findIndex((a) => a.id === correctAlt.id);
+    const shuffledIdx = shuffledAlternatives.findIndex(
+      (a) => a.id === correctAlt.id,
+    );
 
     try {
       return await this.prisma.$transaction([
