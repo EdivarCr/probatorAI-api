@@ -406,13 +406,12 @@ Body (todos os campos opcionais):
 
 ---
 
-## 3.5) Perfil do usuário logado (professor)
+## 3.5) Perfil do usuário logado (usuário autenticado)
 
 ### GET `/user/me`
 
 - Auth: obrigatória
-- Role: `professor`
-
+- Role: qualquer (ex.: `admin` ou `professor`)
 #### Request
 
 Headers:
