@@ -437,13 +437,12 @@ Authorization: Bearer <access_token_professor>
 
 ---
 
-## 3.6) Atualizar usuário logado (professor)
+## 3.6) Atualizar usuário logado (usuário autenticado)
 
 ### PUT `/user/me`
 
 - Auth: obrigatória
-- Role: `professor`
-
+- Role: qualquer (ex.: `admin` ou `professor`)
 #### Request
 
 Headers:
