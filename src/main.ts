@@ -6,12 +6,18 @@ import { ValidationPipe } from '@nestjs/common';
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   app.enableCors();
+  app.useGlobalPipes(
+    new ValidationPipe({
+      transform: true,
+      whitelist: true,
+      transformOptions: { enableImplicitConversion: true },
+    }),
+  );
 
   if (process.env.NODE_ENV !== 'production') {
     await app.listen(process.env.PORT ?? 3000);
   }
 
-  app.useGlobalPipes(new ValidationPipe({ transform: true, whitelist: true }));
   await app.init();
   return app.getHttpAdapter().getInstance() as Express;
 }
