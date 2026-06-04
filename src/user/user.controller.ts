@@ -42,7 +42,6 @@ export class UserController {
     return this.userService.updateUser(id, updatedUserDto);
   }
 
-  @Roles(Role.Professor)
   @Put('me')
   async updateMe(
     @Request() req: AuthenticatedRequest,
@@ -51,13 +50,11 @@ export class UserController {
     return this.userService.updateUser(req.user.sub!, updatedUserDto);
   }
 
-  @Roles(Role.Professor)
   @Delete('me')
   async deleteMe(@Request() req: AuthenticatedRequest) {
     return this.userService.deleteUser(req.user.sub!);
   }
 
-  @Roles(Role.Professor)
   @Get('me')
   meProfile(@Request() req: AuthenticatedRequest) {
     return req.user;

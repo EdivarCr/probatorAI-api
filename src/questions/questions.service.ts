@@ -8,7 +8,9 @@ export class QuestionsService {
   constructor(private prisma: PrismaService) {}
 
   async findAll(query: QueryQuestionsDto) {
-    const { materiaId, level, page = 1, limit = 20 } = query;
+    const { materiaId, level } = query;
+    const page = Math.max(1, Number(query.page) || 1);
+    const limit = Math.min(100, Math.max(1, Number(query.limit) || 20));
 
     return await this.prisma.question.findMany({
       where: {
