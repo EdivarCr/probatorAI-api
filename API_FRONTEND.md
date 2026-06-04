@@ -489,13 +489,12 @@ Body (todos os campos opcionais):
 
 ---
 
-## 3.7) Excluir usuário logado (professor)
+## 3.7) Excluir usuário logado (usuário autenticado)
 
 ### DELETE `/user/me`
 
 - Auth: obrigatória
-- Role: `professor`
-
+- Role: qualquer (ex.: `admin` ou `professor`)
 #### Request
 
 Headers:
