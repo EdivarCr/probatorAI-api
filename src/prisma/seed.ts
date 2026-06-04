@@ -150,10 +150,29 @@ async function main() {
     let skipped = 0;
 
     for (const q of data.questions) {
-      if (!q.question?.trim() || !Array.isArray(q.alternatives) || q.alternatives.length === 0) {
+      const statement = q.question?.trim();
+      if (!statement || !Array.isArray(q.alternatives) || q.alternatives.length === 0) {
         skipped++;
         continue;
       }
+
+      // Checa duplicata pela constraint única (materiaId, statement)
+      const exists = await prisma.question.findFirst({
+        where: { materiaId, statement },
+        select: { id: true },
+      });
+
+      if (exists) {
+        skipped++;
+        continue;
+      }
+
+      try {
+        await prisma.question.create({
+          data: {
+            materiaId,
+            statement,
+            level: data.level,
 
       // Checa duplicata pela constraint única (materiaId, statement)
       const exists = await prisma.question.findFirst({
