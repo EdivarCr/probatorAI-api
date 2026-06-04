@@ -9,6 +9,7 @@
     "build": "prisma generate && nest build",
     "postinstall": "prisma generate",
     "seed": "ts-node src/prisma/seed.ts",
+    "seed:prod": "DATABASE_URL=\"postgresql://neondb_owner:npg_3FbcuDJjGY0s@ep-floral-math-an7oyuxd-pooler.c-6.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require\" ts-node src/prisma/seed.ts",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
     "start:dev": "nest start --watch",

@@ -1,0 +1,1240 @@
+{
+  "capturedAt": "2026-04-29T12:14:24.861Z",
+  "source": "notebooklm",
+  "url": "blob:https://2vibx7py5kgeddt7keth0f7rpb2vkvcjb5m8ycxfq2zkw3lvq8-h903225159.scf.usercontent.goog/3de48006-182d-41f4-a9c5-6dba15f39ce3",
+  "totalQuestions": 30,
+  "subject": "geografia",
+  "level": "dificil",
+  "questions": [
+    {
+      "index": 1,
+      "question": "Qual fator foi primordial para que o Reino Unido se tornasse o pioneiro na Revolução Industrial, além da disponibilidade de capitais?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A manutenção de um sistema de produção exclusivamente artesanal nas cidades.",
+          "explanation": "A transição para o sistema fabril e mecanizado foi justamente o que definiu a Revolução Industrial.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A descoberta precoce de grandes reservas de petróleo no Mar do Norte.",
+          "explanation": "O petróleo do Mar do Norte só passou a ser explorado de forma significativa muito tempo após a Primeira Revolução Industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O controle do Estado pela burguesia e o acúmulo de capitais no período mercantilista.",
+          "explanation": "A ascensão política da burguesia permitiu a criação de leis e infraestrutura que favoreceram o investimento industrial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "A abundância de recursos naturais em suas colônias americanas após a independência.",
+          "explanation": "A independência das colônias americanas ocorreu após o início do processo industrial britânico, não sendo o fator motor inicial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A proibição do comércio internacional para proteger o mercado interno.",
+          "explanation": "O Reino Unido buscou a expansão dos mercados e a lógica do mercado internacional foi fundamental para o capitalismo industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "As 'Leis dos Cercamentos' no Reino Unido desempenharam um papel social e econômico crucial para a industrialização ao:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Converter camponeses em mão de obra barata e disponível para as fábricas urbanas.",
+          "explanation": "A expulsão dos camponeses das terras comunais gerou um êxodo rural que abasteceu as cidades com trabalhadores fabris.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Estimular a policultura de subsistência para alimentar a crescente população urbana.",
+          "explanation": "As terras cercadas priorizaram a pecuária lanígera para fornecer matéria-prima à indústria têxtil.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Impedir o crescimento desordenado das cidades industriais através de limites territoriais.",
+          "explanation": "Pelo contrário, essas leis aceleraram o crescimento urbano acelerado e muitas vezes precário.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Garantir que a nobreza permanecesse vinculada às atividades exclusivamente agrícolas.",
+          "explanation": "A nobreza e a burguesia se voltaram para atividades de mercado, como a produção de lã para a indústria.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Promover a reforma agrária e distribuir terras aos camponeses pobres.",
+          "explanation": "As leis fizeram o oposto, concentrando terras nas mãos da nobreza e de grandes proprietários.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "Durante a Primeira Revolução Industrial, quais foram os setores industriais considerados inovadores e motores do crescimento?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Têxtil, siderúrgica e naval.",
+          "explanation": "O têxtil foi o pioneiro, enquanto a siderurgia e a naval se expandiram com o uso do carvão e do ferro.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Petroquímica, informática e biotecnologia.",
+          "explanation": "Estes setores pertencem à Segunda e Terceira Revoluções Industriais, muito posteriores ao período inicial britânico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Aeronáutica, robótica e farmacêutica.",
+          "explanation": "Estes são setores de alta tecnologia associados à revolução técnico-científica contemporânea.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Agronegócio, mineração de ouro e manufatura de luxo.",
+          "explanation": "Embora importantes, não definem as inovações técnicas mecanizadas da Primeira Revolução Industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Automobilística, elétrica e de telecomunicações.",
+          "explanation": "Estes ramos ganharam força apenas na Segunda Revolução Industrial, no final do século XIX.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "question": "A industrialização dos Estados Unidos teve início na região Nordeste, em um trecho conhecido como Nova Inglaterra. Qual fator cultural é frequentemente associado à acumulação de capital nessa região?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A influência do budismo na busca por harmonia e equilíbrio produtivo.",
+          "explanation": "O budismo não teve papel central na formação cultural das colônias de povoamento americanas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O sistema de plantation baseado no trabalho escravo de larga escala.",
+          "explanation": "O sistema de plantation era predominante no Sul dos EUA, enquanto o Norte focava em pequenas propriedades e trabalho familiar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A tradição xintoísta de rígida disciplina no trabalho.",
+          "explanation": "O xintoísmo é uma religião predominante no Japão, não nas colônias americanas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A ética do trabalho e o espírito empreendedor do protestantismo.",
+          "explanation": "O protestantismo, especialmente o puritanismo na Nova Inglaterra, valorizava o trabalho e a poupança como sinais de virtude.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "A política de isolacionismo absoluto herdada do Império Britânico.",
+          "explanation": "Os EUA mantiveram intenso intercâmbio comercial e fluxo migratório com a Europa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "question": "Sobre o 'Manufacturing Belt' (Cinturão Industrial) nos Estados Unidos, é correto afirmar que:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Foi criado para evitar a poluição nas grandes cidades litorâneas do Pacífico.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Localiza-se no Nordeste e Grandes Lagos, sendo historicamente o coração industrial do país.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Representa hoje mais de 90% da produção industrial total do país.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Surgiu no século XX nas regiões litorâneas do Golfo do México devido ao petróleo.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Consiste exclusivamente em empresas de alta tecnologia, como as do Vale do Silício.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "question": "O Japão iniciou sua modernização em 1868, marcando o fim do xogunato. Como ficou conhecido esse período de reformas aceleradas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Revolução Cultural Japonesa.",
+          "explanation": "Este termo não é utilizado para descrever o processo de industrialização japonês do século XIX.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Milagre Econômico Japonês.",
+          "explanation": "Este termo refere-se geralmente à rápida reconstrução e crescimento do Japão após a Segunda Guerra Mundial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Restauração Tokugawa.",
+          "explanation": "O período Tokugawa foi justamente o que terminou para dar lugar às reformas Meiji.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Plano Toyotista.",
+          "explanation": "O toyotismo é um modelo de organização da produção que surgiu décadas após o início da Era Meiji.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Era Meiji.",
+          "explanation": "A Era Meiji significou 'governo ilustrado' e foi o marco inicial da industrialização e ocidentalização técnica do Japão.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "question": "Um dos problemas estruturais que impulsionou o imperialismo japonês no início do século XX foi:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A escassez crônica de matérias-primas e de recursos energéticos em seu território.",
+          "explanation": "A falta de minérios e combustíveis forçou o Japão a buscar territórios na Ásia para suprir sua indústria.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A falta de mão de obra qualificada para operar as novas fábricas.",
+          "explanation": "O Japão investiu massivamente em educação universal, garantindo trabalhadores aptos para a indústria.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O domínio absoluto das rotas comerciais no Atlântico.",
+          "explanation": "O foco de influência e expansão japonesa sempre foi o Oceano Pacífico e o continente asiático.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A proibição do uso de tecnologia estrangeira pelo imperador.",
+          "explanation": "A Era Meiji foi marcada justamente pela abertura à tecnologia e produtos estrangeiros.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O excesso de terras agricultáveis que precisavam de novos mercados consumidores.",
+          "explanation": "O Japão possui território montanhoso e escassez de terras cultiváveis.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "question": "O modelo de organização industrial que substituiu a produção em massa rígida e introduziu a flexibilidade e o controle de qualidade no Japão é o:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Socialismo Planificado.",
+          "explanation": "Este modelo foi adotado pela União Soviética e China, não pelo Japão capitalista.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Toyotismo.",
+          "explanation": "O toyotismo foca na produção 'just-in-time', eliminação de desperdícios e flexibilidade produtiva.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Mercantilismo Industrial.",
+          "explanation": "O mercantilismo é uma fase anterior do capitalismo, baseada no comércio e acumulação de metais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Keynesianismo Fabril.",
+          "explanation": "O keynesianismo é uma doutrina econômica de intervenção estatal, não um método de organização de chão de fábrica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Fordismo.",
+          "explanation": "O fordismo baseava-se na produção em série e em massa, sendo um modelo mais rígido.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "question": "Por que a Alemanha e o Japão são considerados países de industrialização 'tardia'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Porque dependem exclusivamente de tecnologia importada dos países do BRICS.",
+          "explanation": "Alemanha e Japão são exportadores de tecnologia de ponta para o mundo todo.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Porque sua industrialização ocorreu na segunda metade do século XIX, após os pioneiros.",
+          "explanation": "Em comparação com o Reino Unido (século XVIII) e França, a Alemanha e o Japão se industrializaram décadas depois.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Devido ao fato de terem sido derrotados na Segunda Guerra Mundial.",
+          "explanation": "A derrota na guerra interrompeu seu crescimento, mas o processo industrial já havia começado no século XIX.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Porque só iniciaram sua produção industrial após a Terceira Revolução Industrial.",
+          "explanation": "Ambos já eram potências industriais muito antes da revolução técnica atual.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Pelo fato de terem economias baseadas apenas na exportação de produtos agrícolas até 1950.",
+          "explanation": "Ambos já possuíam parques industriais pesados e militares robustos no início do século XX.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "question": "No Reino Unido contemporâneo, áreas antes dinâmicas conhecidas como 'regiões negras' entraram em decadência. Isso se deve a:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "À descoberta de ouro em Londres, que concentrou todos os investimentos na capital.",
+          "explanation": "Londres atrai investimentos por ser um centro financeiro e global, não por mineração de ouro.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Mudanças no padrão tecnológico e energético que reduziram a importância do carvão.",
+          "explanation": "A transição para o petróleo e eletricidade enfraqueceu as bacias carboníferas que sustentavam a indústria antiga.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Uma lei ambiental que proibiu qualquer tipo de atividade industrial no norte do país.",
+          "explanation": "Não houve proibição total, mas sim uma obsolescência econômica dos setores tradicionais (têxtil e naval).",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Um aumento súbito na fertilidade do solo que atraiu as indústrias para o campo.",
+          "explanation": "A dinâmica industrial não depende da fertilidade do solo, mas de infraestrutura e tecnologia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "À migração maciça de empresas britânicas para a China no século XVIII.",
+          "explanation": "A China só emergiu como polo de atração industrial global no final do século XX.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "question": "Qual é a característica marcante da industrialização em países como Brasil, México e Argentina segundo o material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Foram os primeiros a utilizar a máquina a vapor em escala global.",
+          "explanation": "O uso pioneiro da máquina a vapor ocorreu no Reino Unido.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Tornaram-se as maiores potências mundiais no início do século XIX.",
+          "explanation": "Nesta época, estes países ainda eram economias agroexportadoras dependentes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Adotaram o socialismo planificado logo após suas independências.",
+          "explanation": "Estes países mantiveram economias de mercado integradas ao sistema capitalista global.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Saltaram diretamente para a revolução biotecnológica sem passar pela industrialização pesada.",
+          "explanation": "Eles passaram por fases de industrialização de base e substituição de importações.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Iniciaram seu processo industrial de forma lenta no final do século XIX.",
+          "explanation": "Embora tenham se tornado independentes cedo, a transição para a indústria foi gradual e tardia frente aos pioneiros.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "question": "A atual revolução tecnológica no Reino Unido deslocou o dinamismo industrial para o centro-sul. Qual cidade se destaca por abrigar um importante parque tecnológico de alta tecnologia?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Liverpool.",
+          "explanation": "Liverpool foi um porto importante na indústria antiga, mas não é o principal tecnopolo mencionado.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Manchester.",
+          "explanation": "Manchester é o símbolo histórico da indústria têxtil da Primeira Revolução Industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Glasgow.",
+          "explanation": "Glasgow, na Escócia, está associada à indústria naval e siderúrgica tradicional.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Birmingham.",
+          "explanation": "Birmingham foi um centro diversificado da indústria clássica, mas a inovação de ponta foca em Cambridge e Londres.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Cambridge.",
+          "explanation": "Cambridge é citada como sede de empresas de alta tecnologia, formando um importante tecnopolo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "question": "Nos Estados Unidos, o que motivou a industrialização efetiva da região Sul no início do século XX?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O fim da Guerra de Secessão com a vitória dos sulistas escravocratas.",
+          "explanation": "Os sulistas foram derrotados, o que abriu caminho para a hegemonia do modelo industrial nortista.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A abundância de jazidas de minério de ferro no Lago Superior.",
+          "explanation": "O minério de ferro do Lago Superior alimentou a indústria do Nordeste e Grandes Lagos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A descoberta de enormes lençóis petrolíferos, principalmente no Texas.",
+          "explanation": "O petróleo transformou a matriz energética e atraiu indústrias petroquímicas e afins para o Sul.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "A proibição do plantio de algodão para forçar a criação de fábricas.",
+          "explanation": "O algodão continuou sendo cultivado e foi um dos fatores de atração para as primeiras tecelagens do Sul.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A migração forçada de operários de Detroit para o Texas por falta de moradia.",
+          "explanation": "A migração industrial para o Sul (Sun Belt) foi motivada por custos menores e novos recursos energéticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "question": "A economia japonesa é descrita como uma 'gigantesca importadora' e 'gigantesca exportadora'. Essa dinâmica se explica por:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Importar tecnologia russa e exportar mão de obra para os Estados Unidos.",
+          "explanation": "O Japão desenvolve sua própria tecnologia de ponta e retém mão de obra qualificada.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Importar carvão mineral chinês apenas para gerar eletricidade doméstica.",
+          "explanation": "A importação de recursos visa sustentar todo o seu vasto parque industrial exportador.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Importar matérias-primas e energia para exportar produtos de alto valor agregado.",
+          "explanation": "Sem recursos naturais próprios, o Japão baseia sua economia na transformação técnica de recursos importados.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Importar produtos industrializados de luxo e exportar arroz e peixes.",
+          "explanation": "O Japão é um grande exportador de bens de alta tecnologia, não de produtos primários.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Importar automóveis europeus para reexportá-los para a Ásia.",
+          "explanation": "O Japão é um dos maiores produtores mundiais de automóveis, exportando sua própria produção.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "question": "Como a desmilitarização do Japão após a Segunda Guerra Mundial beneficiou seu crescimento industrial?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Permitiu que o país focasse todo o seu orçamento na conquista de Marte.",
+          "explanation": "Os investimentos foram direcionados para a economia civil e reconstrução interna.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Impediu que o país participasse do comércio internacional por 50 anos.",
+          "explanation": "Pelo contrário, o Japão tornou-se uma das nações mais integradas ao comércio global.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Liberou recursos para investimentos maciços em indústrias civis de bens de consumo.",
+          "explanation": "Sem gastos militares elevados, o capital pôde ser direcionado para setores dinâmicos da economia de bens duráveis.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Forçou o país a abandonar a fabricação de qualquer tipo de máquina.",
+          "explanation": "O Japão fortaleceu sua indústria de bens de capital e intermediários como base para o consumo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Garantiu que os Estados Unidos comprassem todos os produtos agrícolas japoneses.",
+          "explanation": "O benefício foi na capacidade de investimento doméstico em tecnologia industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "question": "Qual destes países é citado como um destino recente de investimentos alemães devido aos custos menores e proximidade com a União Europeia?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Argentina.",
+          "explanation": "Embora receba investimentos, não é o foco geográfico imediato da logística de exportação alemã para a UE.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Canadá.",
+          "explanation": "O Canadá é um país de industrialização desenvolvida e não um polo de baixo custo para a Alemanha.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Japão.",
+          "explanation": "O Japão é um concorrente tecnológico da Alemanha, com custos de produção também elevados.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Austrália.",
+          "explanation": "A distância geográfica inviabiliza a estratégia de proximidade com o mercado da União Europeia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Turquia.",
+          "explanation": "A Turquia recebe investimentos para fábricas que buscam competitividade e acesso ao mercado europeu.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "question": "A industrialização da Rússia e da China diferencia-se dos pioneiros principalmente por:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Basear-se em economias planificadas e propriedade estatal após revoluções socialistas.",
+          "explanation": "Ao contrário do modelo liberal-burguês, o Estado centralizou o planejamento e os meios de produção.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Ter sido um processo puramente agrícola sem a construção de fábricas.",
+          "explanation": "A industrialização pesada foi um pilar central dos planos quinquenais e da modernização chinesa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ter ocorrido totalmente antes da invenção da máquina a vapor.",
+          "explanation": "Ambas ocorreram bem depois; a China, especificamente, após 1949.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Focar apenas na produção de bens de luxo para a nobreza europeia.",
+          "explanation": "O foco foi a indústria de base, pesada e militar para consolidar o poder nacional.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ser financiada exclusivamente por capitais da Nova Inglaterra.",
+          "explanation": "Estes países buscaram autonomia ou cooperação mútua (como o apoio soviético à China).",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "question": "O que caracteriza a 'Segunda Revolução Industrial' em termos de fontes energéticas e setores?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Dependência exclusiva de lenha e tração animal para transportes.",
+          "explanation": "A industrialização é definida justamente pela superação dessas fontes de energia limitadas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Utilização do carvão mineral e indústria têxtil manual.",
+          "explanation": "Estas são características da Primeira Revolução Industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Uso da energia nuclear e expansão da internet global.",
+          "explanation": "Estas características estão ligadas à Terceira Revolução Industrial ou Revolução Técnico-Científica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Uso do petróleo e eletricidade; indústrias petroquímica e automobilística.",
+          "explanation": "A descoberta de novas fontes de energia permitiu o surgimento de motores a combustão e o uso da eletricidade.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Foco total em biotecnologia e engenharia genética de precisão.",
+          "explanation": "Estes ramos pertencem à fase mais recente da industrialização moderna.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "question": "A megalópole japonesa, que concentra cerca de 80% da população e indústria, localiza-se principalmente:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Na fronteira com a Coreia do Norte para facilitar o comércio.",
+          "explanation": "Não há fronteira terrestre e o comércio com a Coreia do Norte é quase inexistente.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Em torno das bacias carboníferas que restaram da Era Meiji.",
+          "explanation": "A indústria japonesa atual é diversificada e não depende de bacias carboníferas locais inexistentes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "No interior das montanhas do norte de Hokkaido.",
+          "explanation": "A geografia montanhosa dificulta a ocupação humana e industrial no interior.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ao longo do eixo Tóquio-Osaka, no sudeste da ilha de Honshu.",
+          "explanation": "Esta faixa litorânea oferece as melhores condições logísticas para portos e cidades.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Exclusivamente nas ilhas menores do sul, como Okinawa.",
+          "explanation": "O coração econômico está nas ilhas centrais, onde Honshu é a mais importante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "question": "Em 2010, os cinco maiores países emergentes concentravam 62% da produção industrial do grupo em desenvolvimento. Qual país lidera esse crescimento?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "China.",
+          "explanation": "A China emergiu como a 'fábrica do mundo' e domina a produção industrial entre os emergentes.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "África do Sul.",
+          "explanation": "É a menor economia entre os BRICS e possui uma base industrial menos diversificada que a chinesa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Argentina.",
+          "explanation": "A Argentina enfrenta processos de desindustrialização e menor crescimento em comparação com os líderes asiáticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Brasil.",
+          "explanation": "Embora importante, o Brasil perdeu peso relativo frente ao crescimento explosivo da Ásia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Turquia.",
+          "explanation": "A Turquia cresce, mas seu valor de produção industrial é superado significativamente pela China.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "question": "O Reino Unido foi ultrapassado economicamente por países que se industrializaram depois. Qual fator ajuda a explicar essa perda de poder relativo?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A falta de acesso ao mar, dificultando as exportações britânicas.",
+          "explanation": "O Reino Unido é uma nação insular com excelente acesso marítimo.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O Reino Unido abandonou completamente o uso de máquinas no século XX.",
+          "explanation": "O país continuou industrializado, mas o ritmo de crescimento de concorrentes foi maior.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O pioneirismo gerou um parque industrial que se tornou obsoleto frente às inovações de novos competidores.",
+          "explanation": "Países como EUA e Alemanha começaram com tecnologias mais novas e métodos de produção mais eficientes.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "A descoberta de ouro em suas colônias africanas causou a 'doença holandesa'.",
+          "explanation": "Este não foi o fator principal, a questão é a competitividade industrial tecnológica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Uma lei europeia que obrigou o Reino Unido a reduzir seu PIB para equilibrar a região.",
+          "explanation": "Não existem leis internacionais que limitem o crescimento do PIB de forma compulsória.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "question": "Sobre a desconcentração industrial nos Estados Unidos, para qual região as indústrias têm se deslocado nas últimas décadas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Apenas para o centro geográfico do país, longe de qualquer litoral.",
+          "explanation": "O deslocamento priorizou regiões com recursos ou mercados dinâmicos no Sul e costa do Pacífico.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Para o Alasca, devido ao aquecimento global.",
+          "explanation": "O Alasca permanece como uma região periférica em termos de produção fabril.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Para as reservas indígenas, onde a tributação é zero.",
+          "explanation": "A expansão industrial focou em grandes polos urbanos e hubs logísticos no Sun Belt.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "De volta para a Inglaterra em busca de raízes históricas.",
+          "explanation": "O movimento é interno ou para países com custos de produção ainda menores (offshore).",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Para o Sul e o Oeste (Sun Belt).",
+          "explanation": "Fatores como menores impostos, mão de obra mais barata e novas fontes de energia atraíram as empresas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "question": "O termo 'Zaibatsus' no Japão refere-se a:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Portos de águas profundas exclusivos para o comércio de seda.",
+          "explanation": "O termo descreve uma forma de organização de capital, não uma infraestrutura física.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Grandes conglomerados empresariais que dominaram a economia até a 2ª Guerra Mundial.",
+          "explanation": "Eram grupos controlados por famílias que impulsionaram a industrialização inicial japonesa.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Camponeses que se revoltaram contra a Era Meiji.",
+          "explanation": "Os zaibatsus eram parte do establishment econômico apoiado pelo Estado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Pequenos robôs domésticos exportados para os Estados Unidos.",
+          "explanation": "Este conceito é anacrônico para o período de formação industrial japonesa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Técnicas de agricultura de terraços usadas nas montanhas.",
+          "explanation": "O termo está ligado à organização corporativa industrial e financeira.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "question": "O 'ENIAC', citado no material como o primeiro computador, foi desenvolvido em 1946 nos Estados Unidos. A qual fase da industrialização ele pertence?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Era Toyotista de Produção.",
+          "explanation": "O ENIAC é uma inovação tecnológica de produto/processo, enquanto o toyotismo é uma forma de organização.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Primeira Revolução Industrial.",
+          "explanation": "Esta fase foi dominada pela mecânica simples e pelo vapor.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Revolução Comercial.",
+          "explanation": "A revolução comercial ocorreu entre os séculos XV e XVIII, baseada no comércio marítimo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Era do Carvão e do Aço.",
+          "explanation": "Este período refere-se à transição da primeira para a segunda revolução industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Terceira Revolução Industrial (Técnico-Científica).",
+          "explanation": "A informática e a computação são os pilares da revolução que começou em meados do século XX.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "question": "A crise econômica japonesa iniciada nos anos 1990 foi causada principalmente por:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A proibição do uso de robôs na linha de montagem.",
+          "explanation": "O Japão é um dos líderes mundiais no uso e fabricação de robôs industriais.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Uma praga que destruiu toda a produção de seda do país.",
+          "explanation": "A economia japonesa já era industrial e tecnológica, não mais dependente da seda agrícola.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A falta total de exportações para os mercados ocidentais.",
+          "explanation": "O Japão continuou exportando, mas sua economia interna estagnou.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Especulação com ações e imóveis, gerando uma enorme bolha financeira.",
+          "explanation": "O estouro da bolha imobiliária e de ativos na Bolsa de Tóquio interrompeu décadas de crescimento.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Uma invasão militar estrangeira que destruiu as fábricas.",
+          "explanation": "O Japão não sofreu invasões militares após 1945.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "question": "No início do capitalismo industrial, qual era a função esperada do Estado segundo a burguesia?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Atuar como o único proprietário de todos os meios de produção.",
+          "explanation": "Esta descrição refere-se ao socialismo, não ao capitalismo industrial nascente.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Banir o comércio internacional para evitar a fuga de ouro.",
+          "explanation": "Essa era uma visão metalista/mercantilista, superada pelo liberalismo industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Controlar diretamente todos os preços e a produção das fábricas.",
+          "explanation": "A burguesia buscava a liberdade de mercado, com menos interferência direta.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Distribuir os lucros das empresas igualmente entre todos os cidadãos.",
+          "explanation": "O sistema era capitalista, focado no lucro privado e na acumulação individual.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Garantir a livre-iniciativa, o direito à propriedade e apoiar empresas nacionais.",
+          "explanation": "O Estado deveria prover o ambiente jurídico e de infraestrutura para que o capital privado operasse.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "question": "A cidade de Birmingham, no Reino Unido, destaca-se por ser:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O único porto do país capaz de receber carvão americano.",
+          "explanation": "Sendo uma cidade no interior (Midlands), Birmingham depende de conexões ferroviárias e canais, não sendo um porto marítimo principal.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A capital da Escócia e polo de exploração de petróleo.",
+          "explanation": "A capital da Escócia é Edimburgo; Birmingham fica no centro da Inglaterra.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O principal centro industrial britânico depois de Londres, com parque diversificado.",
+          "explanation": "Birmingham polariza diversas cidades e mantém uma indústria variada.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "A sede mundial exclusiva de todas as empresas de informática.",
+          "explanation": "As empresas de informática estão dispersas, com polos maiores em Londres e Cambridge.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Um pequeno vilarejo agrícola que se recusou a industrializar.",
+          "explanation": "Birmingham é uma das maiores e mais industrializadas áreas urbanas do Reino Unido.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "question": "Qual fator natural no Nordeste dos Estados Unidos facilitou o escoamento da produção industrial inicial?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A rede de rios que ligava os Grandes Lagos ao Oceano Atlântico.",
+          "explanation": "Essa hidrovia natural e canalizada foi essencial para o transporte de cargas pesadas como aço e carvão.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A falta absoluta de gelo durante o inverno em todos os rios.",
+          "explanation": "O inverno rigoroso no Nordeste frequentemente congela rios e lagos, exigindo quebra-gelos ou paradas sazonais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "As montanhas Rochosas que serviam como proteção contra o vento.",
+          "explanation": "As Rochosas estão no Oeste; o relevo do Nordeste é marcado pelos Apalaches.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O Deserto do Mojave que permitia estradas retas.",
+          "explanation": "O Deserto do Mojave localiza-se no Sudoeste do país, longe do polo industrial inicial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A presença constante de furacões que impulsionavam os navios à vela.",
+          "explanation": "Fenômenos climáticos extremos como furacões são obstáculos, não facilitadores logísticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "question": "A 'acumulação primitiva de capitais' na Europa, mencionada na linha do tempo do material, ocorreu principalmente no período:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "1990−2000 (Era Digital).",
+          "explanation": "Nesta época, o capitalismo já estava em sua fase informacional/financeira global.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "2010 em diante (Consolidação dos BRICS).",
+          "explanation": "Os BRICS são atores de um sistema já plenamente industrializado e globalizado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "1500−1750 (Capitalismo Comercial).",
+          "explanation": "Este período de grandes navegações e colonialismo gerou a base de capital necessária para a indústria.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "1850−1880 (Auge do Fordismo).",
+          "explanation": "O fordismo é um modelo do século XX; a acumulação primitiva é prévia à industrialização.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "1200−1300 (Feudalismo clássico).",
+          "explanation": "O feudalismo era baseado em terra e servidão, com pouca circulação monetária de capital comercial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "question": "No contexto da 'Geografia das Indústrias', o que significa o termo 'países recém-industrializados'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Países que começaram a fabricar seus primeiros tecidos no ano de 2020.",
+          "explanation": "O termo refere-se a países que iniciaram o processo cerca de um século e meio após os pioneiros.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Nações emergentes onde a industrialização acelerou-se no século XX, após a Segunda Guerra.",
+          "explanation": "Inclui países como os Tigres Asiáticos e nações latinas que modernizaram suas bases produtivas mais tarde.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Países que proibiram a entrada de transnacionais em seu território.",
+          "explanation": "Muitos desses países cresceram justamente atraindo transnacionais e investimentos externos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Países que foram os primeiros a usar o petróleo como fonte de energia em 1800.",
+          "explanation": "O uso do petróleo em escala industrial começou no final do século XIX, liderado pelos EUA e Alemanha.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Nações que exportam apenas recursos naturais e não possuem fábricas.",
+          "explanation": "Pelo contrário, estes países diversificaram sua pauta com produtos manufaturados.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
