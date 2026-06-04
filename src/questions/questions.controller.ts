@@ -1,4 +1,6 @@
 import { Controller, Get, Param, Query, Patch } from '@nestjs/common';
+import { Roles } from '../auth/roles.decorators';
+import { Role } from '../auth/role.enum';
 import { QuestionsService } from './questions.service';
 import { QueryQuestionsDto } from './dto/query-questions.dto';
 
@@ -16,6 +18,7 @@ export class QuestionsController {
     return this.questionsService.findOne(id);
   }
 
+  @Roles(Role.Admin)
   @Patch(':id/archive')
   archive(@Param('id') id: string) {
     return this.questionsService.archive(id);
