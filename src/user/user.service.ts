@@ -14,13 +14,6 @@ export class UserService {
 
   async createUser(createUserDto: CreateUserDto) {
     try {
-      const materia = await this.prisma.materia.findUnique({
-        where: { id: createUserDto.materiaId },
-        select: { id: true },
-      });
-
-      if (!materia) throw new NotFoundException('Matéria não encontrada');
-
       const hashPassword = await bcrypt.hash(createUserDto.password, 10);
 
       return await this.prisma.user.create({
@@ -28,9 +21,6 @@ export class UserService {
           name: createUserDto.name,
           email: createUserDto.email,
           password: hashPassword,
-          materias: {
-            connect: [{ id: materia.id }],
-          },
         },
         select: {
           id: true,

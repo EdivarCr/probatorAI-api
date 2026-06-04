@@ -1,9 +1,11 @@
 import {
+  ConflictException,
   Injectable,
   InternalServerErrorException,
   NotFoundException,
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
+import { CreateMateriaDto } from './dto/create-materia.dto';
 
 @Injectable()
 export class MateriaService {
@@ -33,5 +35,19 @@ export class MateriaService {
         'Erro ao buscar a matéria no banco de dados',
       );
     }
+  }
+
+  async createMateria(dto: CreateMateriaDto) {
+    const existing = await this.prisma.materia.findUnique({
+      where: { name: dto.name },
+    });
+
+    if (existing) {
+      throw new ConflictException(`A matéria'${dto.name}' já esta cadastrada`);
+    }
+
+    return this.prisma.materia.create({
+      data: dto,
+    });
   }
 }
