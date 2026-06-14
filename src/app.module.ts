@@ -8,6 +8,8 @@ import { MateriasModule } from './materias/materias.module';
 import { QuestionsModule } from './questions/questions.module';
 import { ExamsModule } from './exams/exams.module';
 import { ImportModule } from './import/import.module';
+import { GeminiModule } from './integrations/gemini/gemini.module';
+import { CorrectionModule } from './correction/correction.module';
 
 @Module({
   imports: [
@@ -21,6 +23,8 @@ import { ImportModule } from './import/import.module';
     QuestionsModule,
     ExamsModule,
     ImportModule,
+    GeminiModule,
+    CorrectionModule,
   ],
   controllers: [AppController],
 })
