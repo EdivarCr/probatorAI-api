@@ -37,7 +37,10 @@ ENV NODE_ENV=production
 RUN apk add --no-cache openssl
 
 COPY package*.json ./
-RUN npm install --only=production
+# O cliente Prisma já foi gerado no estágio "builder" e é copiado abaixo;
+# removemos o postinstall aqui porque "prisma" (CLI) é devDependency e não
+# está disponível num install --only=production, o que quebraria o build.
+RUN npm pkg delete scripts.postinstall && npm install --only=production
 
 COPY --from=builder /usr/src/app/dist ./dist
 COPY --from=builder /usr/src/app/node_modules/@prisma/client ./node_modules/@prisma/client

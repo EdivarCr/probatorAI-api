@@ -10,14 +10,22 @@ export class CorrectionService {
   async executarFluxoCorrecao(dto: HomologarCorrecaoDto) {
     const { examVersionId, questoes: questoesProfessor } = dto;
 
+    const examVersion = await this.prisma.examVersion.findUnique({
+      where: { id: examVersionId },
+    });
+
+    if (!examVersion) {
+      throw new NotFoundException('Versão de prova não encontrada.');
+    }
+
     const gabaritoOficial: AnswerKey[] = await this.prisma.answerKey.findMany({
       where: { examVersionId },
       orderBy: { questionPosition: 'asc' },
     });
 
-    if (!gabaritoOficial || gabaritoOficial.length === 0) {
+    if (gabaritoOficial.length === 0) {
       throw new NotFoundException(
-        'Nenhuma questão encontrada para esta versão de prova.',
+        'Gabarito oficial ainda não foi gerado para esta versão de prova.',
       );
     }
 
