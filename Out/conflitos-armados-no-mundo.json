@@ -1,0 +1,1240 @@
+{
+  "capturedAt": "2026-04-29T12:19:05.372Z",
+  "source": "notebooklm",
+  "url": "blob:https://0kyknjpjx61se80ggwlvikpgf85j3blx21mllpw3ncheu1ly8k-h903225159.scf.usercontent.goog/e0ee073a-d143-4502-920b-5d83a89065b6",
+  "totalQuestions": 30,
+  "subject": "geografia",
+  "level": "dificil",
+  "questions": [
+    {
+      "index": 1,
+      "question": "De acordo com o material, qual é a distinção fundamental entre os métodos de ação de grupos guerrilheiros e grupos terroristas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Grupos terroristas são financiados exclusivamente por Estados nacionais, enquanto guerrilhas dependem apenas de doações voluntárias internacionais.",
+          "explanation": "O material menciona que guerrilhas podem se financiar através de meios ilícitos, como o narcotráfico no caso das Farc, e não restringe o financiamento terrorista a Estados.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Grupos guerrilheiros buscam o apoio da população e focam em alvos militares, enquanto terroristas visam causar pânico indiscriminado na sociedade civil.",
+          "explanation": "A guerrilha foca em mudanças políticas e sociais com apoio popular e ataques estratégicos, enquanto o terrorismo utiliza a violência sistemática contra civis para disseminar o medo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Não existe distinção prática entre os dois termos, sendo ambos utilizados de forma intercambiável para descrever qualquer conflito civil.",
+          "explanation": "O texto explicitamente define a importância de fazer uma distinção entre guerrilha e terrorismo, apesar de reconhecer que grupos podem usar táticas de ambos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Guerrilheiros não possuem uma ideologia política definida, ao passo que terroristas lutam estritamente pela emancipação social de minorias étnicas.",
+          "explanation": "Grupos guerrilheiros costumam ter fortes inspirações ideológicas, como o marxismo mencionado para as Farc, e o terrorismo pode ter motivações religiosas ou hegemônicas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A guerrilha atua apenas em áreas urbanas densamente povoadas, enquanto o terrorismo é restrito a campos de batalha rurais e fronteiras nacionais.",
+          "explanation": "O texto não limita a guerrilha a áreas urbanas; historicamente, guerrilhas ocorrem frequentemente em áreas rurais para desgastar forças estatais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "O conceito de 'Estados falidos' (failed states) é recorrente na análise de conflitos contemporâneos. Como o texto define essa condição?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Nações onde o governo central perdeu o controle do território e não consegue garantir a segurança básica e o sustento de sua população.",
+          "explanation": "Estados falidos são caracterizados pela ausência de poder efetivo para manter a estabilidade, a ordem e os serviços básicos, tornando a sociedade vulnerável.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Países que foram expulsos da Organização das Nações Unidas por violarem sistematicamente os direitos humanos.",
+          "explanation": "A falência do Estado refere-se à incapacidade interna de governança e controle territorial, e não apenas a uma sanção diplomática externa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Países que possuem as maiores dívidas externas do mundo, perdendo sua soberania econômica para instituições financeiras globais.",
+          "explanation": "Embora a economia seja um fator, a definição de 'Estado falido' foca na vulnerabilidade da sociedade a conflitos e na desagregação social.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Territórios que declararam independência mas não foram reconhecidos pela comunidade internacional como países autônomos.",
+          "explanation": "Estados não reconhecidos podem ser estáveis internamente; a falência está ligada à desagregação social e violência armada interna.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Estados que se recusam a participar de blocos econômicos regionais ou tratados de livre-comércio internacional.",
+          "explanation": "A recusa em participar de blocos econômicos é uma escolha política soberana e não define necessariamente um Estado como falido ou em desagregação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "Segundo os estudos citados de Paul Collier, qual é o principal fator que torna os países vulneráveis a guerras civis?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A diversidade religiosa excessiva, que impede a formação de uma identidade nacional unificada.",
+          "explanation": "Embora mencionada, a divergência tribal ou religiosa raramente é o fator principal, servindo mais como instrumento para líderes gananciosos.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A pobreza e o baixo crescimento econômico, muitas vezes associados a governos corruptos e falta de oportunidades.",
+          "explanation": "O texto afirma que a pobreza promove a guerra e a guerra empobrece, criando um círculo vicioso onde é fácil recrutar pessoas sem perspectivas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A ausência de recursos naturais valiosos, como petróleo ou minérios, que impede o desenvolvimento industrial.",
+          "explanation": "Pelo contrário, o texto menciona que a presença de recursos como o petróleo pode incentivar movimentos de secessão e conflitos pelo controle da riqueza.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A proximidade geográfica com superpotências militares que buscam expandir suas áreas de influência.",
+          "explanation": "A localização geográfica pode ser um fator geopolítico, mas o texto enfatiza causas socioeconômicas internas como raiz da vulnerabilidade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O excesso de investimentos estrangeiros que desestabiliza a produção agrícola local.",
+          "explanation": "A falta de investimentos é citada como consequência da guerra, pois ninguém quer construir fábricas em regiões conflagradas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "question": "A Guerra Fria foi um período marcado por um paradoxo geopolítico. Qual frase de Raymond Aron melhor define essa época?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O fim da história e o triunfo definitivo do capitalismo liberal.",
+          "explanation": "Essa tese surgiu após o fim da Guerra Fria e a queda do Muro de Berlim, e não descreve o período do conflito bipolar.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O mundo é uma aldeia global onde as fronteiras desapareceram.",
+          "explanation": "Essa é uma visão otimista da globalização recente, não da bipolaridade tensa da Guerra Fria.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Guerra improvável, paz impossível.",
+          "explanation": "A paz era impossível devido ao antagonismo ideológico, e a guerra improvável pela certeza da mútua destruição nuclear.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "A pobreza é a principal causa de guerra civil no século XXI.",
+          "explanation": "Esta é uma conclusão de estudos contemporâneos sobre conflitos locais, não uma definição da disputa global entre superpotências.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Unipolaridade é a ordem que regula as relações entre as nações.",
+          "explanation": "A Guerra Fria era caracterizada pela bipolaridade; a unipolaridade foi sugerida para o curto período após a fragmentação soviética.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "question": "No contexto da globalização, o texto menciona que a formação de uma 'opinião pública mundial' influenciou as reações às guerras. Qual exemplo ilustra essa mudança?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A extinção das Forças Armadas Revolucionárias da Colômbia após pressão da internet.",
+          "explanation": "O texto afirma que, embora enfraquecidas, as Farc continuavam em ação em 2012, controlando parte do território colombiano.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "As manifestações globais contra a invasão do Iraque em 2003, que não teve aprovação do Conselho de Segurança da ONU.",
+          "explanation": "A tecnologia de comunicação permitiu que pessoas ao redor do mundo acompanhassem e criticassem a ação militar baseada em interesses geopolíticos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A proibição total do uso de petróleo como arma política pelos países da OPEP.",
+          "explanation": "A OPEP continua sendo um bloco de interesses econômicos e o texto não cita tal proibição como fruto da opinião pública global.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O apoio unânime de todas as nações africanas à intervenção russa no Cáucaso em 2008.",
+          "explanation": "Não houve apoio unânime e o conflito no Cáucaso foi marcado por tensões separatistas específicas, não por um movimento global de opinião.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O fim imediato da corrida armamentista entre as potências emergentes do Brics.",
+          "explanation": "O texto indica que os países do Brics buscam aumentar sua influência e a correlação de forças muda lentamente, sem citar o fim da corrida armamentista.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "question": "O conflito no Afeganistão, iniciado em 2001, foi uma resposta direta a qual evento histórico?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O movimento separatista da etnia tigrínia que buscava fundar um novo Estado religioso.",
+          "explanation": "O separatismo tigrínio refere-se à Etiópia e à independência da Eritreia, não ao cenário afegão.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A disputa por reservas de petróleo recém-descobertas na região de Kandahar.",
+          "explanation": "Diferente do Iraque, a motivação central citada para o Afeganistão foi o combate ao terrorismo e não a posse imediata de petróleo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A invasão soviética do território afegão na década de 1970 para apoiar o comunismo local.",
+          "explanation": "Essa invasão foi um evento da Guerra Fria; a guerra de 2001 teve motivações ligadas ao terrorismo global pós-Guerra Fria.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A queda do Muro de Berlim e o colapso do bloco socialista na Europa Oriental.",
+          "explanation": "Embora importante geopoliticamente, o colapso soviético ocorreu uma década antes e não foi o estopim da guerra de 2001.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Os atentados terroristas de 11 de setembro contra os Estados Unidos, perpetrados pela Al-Qaeda.",
+          "explanation": "A invasão liderada pelos EUA visava desmantelar a rede Al-Qaeda e depor o regime Talibã que lhe dava suporte e abrigo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "question": "Sobre a Questão Palestina, qual é a origem histórica citada para a dispersão dos judeus e a posterior ocupação árabe?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Os judeus migraram voluntariamente para a América e os árabes compraram as terras através de acordos comerciais.",
+          "explanation": "O texto usa termos como 'expulsos' e 'ocupada', indicando processos de força e conquista territorial ao longo da história.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Os judeus foram expulsos pelos romanos no início da Era Cristã e o território foi ocupado por árabes a partir do século VII.",
+          "explanation": "A dispersão judaica (Diáspora) ocorreu sob domínio romano e a islamização/arabização da região consolidou-se séculos depois.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A região sempre foi desabitada até a criação do Estado de Israel pela ONU em 1948.",
+          "explanation": "O texto afirma que judeus viviam lá desde a Antiguidade e árabes desde o século VII, invalidando a ideia de território vazio.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A dispersão ocorreu devido a uma catástrofe natural que tornou a Palestina impropria para a agricultura por mil anos.",
+          "explanation": "O material foca em causas históricas e políticas (domínio romano e expansão árabe) e não em desastres naturais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Os árabes expulsaram os judeus durante a Primeira Guerra Mundial com apoio do Império Britânico.",
+          "explanation": "A expulsão original foi romana; os conflitos modernos envolvem a partilha do território após o fim do mandato britânico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "question": "A fragmentação da Iugoslávia na década de 1990 resultou na criação de novos países. Qual fator foi decisivo nessa divisão?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A venda de territórios para a União Soviética como forma de pagar dívidas de guerra.",
+          "explanation": "A fragmentação ocorreu após o fim da influência soviética e foi marcada por guerras civis de independência, não por transações comerciais.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A unificação compulsória sob um regime teocrático que fundiu todas as religiões em uma só.",
+          "explanation": "A Iugoslávia era um Estado multiétnico e a divisão ocorreu justamente pela impossibilidade de manter essa união sob tensões nacionalistas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Um acordo pacífico mediado pela China para garantir o fornecimento de gás natural à Europa.",
+          "explanation": "A separação da Iugoslávia foi violenta e marcada por limpezas étnicas, longe de ser um acordo pacífico comercial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A correspondência das novas fronteiras com as grandes divisões étnico-religiosas da região.",
+          "explanation": "A fragmentação deu origem a seis países que refletem a diversidade de povos (sérvios, croatas, bósnios, etc.) e religiões na antiga federação.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "A necessidade de criar zonas de exclusão para evitar a disseminação de epidemias nos Bálcãs.",
+          "explanation": "As causas citadas são étnico-religiosas e políticas, não sanitárias ou biológicas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "question": "NoCáucaso, qual região da Geórgia é citada como alvo de um conflito armado com a Rússia em 2008?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Ossétia do Sul, onde tropas russas intervieram para desalojar forças georgianas de uma província separatista.",
+          "explanation": "ARússia apoia movimentos separatistas na Geórgia (Ossétia do Sul e Abkhazia) como forma de manter influência na região.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Chechênia, que buscava se anexar ao território georgiano para fugir do controle de Moscou.",
+          "explanation": "A Chechênia é uma república russa com movimentos separatistas internos, enquanto o conflito de 2008 envolveu províncias da própria Geórgia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Alto Karabakh, um enclave armênio localizado no centro da capital russa.",
+          "explanation": "Alto Karabakh é um enclave em disputa entre Armênia e Azerbaijão, não dentro da capital russa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Beslan, onde a população exigia a construção de novas bases militares norte-americanas.",
+          "explanation": "Beslan foi palco de um trágico atentado terrorista em uma escola, não de uma disputa territorial interestatal por bases militares.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Inguchétia, que buscava fundar uma monarquia independente apoiada pela ONU.",
+          "explanation": "A Inguchétia é parte da Federação Russa e não foi o foco do conflito interestatal de 2008 mencionado no texto.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "question": "A globalização é definida no material como uma fase de qual processo histórico de longa duração?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O isolamento econômico das potências asiáticas para proteger suas tradições culturais.",
+          "explanation": "A globalização refere-se à mundialização e interdependência, o oposto do isolamento econômico.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A transição global para regimes socialistas de partido único em todos os continentes.",
+          "explanation": "A globalização está intrinsecamente ligada à expansão e consolidação do sistema capitalista mundial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A descolonização pacífica da África iniciada logo após a expansão marítima europeia.",
+          "explanation": "A descolonização ocorreu principalmente no século XX, muito depois da expansão marítima, e muitas vezes não foi pacífica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A mundialização do capitalismo, que teve etapas precedentes como o colonialismo e o imperialismo.",
+          "explanation": "O texto associa a globalização ao período informacional do capitalismo, assim como o colonialismo foi a etapa comercial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "O declínio absoluto da tecnologia informacional em favor do retorno à manufatura têxtil.",
+          "explanation": "Pelo contrário, a revolução técnico-científica iniciada nos anos 1970 é a base da atual fase da globalização.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "question": "Qual é a principal distinção antropológica entre os conceitos de 'etnia' e 'povo' (no sentido jurídico-político) apresentada no texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Povo é um grupo que compartilha a mesma biologia celular; etnia é um grupo que compartilha o mesmo partido político.",
+          "explanation": "Etnia é definida por cultura (religião, língua), não por afiliação política partidária.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Etnia refere-se apenas a minorias perseguidas; povo refere-se apenas à maioria governante de um país.",
+          "explanation": "Qualquer grupo humano com cultura própria forma uma etnia, independentemente de ser minoria ou maioria política.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Etnia refere-se a características culturais e tradições; povo refere-se ao conjunto de cidadãos sob jurisdição de um Estado.",
+          "explanation": "Enquanto etnia é definida por religião, língua e costumes, o termo 'povo' adquire sentido jurídico quando ligado aos direitos e deveres em um território estatal.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Etnia é um termo exclusivo para populações nômades; povo descreve apenas habitantes de metrópoles.",
+          "explanation": "Ambos os termos podem descrever populações urbanas ou rurais; a diferença reside na base cultural versus a base jurídica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Não há diferença, pois o texto utiliza ambos os termos estritamente como sinônimos em todos os contextos.",
+          "explanation": "O texto afirma que, embora sinônimos em sentido antropológico, há uma distinção importante no sentido jurídico-político.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "question": "O conflito em Ruanda em 1994 é citado como um exemplo trágico de guerra civil étnica. Quais grupos foram os protagonistas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Sérvios e Croatas, disputando o controle das rotas de comércio no Lago Kivu.",
+          "explanation": "Sérvios e croatas protagonizaram os conflitos na Iugoslávia (Europa), não em Ruanda (África).",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Árabes e Judeus, em uma extensão da disputa territorial pelo controle do Canal de Suez.",
+          "explanation": "Esse conflito é característico do Oriente Médio, não da região subsaariana onde se localiza Ruanda.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Pashtuns e Tajiques, em uma disputa pelo controle do ópio na fronteira com o Paquistão.",
+          "explanation": "Essas etnias estão envolvidas no cenário de conflitos do Afeganistão, na Ásia Central.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Hutus e Tutsis, resultando na morte de cerca de 1 milhão de pessoas, a maioria da etnia minoritária.",
+          "explanation": "A guerra civil de Ruanda foi marcada pelo genocídio de Tutsis e moderados Hutus pela maioria Hutu no poder.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Ibos e Hauçás, lutando pela independência da região de Biafra no leste africano.",
+          "explanation": "O conflito entre Ibos e Hauçás ocorreu na Nigéria (Guerra de Biafra) na década de 1960.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "question": "Sobre o movimento 'Ocupe Wall Street' mencionado no material, qual característica o define como um produto da globalização?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Sua coordenação e divulgação globalizada por meio da internet e redes de ONGs.",
+          "explanation": "A revolução informacional permitiu que um protesto em Nova York gerasse variantes regionais rápidas em diversas cidades do mundo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A liderança exclusiva de governos socialistas que financiavam os manifestantes nos EUA.",
+          "explanation": "O material descreve-o como um movimento popular e de ONGs, e não como uma ação estatal estrangeira.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A exigência de que o dólar fosse substituído pelo ouro como moeda única mundial.",
+          "explanation": "O texto foca na crítica ao poder do sistema financeiro globalizado e não em propostas específicas de padrão-ouro.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O uso de armas nucleares táticas para intimidar o sistema financeiro internacional.",
+          "explanation": "O movimento foi caracterizado como pacífico e utilizou meios digitais de mobilização, não armamentos de destruição em massa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O objetivo de isolar os Estados Unidos de qualquer fluxo de comércio internacional.",
+          "explanation": "O movimento criticava as desigualdades do sistema financeiro, mas operava dentro da própria lógica globalizada de comunicação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "question": "A Guerra do Iraque em 2003 foi criticada internacionalmente por qual motivo principal apresentado no texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Por ter sido financiada inteiramente por grupos terroristas da Al-Qaeda.",
+          "explanation": "A guerra foi conduzida pelos EUA e aliados justamente sob a suposição (não comprovada) de que o Iraque apoiava a Al-Qaeda.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Porque o Iraque possuía a maior reserva de água doce do planeta, cobiçada pelos EUA.",
+          "explanation": "O texto menciona o petróleo como a principal fonte de energia e interesse econômico na região, citando a Venezuela como detentora da maior reserva.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Devido ao apoio oficial da França e da Alemanha, que desejavam anexar o Iraque à União Europeia.",
+          "explanation": "Pelo contrário, potências europeias como França e Alemanha foram vozes críticas importantes contra a invasão liderada pelos EUA.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Pela falta de aprovação do Conselho de Segurança da ONU e por ser movida por interesses geopolíticos e econômicos (petróleo).",
+          "explanation": "A invasão unilateral sem o aval da ONU gerou protestos globais e questionamentos sobre a legitimidade da ação norte-americana.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Pelo uso de cavalaria medieval em um cenário de guerra tecnológica moderna.",
+          "explanation": "As críticas foram políticas e legais (falta de aval da ONU), não relacionadas a táticas de combate obsoletas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "question": "O texto descreve as 'guerras silenciosas' da era da globalização. Onde elas ocorrem primordialmente?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Exclusivamente em transmissões de rádio de ondas curtas para evitar a espionagem digital.",
+          "explanation": "O termo 'silenciosa' não se refere ao meio de transmissão acústica, mas à natureza econômica e menos bélica tradicional da expansão do capital.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Dentro de laboratórios de biotecnologia que buscam criar sementes estéreis.",
+          "explanation": "Embora o setor econômico seja afetado, o texto foca no sistema financeiro global como o grande palco dessa disputa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Em campos de batalha isolados na Antártida para evitar vítimas civis.",
+          "explanation": "A metáfora da 'guerra' no texto refere-se às disputas nos mercados financeiros e bolsas de valores mundiais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Em tratados diplomáticos secretos assinados em submarinos nucleares.",
+          "explanation": "O texto destaca que as estratégias são traçadas em sedes de corporações e bancos, e não em bases militares subaquáticas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Nas Bolsas de Valores, de mercadorias e de futuros, afetando todos os setores econômicos.",
+          "explanation": "A expansão capitalista moderna é descrita como sutil e silenciosa, ocorrendo através de fluxos de capitais e decisões em sedes corporativas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "question": "De acordo com os dados de 2010 citados, qual país era o maior exportador de armas do mundo?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "China, que fornece armamentos baratos para todos os Estados falidos da África.",
+          "explanation": "A China aparecia com apenas 4% das exportações mundiais de armas em 2010.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Rússia, devido ao seu grande estoque herdado da época da União Soviética.",
+          "explanation": "ARússia ocupava o segundo lugar com 24% das exportações, atrás dos Estados Unidos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Israel, especializado exclusivamente em drones e sistemas de inteligência artificial.",
+          "explanation": "Israel aparecia entre os dez maiores, mas com apenas 2% do total das exportações mundiais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Estados Unidos, respondendo por 30% do mercado global de exportação de armamentos.",
+          "explanation": "Os EUA mantêm a liderança histórica e tecnológica no fornecimento global de sistemas de defesa e ataque.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Alemanha, focando principalmente em veículos blindados de transporte civil.",
+          "explanation": "A Alemanha era a terceira colocada com 9%, mas o líder absoluto citado são os Estados Unidos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "question": "A criação do Estado do Sudão do Sul em 2011 foi o desfecho de qual tipo de conflito?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Um acordo de troca de territórios onde o Sudão cedeu o sul em troca de metade do Egito.",
+          "explanation": "O Egito permanece um Estado soberano e a secessão foi uma divisão do território sudanês original.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Uma disputa entre a França e o Reino Unido pelo controle das rotas de navegação no Rio Nilo.",
+          "explanation": "Embora o passado colonial influencie, o conflito moderno foi uma guerra civil interna entre populações do mesmo Estado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Uma guerra puramente econômica pela posse de usinas de energia solar no deserto.",
+          "explanation": "O conflito teve bases étnico-religiosas profundas (muçulmanos ao norte e cristãos/animistas ao sul) e controle de recursos como petróleo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Um conflito entre o norte muçulmano e o sul cristão/animista, resultando no mais novo país da África.",
+          "explanation": "Após décadas de guerra civil, o referendo de independência levou à secessão do sul e sua admissão na ONU.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Uma invasão militar conduzida pela União Europeia para garantir a proteção de elefantes.",
+          "explanation": "A independência foi fruto de um processo interno de luta guerrilheira (SPLM/A) e acordos de paz, não uma invasão europeia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "question": "O termo 'Cortina de Ferro' foi utilizado na Guerra Fria para descrever o quê?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O isolamento tecnológico da África Subsaariana durante as guerras coloniais.",
+          "explanation": "O foco da Guerra Fria era o conflito Leste-Oeste centrado no Hemisfério Norte.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A divisão da Europa em dois blocos rivais: o ocidental (capitalista) e o oriental (socialista).",
+          "explanation": "Simbolizava a separação entre a influência dos EUA (Otan) e da União Soviética (Pacto de Varsóvia).",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A barreira física construída na fronteira entre o México e os Estados Unidos para impedir migrações.",
+          "explanation": "Essa é uma questão contemporânea das Américas e não tem relação com o vocabulário geopolítico da Guerra Fria.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Uma rede de minas submarinas que impedia o comércio no Oceano Índico.",
+          "explanation": "O termo era metafórico para a divisão política da Europa, embora o Muro de Berlim fosse uma manifestação física dessa 'cortina'.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Um sistema de defesa antiaérea desenvolvido pelo Japão para se proteger da China.",
+          "explanation": "A 'Cortina de Ferro' refere-se à divisão ideológica e militar na Europa, não na Ásia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "question": "Qual é a relação entre recursos naturais e secessão mencionada no texto a partir do exemplo de Biafra na Nigéria?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Regiões ricas em recursos naturais são proibidas pela ONU de declarar independência.",
+          "explanation": "Não há tal proibição na carta da ONU; o processo de independência depende de reconhecimento e lutas políticas internas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A descoberta de petróleo torna os apelos por independência mais atraentes para a população local e abomináveis para o governo central.",
+          "explanation": "Recursos valiosos fornecem a base econômica para um novo Estado, gerando resistência feroz do governo que não quer perder a receita.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A secessão só ocorre quando a região descobre recursos renováveis, como o vento.",
+          "explanation": "Conflitos históricos como o de Biafra estiveram ligados a combustíveis fósseis, fontes de energia não renováveis que movem o mundo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O petróleo de Biafra era de baixa qualidade, o que desmotivou o apoio internacional à secessão.",
+          "explanation": "O texto cita o petróleo como um dos motivos principais para a tentativa de separação e para a resistência do governo nigeriano.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A falta de recursos naturais obriga as regiões pobres a se unirem para sobreviver.",
+          "explanation": "O texto sugere o oposto: a abundância de recursos específicos pode incentivar a separação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "question": "Sobre o grupo guerrilheiro Farc, na Colômbia, qual é a principal acusação recente que o vincula a atividades ilícitas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O sequestro sistemático de cientistas ambientais para impedir o reflorestamento da Amazônia.",
+          "explanation": "Embora pratiquem sequestros, o objetivo citado é o financiamento e a pressão política, não o combate ao reflorestamento.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A venda de segredos tecnológicos nucleares para países do Oriente Médio.",
+          "explanation": "As Farc são uma guerrilha camponesa e urbana sem acesso ou foco em tecnologia nuclear.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A exploração ilegal de diamantes em parceria com governos africanos.",
+          "explanation": "A atuação das Farc é centrada na América do Sul, sem vínculos significativos citados com o mercado de diamantes africano.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A pirataria marítima no Mar do Caribe contra navios de cruzeiro europeus.",
+          "explanation": "O grupo opera primordialmente em território terrestre e selvas colombianas, não como piratas marítimos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O envolvimento com o narcotráfico para financiar suas ações militares e políticas.",
+          "explanation": "Originalmente de inspiração marxista, o grupo passou a ser acusado de usar o tráfico de drogas como fonte de receita para sustentar a guerrilha.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "question": "Como o texto descreve a atual ordem geopolítica mundial, superando a bipolaridade da Guerra Fria?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Como uma ordem exclusivamente religiosa liderada pelo Vaticano.",
+          "explanation": "A ordem internacional descrita baseia-se em critérios econômicos, militares e geopolíticos estatais.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Como uma unipolaridade absoluta sob comando da China.",
+          "explanation": "A China é vista como uma potência emergente com potencial, mas os EUA ainda mantêm hegemonia em diversas áreas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Como uma tendência à multipolaridade, com a emergência de novos polos como China, Índia e Brasil.",
+          "explanation": "Embora os EUA sejam potentes, o mundo caminha para uma situação onde o poder é distribuído entre diversos centros econômicos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Como uma anarquia total sem qualquer tipo de regulação ou instituições internacionais.",
+          "explanation": "O texto menciona a ONU e o Conselho de Segurança como instâncias de regulação, apesar de crises de legitimidade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Como um retorno ao sistema colonial europeu do século XIX.",
+          "explanation": "A globalização e o enfraquecimento das antigas potências europeias após as guerras mundiais tornam esse retorno improvável.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "question": "A rede Al-Qaeda justifica suas ações terroristas com base em qual argumento ideológico citado no texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A defesa do livre-comércio total e a abolição de todas as fronteiras nacionais.",
+          "explanation": "AAl-Qaeda é um grupo fundamentalista que se opõe a muitos aspectos da globalização capitalista ocidental.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A criação de uma democracia parlamentar nos moldes europeus em todo o Oriente Médio.",
+          "explanation": "O objetivo do grupo é a imposição de leis baseadas em sua interpretação religiosa, oposta à democracia liberal ocidental.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A luta contra a hegemonia da sociedade cristã ocidental em nome do fundamentalismo religioso islâmico.",
+          "explanation": "O grupo vê os valores ocidentais como uma ameaça aos preceitos que consideram fundamentais em sua visão do islã.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "O combate ao aquecimento global através da destruição de indústrias petroquímicas.",
+          "explanation": "Embora ataquem infraestruturas, a motivação é religiosa e política anti-ocidental, não de ativismo ambiental.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A unificação de todas as igrejas cristãs sob um único califado em Roma.",
+          "explanation": "AAl-Qaeda é uma organização militante islâmica sunita, não cristã.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "question": "A queda do Muro de Berlim em 1989 simboliza o fim de qual fenômeno geopolítico?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A era das navegações e a descoberta de novos continentes.",
+          "explanation": "Esse é um evento do século XV e XVI, séculos antes da Guerra Fria.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A Guerra Fria e a divisão do mundo em blocos rivais liderados por EUA e URSS.",
+          "explanation": "O evento marcou o início do colapso do bloco socialista e a reunificação da Alemanha, encerrando a bipolaridade.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A hegemonia comercial da China na Ásia Central.",
+          "explanation": "A ascensão da China é um fenômeno mais recente e não está ligada à construção ou queda do muro em Berlim.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A influência da Igreja Católica na política interna da União Soviética.",
+          "explanation": "O muro era um símbolo da divisão política e ideológica entre o capitalismo democrático e o socialismo de partido único.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O conflito entre árabes e judeus pela posse da Península do Sinai.",
+          "explanation": "Esses conflitos ocorreram em 1967 e 1973, independentemente dos eventos em Berlim em 1989.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "question": "O texto menciona que o número de conflitos armados no mundo sofreu mudanças desde o fim da Guerra Fria. Qual foi essa tendência?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "As guerras migraram inteiramente dos países pobres para os países mais desenvolvidos da Europa.",
+          "explanation": "Pelo contrário, o material afirma que a maioria das guerras recentes ocorre em países pobres da África e Ásia.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O número de guerras permaneceu exatamente o mesmo em todos os anos desde 1945.",
+          "explanation": "O texto mostra variações significativas (50 em 1990 vs 30 em 2010) e uma mudança na lógica dos conflitos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Os conflitos cessaram completamente devido à eficácia absoluta das forças de paz da ONU.",
+          "explanation": "Apesar da redução, ainda ocorrem dezenas de guerras, especialmente na África e na Ásia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Houve uma explosão de guerras nucleares entre países da América Latina.",
+          "explanation": "O material não cita nenhuma guerra nuclear ocorrida e foca em conflitos civis e étnicos convencionais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Houve um aumento inicial logo após 1990, seguido por uma redução gradual até 2010.",
+          "explanation": "Em 1990 eram 50 conflitos e em 2010 o número caiu para 30, a maioria concentrada em países pobres.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "question": "O que caracteriza o conflito separatista dos curdos mencionado no material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Um movimento para converter toda a Europa ao budismo tibetano.",
+          "explanation": "O conflito curdo é de natureza étnico-nacionalista e ocorre primordialmente em solo asiático.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Uma guerra civil interna na ilha de Madagascar pelo controle da baunilha.",
+          "explanation": "Os curdos estão no Oriente Médio, milhares de quilômetros distantes da ilha africana de Madagascar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A exigência de que a língua curda seja a única oficial em toda a Federação Russa.",
+          "explanation": "O território curdo não faz parte da Rússia; o texto cita sua localização próxima à Turquia e Iraque.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Uma disputa pelo controle das rotas de pesca no Oceano Ártico.",
+          "explanation": "Os curdos habitam uma região montanhosa no Oriente Médio, sem saída para o mar Ártico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A luta por um território independente (Curdistão) abrangendo partes da Turquia, Iraque, Irã e Síria.",
+          "explanation": "Os curdos são considerados a maior nação sem Estado do mundo, vivendo divididos entre fronteiras de vários países.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "question": "Qual é a principal função das missões de paz da ONU (Capacetes Azuis) conforme sugerido pelos mapas do texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Garantir que apenas empresas transnacionais europeias operem em zonas de guerra.",
+          "explanation": "A função é humanitária e de segurança, não de reserva de mercado para corporações de um continente específico.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Impedir que qualquer país africano possua sua própria moeda nacional.",
+          "explanation": "A ONU não interfere na política monetária soberana dos países através de suas forças militares de paz.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Conquistar novos territórios para expandir as fronteiras dos Estados Unidos.",
+          "explanation": "A ONU visa manter a paz e a segurança internacional, não a expansão territorial de um único país.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Substituir todos os governos nacionais por uma administração militar global.",
+          "explanation": "A soberania dos Estados é respeitada; as missões de paz auxiliam na transição ou estabilização, não no governo direto perpétuo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Atuar em regiões de conflito para proteger civis e monitorar acordos de cessar-fogo.",
+          "explanation": "As forças de manutenção da paz são enviadas para estabilizar áreas conflagradas e permitir a ajuda humanitária.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "question": "A 'Guerra do Yom Kippur' em 1973 é um exemplo de conflito entre quais forças?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Forças egípcias e sírias que atacaram Israel de surpresa durante um feriado religioso judaico.",
+          "explanation": "Israel revidou o ataque surpresa, e o conflito teve intervenção das superpotências (EUA e URSS) para impor um cessar-fogo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "ARússia contra a Geórgia pela posse definitiva do porto de Sokhumi.",
+          "explanation": "O conflito na Geórgia ocorreu em 2008, enquanto o Yom Kippur foi em 1973 no contexto árabe-israelense.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Grupos guerrilheiros do Peru que tentaram tomar o controle de minas de prata.",
+          "explanation": "O texto associa este nome específico à história do conflito entre árabes e judeus.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "China e Japão, disputando ilhas ricas em gás natural no Mar da China.",
+          "explanation": "Embora existam tensões lá, a Guerra do Yom Kippur refere-se especificamente ao Oriente Médio.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "França e Argélia, durante o processo de descolonização do norte da África.",
+          "explanation": "Esse conflito ocorreu na década de 1950 e 1960; 1973 marca um importante confronto no contexto árabe-israelense.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "question": "A 'Opinão Pública Mundial', facilitada pela revolução informacional, agiu como um fator de pressão em qual evento recente?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "No surgimento de movimentos antiglobalização, como o primeiro ocorrido em Seattle em 1999.",
+          "explanation": "A conectividade permitiu que críticas ao modelo econômico global fossem coordenadas e visíveis internacionalmente.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Na decisão da China de abolir completamente o capitalismo em 2010.",
+          "explanation": "A China mantém seu sistema e o texto destaca seu crescimento como potência econômica capitalista de Estado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Na proibição global da internet para evitar a propagação de ideologias separatistas.",
+          "explanation": "A internet é o meio pelo qual a opinião pública mundial se forma e se manifesta, não tendo sido proibida globalmente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "No fim do uso de armamentos convencionais em favor apenas de ataques cibernéticos.",
+          "explanation": "Guerras físicas com armamentos caros e importados continuam ocorrendo, especialmente em países pobres, segundo o texto.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Na aprovação unânime da invasão do Afeganistão por todos os países do mundo.",
+          "explanation": "Embora houvesse apoio inicial contra o terrorismo, houve muitas críticas e o texto foca mais na resistência à guerra do Iraque.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "question": "O conflito em Biafra na Nigéria (1967-1970) teve como uma de suas motivações a tentativa de secessão de qual grupo?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Sérvios, tentando criar um enclave ortodoxo no centro da savana africana.",
+          "explanation": "Sérvios são um grupo eslavo da Europa Oriental (Bálcãs).",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Ibos, que lutaram sem sucesso pela independência da região leste, rica em petróleo.",
+          "explanation": "A guerra foi marcada por uma grave crise humanitária e fome, motivada pela disputa territorial e de recursos na Nigéria.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Curdos, que desejavam fundar um califado petrolífero às margens do Rio Níger.",
+          "explanation": "Os curdos estão localizados no Oriente Médio, não na África Ocidental onde fica a Nigéria.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Tigrínios, em sua luta para separar a Eritreia do território nigeriano.",
+          "explanation": "O separatismo tigrínio resultou na independência da Eritreia em relação à Etiópia, no Chifre da África.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Hutus, que buscavam se livrar da dominação econômica dos Tutsis no oeste africano.",
+          "explanation": "Hutus e Tutsis são etnias ligadas a Ruanda e Burundi, não à Nigéria.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "question": "Segundo o material, qual é a principal ameaça à ordem e estabilidade globais nos dias atuais, superando o medo de grandes potências agressivas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A falta de petróleo em todo o Hemisfério Norte até o ano de 2015.",
+          "explanation": "Embora o petróleo seja estratégico, a ameaça destacada refere-se à fragilidade institucional de certas nações.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Os 'Estados em falência' (Estados falidos), onde a ausência de poder gera instabilidade.",
+          "explanation": "Líderes mundiais hoje se preocupam mais com a ausência de poder estatal capaz de manter a ordem do que com seu acúmulo em um único Estado.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "O excesso de democracia direta que impede decisões rápidas do Conselho de Segurança.",
+          "explanation": "O problema citado é o déficit de representatividade e as crises de legitimidade, não o excesso de democracia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O retorno da monarquia absoluta em todos os países da União Europeia.",
+          "explanation": "A tendência citada na Europa é de integração em blocos e regimes democráticos, apesar de crises econômicas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A invasão de tecnologias de inteligência artificial alienígena nos sistemas bancários.",
+          "explanation": "O texto foca em questões geopolíticas e sociais humanas reais e documentadas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "capturedAt": "2026-04-29T12:10:15.174Z",
+  "source": "notebooklm",
+  "url": "blob:https://52f6k0h3cazj1h3c725wj21g9w2npco5nv73df5hhmugsqvm4c-h903225159.scf.usercontent.goog/70adbbab-98a6-4f33-944d-ba2ea7af8e39",
+  "totalQuestions": 30,
+  "subject": "historia",
+  "level": "dificil",
+  "questions": [
+    {
+      "index": 1,
+      "question": "Diferente da escravidão praticada na Antiguidade, como se caracterizou a fundamentação ideológica da escravidão na Idade Moderna, segundo o material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Baseou-se exclusivamente na condição de prisioneiro de guerra ou dívidas financeiras impagáveis.",
+          "explanation": "Embora esses motivos fossem comuns na Antiguidade, a escravidão moderna introduziu um componente biológico e hierárquico inexistente naquela escala anteriormente.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Estabeleceu-se como um contrato temporário de servidão para o pagamento de custos de transporte oceânico.",
+          "explanation": "Essa descrição refere-se à servidão por contrato, comum em colônias inglesas, e não à instituição da escravidão moderna propriamente dita.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Foi estruturada a partir da racialização, utilizando a falsa ideia de hierarquias entre 'raças' humanas.",
+          "explanation": "A escravidão moderna justificava a dominação através de preconceitos étnicos e raciais, estabelecendo uma suposta superioridade de um grupo sobre outro.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Limitou-se ao comércio de pessoas dentro do mesmo continente, sem envolver redes globais de tráfico.",
+          "explanation": "A escravidão moderna foi um pilar da mundialização do comércio, interligando Europa, África e América em larga escala.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Priorizou a conversão religiosa imediata como única forma de evitar a condição de escravizado.",
+          "explanation": "A religião foi usada como justificativa para subjugar povos, mas a conversão nem sempre garantia a liberdade ou evitava a escravização.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "NaAmérica espanhola, qual era a principal distinção entre as instituições da 'encomienda' e do 'repartimiento'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A 'encomienda' exigia o pagamento de impostos em moeda, enquanto o 'repartimiento' aceitava apenas produtos agrícolas.",
+          "explanation": "O material indica que o trabalho em si era a forma de tributo ou pagamento nas comunidades indígenas sob esses sistemas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O 'repartimiento' garantia a posse da terra ao indígena, enquanto a 'encomienda' a transferia para o rei.",
+          "explanation": "Essas instituições focavam na gestão da força de trabalho, não na redistribuição da posse da terra para as populações nativas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A 'encomienda' envolvia trabalho remunerado, enquanto o 'repartimiento' era estritamente escravista.",
+          "explanation": "Ambas eram formas de trabalho compulsório e nenhuma era considerada escravidão legal formal, embora fossem violentas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O 'repartimiento' era aplicado apenas a africanos, ao passo que a 'encomienda' era exclusiva para indígenas.",
+          "explanation": "Ambas as instituições focavam primordialmente na exploração das populações indígenas sob controle espanhol.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A 'encomienda' era vitalícia para um único explorador, enquanto o 'repartimiento' era rotativo entre vários proprietários.",
+          "explanation": "A 'encomienda' concedia o direito de exploração vitalícia a um 'encomendero', enquanto o 'repartimiento' permitia que diferentes proprietários usassem a mão de obra por períodos curtos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "Por que os escravistas na América portuguesa tinham preferência por africanos originários da região conhecida como Costa da Mina para o trabalho nas minas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Devido à resistência física superior desses povos ao clima frio das montanhas mineradoras.",
+          "explanation": "Não há evidências no texto de que a preferência fosse baseada em adaptação climática, mas sim em habilidades técnicas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Devido aos baixos custos de transporte, visto que os portos da Costa da Mina eram os mais próximos do Rio de Janeiro.",
+          "explanation": "O tráfico era lucrativo e complexo; a proximidade geográfica não era o fator determinante para a especialização do trabalho.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Por serem grupos que aceitavam a catequese cristã com maior facilidade que os povos da África Central.",
+          "explanation": "A justificativa para a preferência era econômica e técnica, ligada à produtividade da extração de ouro e diamantes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Pela facilidade de comunicação, uma vez que falavam dialetos semelhantes aos indígenas brasileiros.",
+          "explanation": "As línguas africanas e indígenas pertencem a troncos linguísticos completamente distintos, não facilitando a comunicação por semelhança.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Porque esses povos já dominavam técnicas avançadas de mineração e metalurgia antes do contato europeu.",
+          "explanation": "A escolha era estratégica, pois tratava-se de mão de obra especializada que introduziu o uso de bateias e construção de minas subterrâneas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "question": "No contexto das Treze Colônias inglesas, o que caracterizava o sistema de 'servidão por contrato' praticado nos séculos XVII e XVIII?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Um acordo de trabalho vitalício em troca de proteção militar contra invasões francesas.",
+          "explanation": "A servidão por contrato era temporária, geralmente durando cerca de sete anos, conforme estabelecido em documento.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Trabalho gratuito por um período limitado (geralmente sete anos) como pagamento pelos custos da viagem à América.",
+          "explanation": "Muitos imigrantes pobres ou perseguidos se submetiam a esse regime para financiar sua migração para as colônias.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A obrigação de servir na marinha britânica durante os meses de inverno em troca de terras no sul.",
+          "explanation": "O trabalho era voltado para a colonização e agricultura nas colônias, não necessariamente para serviço militar naval.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Um sistema exclusivo para africanos que conseguiam comprar sua liberdade após o desembarque.",
+          "explanation": "A servidão por contrato envolvia majoritariamente europeus brancos, coexistindo com a escravidão africana vitalícia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A escravização imediata de qualquer imigrante que não possuísse títulos de nobreza na metrópole.",
+          "explanation": "O sistema envolvia um contrato, muitas vezes voluntário (embora nem sempre), para pagar dívidas de viagem.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "question": "Como a transição da manufatura para a produção mecanizada (Revolução Industrial) alterou a autonomia do trabalhador em relação ao tempo?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Permitiu que o trabalhador levasse as máquinas para casa, retomando o antigo sistema doméstico de produção.",
+          "explanation": "A industrialização concentrou os trabalhadores nas fábricas, extinguindo a posse das ferramentas e a produção domiciliar.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Fomentou a união entre patrões e empregados na definição conjunta de metas de produtividade flexíveis.",
+          "explanation": "As relações eram marcadas por conflitos e imposições unilaterais de regras e castigos pelos proprietários.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Consolidou o uso de instrumentos de controle e vigilância, como o relógio de ponto, para disciplinar a jornada.",
+          "explanation": "A necessidade de sincronizar a produção com as máquinas levou à criação de métodos rígidos de medição e controle do tempo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Eliminou a necessidade de relógios, já que o ritmo da máquina era naturalmente lento e respeitava o cansaço humano.",
+          "explanation": "O ritmo das máquinas era acelerado e impunha uma jornada exaustiva que exigia supervisão constante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Aumentou a liberdade do operário, que passou a definir seus próprios horários de entrada e saída das fábricas.",
+          "explanation": "Pelo contrário, o trabalhador perdeu o controle sobre seu ritmo de trabalho em favor da disciplina fabril.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "question": "Sobre a escravização indígena na América portuguesa, o que o texto afirma para contestar a ideia de que eles 'não eram adaptados ao trabalho'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Argumenta que os indígenas trabalhavam voluntariamente em troca de terras férteis no interior.",
+          "explanation": "A colonização baseou-se na exploração forçada e escravização, não em acordos voluntários de distribuição de terras.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Indica que o trabalho indígena era puramente simbólico, sem impacto real na economia colonial de exportação.",
+          "explanation": "Em certas regiões e períodos, como em Pernambuco em 1570, os indígenas formavam a maioria da força de trabalho dos engenhos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ressalta que os indígenas recebiam salários equivalentes aos dos técnicos especializados europeus.",
+          "explanation": "O trabalho era compulsório ou baseado em trocas desiguais (escambo), sem relação de assalariamento formal justo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Demonstra que eles foram fundamentais em obras públicas, como os Arcos da Lapa, e na extração de recursos como o pau-brasil.",
+          "explanation": "A participação sistemática em atividades pesadas e complexas prova que a alegação de 'inaptidão' era um preconceito para justificar outras formas de exploração.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Afirma que a Igreja Católica proibiu qualquer tipo de trabalho indígena desde o início do século XVI.",
+          "explanation": "Embora houvesse debates, o trabalho indígena foi explorado sistematicamente em missões e engenhos por séculos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "question": "O que era o 'asiento' no contexto do comércio de escravizados na América espanhola?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O registro de nascimento obrigatório para filhos de mulheres escravizadas nas colônias.",
+          "explanation": "O asiento era uma concessão de comércio externo, não um sistema de registro civil interno.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Um imposto pago pelos indígenas para evitar o recrutamento no repartimiento.",
+          "explanation": "O repartimiento era um tributo em forma de trabalho; o asiento pertencia à esfera do tráfico transatlântico de africanos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Um local de descanso destinado aos escravizados após a travessia atlântica.",
+          "explanation": "O termo não se refere a uma instalação física de repouso, mas a um direito jurídico e comercial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A prática de alugar escravizados para serviços domésticos em cidades portuárias.",
+          "explanation": "Isso era conhecido como 'escravidão de ganho', praticada individualmente pelos proprietários.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A autorização oficial da Coroa espanhola concedida a companhias privadas para comercializar africanos.",
+          "explanation": "Como a Espanha não possuía entrepostos diretos na África inicialmente, ela vendia contratos de monopólio comercial para outros mercadores.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "question": "A rebelião liderada por Túpac Amaru II na região dos Andes (1780) tinha entre seus objetivos principais:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O apoio irrestrito às Reformas Bourbônicas para aumentar a arrecadação de impostos locais.",
+          "explanation": "As Reformas Bourbônicas foram justamente um dos estopins do descontentamento que levou à rebelião.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A abolição da 'mita' e a libertação de escravizados que se aliassem ao movimento.",
+          "explanation": "O movimento buscava o fim do trabalho forçado nas minas de Potosí e a inclusão de outros oprimidos na luta.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A expulsão definitiva de todos os africanos das regiões mineradoras do Peru.",
+          "explanation": "Túpac Amaru II buscou alianças amplas, inclusive oferecendo liberdade a africanos escravizados que lutassem ao seu lado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A manutenção dos privilégios dos encomenderos contra a centralização da Coroa.",
+          "explanation": "A revolta era de caráter popular e indígena, visando abolir formas de exploração que beneficiavam as elites coloniais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A criação de uma monarquia absoluta independente baseada no modelo absolutista francês.",
+          "explanation": "O líder reivindicava a ancestralidade inca e a justiça social, não a replicação do modelo monárquico europeu.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "question": "O que diferenciava os 'escravizados de ganho' dos demais escravizados nas áreas urbanas da América portuguesa?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Eram considerados legalmente livres, mas optavam por continuar servindo aos antigos senhores.",
+          "explanation": "Apesar da autonomia relativa, eles continuavam sob o estatuto jurídico de propriedade de outra pessoa.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Trabalhavam exclusivamente nas lavouras de café, sendo pagos com moedas de ouro.",
+          "explanation": "A escravidão de ganho era um fenômeno tipicamente urbano, não ligado diretamente à monocultura de exportação rural.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Eram proibidos de sair às ruas e trabalhavam exclusivamente dentro das casas de seus senhores.",
+          "explanation": "Essa descrição se aplica aos escravos domésticos estritos, não aos de ganho que circulavam pela cidade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Recebiam educação universitária financiada pela Coroa para atuar como advogados.",
+          "explanation": "O acesso à educação formal era negado aos escravizados; suas atividades eram manuais ou comerciais simples.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Possuíam autonomia para realizar serviços externos e deveriam entregar parte do valor obtido ao proprietário.",
+          "explanation": "Eles atuavam como barbeiros, vendedores ou carregadores, permitindo certa circulação urbana enquanto geravam renda para o senhor.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "question": "Conforme o material, quais elementos definem o 'trabalho em condições análogas à escravidão' no Brasil contemporâneo?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O não pagamento de bônus de produtividade ao final do ano fiscal.",
+          "explanation": "Isso é uma falha contratual ou falta de benefício, mas não configura trabalho compulsório ou degradante.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Obrigatoriedade de trabalhar em home office sem auxílio para custos de internet.",
+          "explanation": "Trata-se de uma questão de regulação laboral moderna, mas não atinge os critérios de escravidão moderna.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A ausência de plano de saúde privado oferecido pela empresa contratante.",
+          "explanation": "Muitos empregos formais não oferecem planos privados; a escravidão análoga envolve cerceamento de liberdade e perigo à vida.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Qualquer trabalho que pague menos de dois salários mínimos mensais.",
+          "explanation": "Embora o baixo salário seja um problema social, ele sozinho não define juridicamente o trabalho análogo à escravidão.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Submissão a trabalhos forçados, jornadas exaustivas, condições degradantes e restrição de locomoção.",
+          "explanation": "Esses são os pilares jurídicos (Art. 149 do Código Penal) que caracterizam a violação da dignidade e liberdade do trabalhador hoje.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "question": "Na estrutura social da América espanhola, como os 'criollos' se diferenciavam dos 'peninsulares'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Não havia diferença entre eles, sendo termos sinônimos usados em diferentes regiões da América.",
+          "explanation": "A distinção era crucial e gerou tensões que alimentaram os movimentos de independência séculos depois.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Os criollos eram descendentes de indígenas com espanhóis, pertencendo à base da pirâmide.",
+          "explanation": "Filhos de espanhóis com indígenas eram chamados de mestiços; os criollos eram considerados 'brancos' nascidos na colônia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Os criollos eram escravizados africanos libertos, enquanto peninsulares eram nobres espanhóis.",
+          "explanation": "Ambos os grupos eram de ascendência espanhola; a diferença residia no local de nascimento.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Peninsulares eram comerciantes de classe média, enquanto os criollos detinham o monopólio da Igreja.",
+          "explanation": "Os peninsulares representavam o topo da burocracia e do poder metropolitano na colônia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Os peninsulares nasceram na Europa e ocupavam altos cargos; os criollos nasceram na América e tinham restrições políticas.",
+          "explanation": "Apesar de serem a elite econômica local, os criollos eram impedidos de ocupar as posições mais elevadas da administração colonial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "question": "No que diz respeito à organização da produção nas 'plantations' do sul das Treze Colônias, qual era a principal característica da mão de obra?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Uso predominante de servos por contrato que recebiam terras após 10 anos de trabalho.",
+          "explanation": "A servidão por contrato foi usada, mas o modelo de plantation consolidou-se com o trabalho escravizado africano.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Cooperativas de indígenas que comercializavam peles de animais diretamente com a Inglaterra.",
+          "explanation": "As plantações focavam em produtos agrícolas de exportação, não em atividades extrativistas de peles.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Exploração massiva de africanos escravizados em grandes propriedades monocultoras de tabaco ou algodão.",
+          "explanation": "O Sul desenvolveu uma economia dependente do tráfico transatlântico e da exploração vitalícia e hereditária de negros.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Pequenas propriedades familiares focadas na policultura para subsistência local.",
+          "explanation": "Essa é a descrição das colônias do Norte; o Sul focava em grandes latifúndios monocultores para exportação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Trabalho assalariado de imigrantes alemães e italianos atraídos por altos salários.",
+          "explanation": "O assalariamento em larga escala só se tornaria predominante na região após a Guerra de Secessão e a abolição.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "question": "O que caracteriza o chamado 'trabalho plataformizado' ou 'uberização', conforme discutido nas seções contemporâneas do livro?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A proibição de utilizar smartphones ou internet durante a execução das tarefas laborais.",
+          "explanation": "As ferramentas digitais são a base essencial desse modelo de trabalho, não algo proibido.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A garantia de estabilidade no emprego e aposentadoria integral paga pelas plataformas.",
+          "explanation": "O trabalho plataformizado é instável e o trabalhador geralmente deve arcar com sua própria previdência como autônomo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A mediação do trabalho por empresas que se apresentam como meras intermediárias digitais, reduzindo vínculos empregatícios.",
+          "explanation": "As plataformas definem as normas, mas evitam as responsabilidades legais de um empregador tradicional (CLT).",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "O fim da concorrência entre os trabalhadores, que passam a cooperar em um sistema de ganhos fixos.",
+          "explanation": "A competitividade é estimulada pelos algoritmos para maximizar a oferta de serviço a custos baixos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O fortalecimento dos sindicatos que negociam jornais de 6 horas para entregadores.",
+          "explanation": "A plataformização é marcada pela dificuldade de organização sindical e pela fragilidade dos direitos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "question": "Segundo o material, como os movimentos de resistência como os 'quilombos' se manifestavam fora da América portuguesa?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pelo retorno imediato e em massa de todos os fugitivos para seus reinos de origem na África.",
+          "explanation": "O retorno era extremamente difícil; a resistência focava em construir espaços de liberdade no próprio continente americano.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Apenas por meio de petições por escrito enviadas diretamente ao Papa em Roma.",
+          "explanation": "Embora houvesse petições, a resistência física e a formação de territórios livres eram as formas mais diretas e comuns.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Pela criação de partidos políticos reconhecidos pelas metrópoles europeias no século XVII.",
+          "explanation": "A resistência era marginalizada e combatida militarmente, não integrada ao sistema político oficial na época.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Através de comunidades chamadas de 'cimarronajes', 'palenques' ou 'maroons' em colônias espanholas, inglesas e francesas.",
+          "explanation": "Esses nomes variam conforme a língua do colonizador, mas representam a mesma estratégia de fuga e vida comunitária livre.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Eles não existiam, sendo um fenômeno exclusivo do Brasil devido à sua vasta extensão territorial.",
+          "explanation": "Comunidades de resistência existiram em quase toda a América onde houve escravidão africana.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "question": "As 'Leis Novas' de 1542, na América espanhola, tiveram qual impacto direto sobre a organização do trabalho?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Extinguiram o sistema de castas, permitindo que mestiços governassem os vice-reinos.",
+          "explanation": "O sistema de castas e a exclusão política de não-peninsulares persistiram por séculos após 1542.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Tornaram obrigatório o uso de máquinas a vapor em todas as fazendas de açúcar mexicanas.",
+          "explanation": "Em 1542 a tecnologia a vapor ainda não existia; a produção era manual, hidráulica ou por tração animal.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Proibiram a escravização de indígenas, levando à busca por outras formas de trabalho compulsório e africanos.",
+          "explanation": "O debate liderado por Bartolomé de las Casas resultou nessa proibição, mas abriu caminho para a 'encomienda' e o tráfico negreiro.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Decretaram a liberdade imediata de todos os africanos escravizados no Caribe.",
+          "explanation": "As Leis Novas focavam na situação dos indígenas; a escravidão africana continuou e foi até sugerida como substituta.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Obrigaram os espanhóis a trabalharem nas minas ao lado dos indígenas em igualdade de condições.",
+          "explanation": "A hierarquia social colonial mantinha os espanhóis em posições de supervisão ou propriedade, nunca em trabalho braçal minerador.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "question": "O 'comércio triangular' envolvia a troca de quais produtos e sujeitos entre as Treze Colônias, o Caribe e a África?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Baleias da Nova Inglaterra por especiarias asiáticas e seda africana.",
+          "explanation": "As especiarias asiáticas não faziam parte dessa rota atlântica específica de autonomia dos colonos americanos.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Prata mexicana por cacau brasileiro e soldados britânicos treinados.",
+          "explanation": "O comércio triangular era uma prática de mercadores coloniais ingleses, não envolvendo a prata espanhola como base.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Apenas livros e ideias iluministas trocados por café e açúcar refinado na Europa.",
+          "explanation": "O foco era puramente mercantil e baseado na exploração humana, não apenas em intercâmbio intelectual.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ouro da África por chá da Inglaterra e manufaturas da América do Norte.",
+          "explanation": "O comércio triangular era uma rede específica que ligava as colônias e envolvia principalmente derivados de cana e escravizados.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Rum e melaço do Caribe por escravizados na África, que eram vendidos na América por produtos como tabaco e madeira.",
+          "explanation": "Essa dinâmica permitia lucros em todas as etapas, mantendo os porões dos navios sempre carregados com mercadorias valiosas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "question": "Qual foi a consequência social dos 'Cercamentos' (Enclosure Acts) na Inglaterra para a massa de camponeses?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Foram obrigados a migrar para as cidades, tornando-se mão de obra barata para as indústrias em expansão.",
+          "explanation": "A perda das terras comunais gerou um êxodo rural massivo, criando o contingente de trabalhadores necessário para a Revolução Industrial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Eles tornaram-se pequenos proprietários de terras altamente produtivas e mecanizadas.",
+          "explanation": "Os cercamentos beneficiaram a nobreza rural (gentry) e retiraram as terras das mãos dos camponeses.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Passaram a receber pensões do governo britânico para não trabalharem mais no campo.",
+          "explanation": "Não havia sistema de seguridade social na época; o resultado foi a pobreza e a necessidade de aceitar qualquer salário nas fábricas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ganharam o direito de votar no Parlamento e impedir a expansão das manufaturas de lã.",
+          "explanation": "O poder político estava concentrado nos proprietários de terra e na burguesia; os camponeses não tinham voz no Parlamento.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Foram deportados em massa para a Austrália para trabalhar como guardas prisionais.",
+          "explanation": "Embora houvesse deportações de criminosos, a maioria dos camponeses pobres acabou nas cidades inglesas como operários.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "question": "No Brasil, a Consolidação das Leis do Trabalho (CLT), em 1943, garantiu aos trabalhadores:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Salário mínimo, jornada limitada, férias remuneradas e licença-maternidade.",
+          "explanation": "Esses direitos foram o resultado de décadas de lutas sindicais e da política trabalhista do governo Vargas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A propriedade das fábricas caso o patrão não pagasse o salário em dia.",
+          "explanation": "A CLT protege o trabalhador, mas mantém a estrutura de propriedade privada dos meios de produção.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O direito de escolherem livremente seus próprios patrões sem necessidade de contrato.",
+          "explanation": "A CLT sistematizou obrigações e direitos em um marco legal rigoroso, não em escolhas informais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Isenção total de impostos para qualquer pessoa que trabalhasse na agricultura.",
+          "explanation": "A legislação foca em direitos trabalhistas e sociais, não em reformas tributárias de isenção total.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O fim imediato de todas as formas de trabalho informal nas periferias brasileiras.",
+          "explanation": "Mesmo com a CLT, o trabalho informal continuou sendo uma realidade persistente para grande parte da população.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "question": "Como os africanos escravizados reagiram à coisificação (serem tratados como 'peças' ou 'braços') imposta pelos colonizadores?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Abandonaram totalmente suas religiões originais para abraçar o catolicismo como única forma de alforria.",
+          "explanation": "Muitos mantiveram suas crenças ou criaram sincretismos religiosos como forma de preservação cultural.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Aliaram-se aos feitores para oprimir outros grupos étnicos africanos em troca de salários.",
+          "explanation": "Embora houvesse tensões, a estrutura era de opressão senhorial e o objetivo central era a sobrevivência e a liberdade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Aceitaram passivamente a condição, pois acreditavam na superioridade técnica europeia.",
+          "explanation": "Houve resistência constante e multifacetada, desmentindo qualquer ideia de aceitação passiva.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Empregaram inteligência para manter sua cultura, realizar fugas, rebeliões e buscar a liberdade.",
+          "explanation": "As pessoas escravizadas nunca foram 'coisas' e agiram como sujeitos históricos através de diversas formas de resistência.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Pararam de ter filhos para evitar que novas gerações fossem escravizadas.",
+          "explanation": "A formação de famílias era uma estratégia de resistência e criação de laços afetivos em meio à violência.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "question": "O sistema de castas na América espanhola baseava-se em qual conceito ibérico de exclusão social?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O princípio da igualdade jurídica perante o monarca.",
+          "explanation": "O sistema de castas criava desigualdades jurídicas explícitas entre os diferentes grupos da sociedade.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Os estatutos de limpeza de sangue (limpieza de sangre).",
+          "explanation": "Originalmente usado contra judeus e muçulmanos na Península Ibérica, foi adaptado na América para incluir indígenas e africanos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "O sufrágio universal masculino.",
+          "explanation": "O sufrágio universal é um conceito democrático moderno, oposto à lógica excludente das castas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O código de cavalaria medieval francesa.",
+          "explanation": "Embora houvesse elementos de nobreza, a base da divisão social colonial era étnico-racial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A meritocracia baseada no sucesso comercial nas minas.",
+          "explanation": "A posição social era determinada pelo nascimento e origem étnica, não apenas pelo sucesso financeiro.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "question": "De acordo com o livro, qual a diferença fundamental entre o sistema artesanal e as manufaturas do século XVII?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Não há diferença real, pois em ambos os sistemas o trabalhador era dono de suas ferramentas.",
+          "explanation": "Na manufatura, o trabalhador geralmente perdia a posse das ferramentas, que passavam a pertencer ao empresário.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "No artesanal o trabalhador usa máquinas a vapor, na manufatura usa apenas as mãos.",
+          "explanation": "As máquinas a vapor são características da fase industrial posterior, não do artesanato ou da manufatura inicial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A manufatura era realizada em casa (sistema doméstico), enquanto o artesanato era em grandes fábricas.",
+          "explanation": "A manufatura reunia trabalhadores em oficinas coletivas; o sistema doméstico é que era descentralizado nas casas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "No artesanal o trabalhador controla todo o processo; na manufatura o trabalho é fragmentado e dividido em etapas.",
+          "explanation": "A manufatura introduziu a divisão do trabalho, onde cada operário realiza apenas uma parte da confecção do produto.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "O artesão recebia salários fixos mensais, enquanto o operário da manufatura era dono dos lucros.",
+          "explanation": "O artesão era dono de seu produto; na manufatura, o lucro pertencia ao empresário que pagava por jornada.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "question": "A 'mita', utilizada pelos espanhóis nas minas de Potosí, foi uma adaptação de qual sistema pré-colombiano?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A divisão igualitária de terras entre os povos Tupi no litoral brasileiro.",
+          "explanation": "A mita é uma instituição andina; os povos Tupi tinham organizações sociais e econômicas distintas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A democracia direta das comunidades maias da Guatemala.",
+          "explanation": "A mita era uma obrigação imposta pelo Estado, oposta ao conceito de participação democrática direta.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O trabalho compulsório rotativo praticado no Império Inca.",
+          "explanation": "Os espanhóis aproveitaram as estruturas de poder e cadeias de comando que já existiam nas sociedades andinas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "O comércio de longa distância dos povos nômades do Rio da Prata.",
+          "explanation": "A mita focava na produção e extração sedentária, especialmente em minas e obras públicas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O sistema de sacrifícios humanos dos Astecas.",
+          "explanation": "A mita era um sistema de trabalho tributário, não relacionado a rituais de sacrifício religioso.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "question": "No Brasil do final do século XIX, após a abolição, como o racismo se manifestava no mercado de trabalho segundo anúncios da época?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pela exigência explícita de 'boa aparência' ou cor branca como critério de contratação.",
+          "explanation": "Anúncios buscavam 'criadas brancas' ou imigrantes europeus, revelando um mecanismo sutil de exclusão racial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Pela concessão de bolsas de estudo exclusivas para ex-escravizados nas fábricas.",
+          "explanation": "O pós-abolição foi marcado pela falta de políticas de integração e pelo racismo estrutural, não por benefícios.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Pela proibição total de negros morarem nas cidades industriais.",
+          "explanation": "Negros viviam nas cidades, mas eram empurrados para a informalidade ou postos marginalizados.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Pela obrigatoriedade de todas as empresas terem 50% de funcionários afrodescendentes.",
+          "explanation": "Leis de cotas ou ações afirmativas são debates muito mais recentes, inexistentes no século XIX.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Pelo pagamento de salários triplicados para trabalhadores negros para compensar o passado.",
+          "explanation": "Os trabalhadores negros enfrentavam rendimentos menores e maior precariedade em comparação aos brancos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "question": "Qual o papel do cacique nas 'cabeceras de índios' estabelecidas pela administração espanhola?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Organizar o trabalho compulsório dos indígenas para os espanhóis em troca de títulos e isenção de impostos.",
+          "explanation": "Os espanhóis usavam as lideranças locais para facilitar o controle e a extração de tributos da comunidade.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Atuar como bispo católico responsável por batizar todos os africanos do vice-reino.",
+          "explanation": "Os caciques mantinham funções políticas e administrativas locais, não funções clericais de alto escalão.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Dividir suas terras igualmente com todos os colonos espanhóis recém-chegados.",
+          "explanation": "A terra da cabecera era um território sob sua responsabilidade, não para distribuição privada aos colonos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Liderar revoltas armadas mensais contra os impostos reais.",
+          "explanation": "Embora houvesse revoltas, o papel oficial do cacique na cabecera era de mediação e colaboração forçada ou negociada.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Viajar anualmente a Madri para votar nas leis do Parlamento espanhol.",
+          "explanation": "Os caciques eram súditos vassalos com poder local limitado, sem participação na política metropolitana europeia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "question": "A síndrome de 'burnout', mencionada no glossário contemporâneo do livro, está relacionada a:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "À felicidade extrema sentida pelos trabalhadores ao receberem o primeiro salário.",
+          "explanation": "Pelo contrário, o burnout está associado a sentimentos negativos, cansaço e despersonalização no trabalho.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Uma doença contagiosa transmitida em fábricas de produtos químicos.",
+          "explanation": "O burnout é um distúrbio psicológico e ocupacional, não uma doença biológica infectocontagiosa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ao processo de queima de carvão mineral para gerar energia elétrica nas cidades.",
+          "explanation": "A expressão 'burnout' (queimar-se por completo) é uma metáfora para o esgotamento das energias mentais do indivíduo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ao superaquecimento das máquinas a vapor durante a Segunda Revolução Industrial.",
+          "explanation": "O termo refere-se à saúde mental humana, não a falhas técnicas em maquinários históricos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Exaustão e esgotamento extremos causados por ambientes de trabalho com alta pressão e competitividade.",
+          "explanation": "É um reflexo das demandas excessivas e do estresse crônico característicos de certas profissões modernas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "question": "O 'Pacto Colonial' estabelecia qual tipo de relação comercial entre metrópole e colônia?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A obrigação da metrópole de enviar todos os seus nobres para viverem permanentemente nas lavouras.",
+          "explanation": "A elite metropolitana geralmente permanecia na Europa, administrando a colônia através de burocratas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A proibição total de qualquer atividade comercial nos portos americanos durante o inverno.",
+          "explanation": "O comércio era contínuo e vital para a economia mercantilista, ocorrendo durante o ano todo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Um acordo onde a metrópole pagava o dobro do preço de mercado pelos produtos coloniais.",
+          "explanation": "A metrópole impunha preços baixos para maximizar seus lucros na revenda na Europa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Livre comércio global, permitindo que a colônia vendesse para qualquer país interessado.",
+          "explanation": "O Pacto era um sistema de exclusividade e monopólio, não de livre mercado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A colônia só podia comercializar com sua metrópole, fornecendo matérias-primas baratas e comprando manufaturas caras.",
+          "explanation": "Esse sistema garantia o enriquecimento da metrópole e a dependência econômica total da colônia.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "question": "O que o texto define como 'desemprego estrutural' no contexto das transformações tecnológicas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Quando um trabalhador pede demissão por vontade própria para viajar pelo mundo.",
+          "explanation": "Isso é classificado como desemprego voluntário, sem relação com a substituição tecnológica.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O desemprego que ocorre apenas durante as crises de falta de chuva na agricultura.",
+          "explanation": "Isso seria desemprego sazonal ou conjuntural, não ligado à estrutura tecnológica permanente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A falta de engenheiros civis especializados na construção de estruturas de concreto armado.",
+          "explanation": "O termo 'estrutural' aqui refere-se à estrutura econômica e técnica, não à construção civil física.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O período de férias coletivas onde as fábricas param para manutenção.",
+          "explanation": "Férias coletivas são períodos remunerados de interrupção, não perda de emprego definitiva.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Aquele causado por inovações tecnológicas que substituem postos de trabalho humano por máquinas ou algoritmos.",
+          "explanation": "Refere-se à destruição permanente de certas funções laborais devido ao progresso técnico e automação.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "question": "NaAmérica espanhola, como eram chamados os filhos de espanhóis com indígenas e qual era sua posição social?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Chamados de mestiços, geralmente trabalhavam em pequenos comércios ou serviços domésticos, sem prestígio.",
+          "explanation": "Eles formavam uma camada intermediária numerosa, mas excluída das posições de poder e riqueza da elite branca.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Eram os vice-reis, detendo o poder absoluto sobre as províncias.",
+          "explanation": "O cargo de vice-rei era reservado exclusivamente aos peninsulares (espanhóis europeus).",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Eram os 'zambos', destinados unicamente ao trabalho pesado nas minas de prata.",
+          "explanation": "Zambos eram filhos de indígenas com africanos; a mistura de espanhol com indígena gerava o mestiço.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Chamados de 'mulatos', tinham prioridade na compra de terras em Cuba.",
+          "explanation": "Mulatos eram filhos de espanhóis com africanos; a hierarquia racial era muito rígida quanto a essas distinções.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Eram considerados nobres hereditários com isenção total de impostos para sempre.",
+          "explanation": "A mestiçagem era vista pelos espanhóis como um 'problema social' que justificava a exclusão desses indivíduos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "question": "O 'New Deal', implementado nos EUA após a crise de 1929, afetou o mercado de trabalho através de:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pela expulsão de todos os imigrantes para garantir vagas apenas aos nascidos no país.",
+          "explanation": "Embora houvesse tensões nativistas, o cerne do New Deal era o investimento estatal e a proteção social.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Pelo fim imediato da escravidão no sul dos Estados Unidos.",
+          "explanation": "A escravidão nos EUA foi abolida décadas antes, em 1865, após a Guerra de Secessão.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Investimentos massivos em obras de infraestrutura para absorver a mão de obra desempregada.",
+          "explanation": "O governo interveio na economia para gerar empregos e reaquecer o consumo através de obras públicas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Pela proibição de qualquer pessoa trabalhar mais de duas horas por dia.",
+          "explanation": "O objetivo era criar postos de trabalho dignos e produtivos, não paralisar a atividade laboral.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Pela estatização de todas as fábricas de automóveis de Detroit.",
+          "explanation": "O New Deal buscava salvar o capitalismo através da intervenção, não extinguir a propriedade privada industrial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "question": "Por que o material afirma que as pessoas escravizadas 'jamais foram coisas', apesar dos termos usados pelos colonizadores?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pois agiam como sujeitos, utilizando inteligência e conhecimentos especializados para transformar a realidade e resistir.",
+          "explanation": "A condição jurídica de 'objeto' não apagava sua humanidade, saberes técnicos e capacidade de luta política e cultural.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Porque elas possuíam o direito de votar nas eleições coloniais locais.",
+          "explanation": "Os direitos políticos eram inexistentes para os escravizados na ordem colonial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Devido ao fato de que podiam processar seus donos em tribunais internacionais a qualquer momento.",
+          "explanation": "O acesso à justiça era extremamente restrito e a lei geralmente protegia o direito de propriedade do senhor.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Porque a própria palavra 'escravizado' no latim significa 'pessoa livre de espírito'.",
+          "explanation": "A etimologia da palavra não altera a violência da condição imposta; o texto destaca a resistência humana frente à desumanização.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Porque recebiam salários em dia e tinham sindicatos fortes desde o século XVI.",
+          "explanation": "O regime era de trabalho forçado e punições físicas, sem salários ou organização sindical permitida.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

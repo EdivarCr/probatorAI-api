@@ -1,0 +1,1240 @@
+{
+  "capturedAt": "2026-04-29T12:11:49.225Z",
+  "source": "notebooklm",
+  "url": "blob:https://3i7nl36hqkevli3ipwhifbq6sjadxc6c64hrzpz2a6tce4us00-h903225159.scf.usercontent.goog/fdf1963b-0d03-4698-9cfb-956e18f0fc3f",
+  "totalQuestions": 30,
+  "subject": "historia",
+  "level": "dificil",
+  "questions": [
+    {
+      "index": 1,
+      "question": "Por que a Assembleia Constituinte de 1823, que elaborava a chamada 'Constituição da Mandioca', foi dissolvida por Dom Pedro I?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Os deputados buscavam limitar o poder do monarca e restringir a participação de estrangeiros na política.",
+          "explanation": "O projeto constitucional visava reduzir o absolutismo real e afastar a influência portuguesa, o que levou Dom Pedro I a fechar a assembleia de forma autoritária.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A assembleia propunha a instauração de uma república federativa nos moldes da constituição estadunidense.",
+          "explanation": "A maioria dos parlamentares em 1823 defendia a monarquia constitucional, e não a transição para um regime republicano.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A assembleia pretendia abolir a escravidão imediatamente, contrariando os interesses dos grandes proprietários.",
+          "explanation": "Embora a escravidão fosse um tema central, a assembleia era composta majoritariamente por elites que não defendiam a abolição imediata naquele momento.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Houve uma invasão militar estrangeira que impediu a continuidade dos trabalhos legislativos no Rio de Janeiro.",
+          "explanation": "A dissolução foi um ato interno de força do próprio imperador, conhecido como a 'Noite da Agonia', e não fruto de intervenção externa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O projeto determinava o fim do voto censitário, permitindo a participação política de todas as camadas sociais.",
+          "explanation": "A 'Constituição da Mandioca' mantinha o voto censitário, apenas mudando a base de cálculo para a produção agrícola.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "Qual inovação institucional da Constituição de 1824 permitia ao Imperador intervir diretamente nos outros poderes do Estado?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O Sufrágio Universal, que garantia ao imperador o apoio direto da população contra as elites.",
+          "explanation": "O sistema era censitário e restringia o voto aos cidadãos com renda comprovada, excluindo a maior parte da população.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O Padroado, que subordinava as decisões do Judiciário às diretrizes da Igreja Católica.",
+          "explanation": "O Padroado ligava a Igreja ao Estado, mas não era o mecanismo de equilíbrio ou intervenção entre os poderes políticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A Guarda Nacional, que funcionava como uma milícia privada do imperador para coagir o Parlamento.",
+          "explanation": "A Guarda Nacional foi criada apenas em 1831, após a abdicação de Dom Pedro I, para manter a ordem local.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O Poder Moderador, exercido exclusivamente pelo monarca para garantir a harmonia e unidade nacional.",
+          "explanation": "Este poder era a chave do sistema político imperial, permitindo ao monarca nomear senadores e dissolver a Câmara dos Deputados.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "O Conselho de Estado, que tinha poder de veto absoluto sobre todas as leis aprovadas pelo Legislativo.",
+          "explanation": "O Conselho de Estado era um órgão consultivo, embora influente, não possuía a natureza de intervenção direta em outros poderes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "A Confederação do Equador (1824) foi um movimento de resistência que eclodiu em Pernambuco motivado principalmente por:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A queda do preço do café no mercado internacional, que afetou a elite pernambucana.",
+          "explanation": "Nesse período, o café ainda não era o motor econômico principal de Pernambuco, sendo o açúcar e o algodão mais relevantes.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A invasão de tropas britânicas que buscavam forçar o fim imediato do tráfico negreiro.",
+          "explanation": "Embora houvesse pressão britânica, a revolta de 1824 foi um conflito político interno entre liberais e o governo central.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A insatisfação com a outorga da Constituição de 1824 e o autoritarismo de Dom Pedro I.",
+          "explanation": "A imposição da constituição e a criação do Poder Moderador foram vistas como traições aos ideais liberais, levando à revolta republicana.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "O apoio do imperador ao retorno do Brasil à condição de colônia de Portugal.",
+          "explanation": "Dom Pedro I havia rompido com as Cortes de Lisboa; o conflito era sobre como ele governava o Brasil independente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O desejo de unificação com as ex-colônias espanholas para formar uma grande nação andina.",
+          "explanation": "O movimento era regional e separatista, focado no Nordeste brasileiro, sem pretensões de união com nações hispânicas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "question": "No contexto internacional da década de 1820, qual foi o primeiro país a reconhecer formalmente a independência do Brasil?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Estados Unidos, fundamentados na Doutrina Monroe de oposição à interferência europeia na América.",
+          "explanation": "Os EUA reconheceram o Brasil em 1824, defendendo a ideia de 'a América para os americanos'.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Argentina, como gesto de solidariedade republicana entre vizinhos sul-americanos.",
+          "explanation": "A relação com as Províncias Unidas do Rio da Prata (Argentina) era tensa devido à disputa pela Cisplatina.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "França, devido aos laços culturais estreitos estabelecidos pela Missão Artística Francesa.",
+          "explanation": "A França aguardou a definição da legitimidade dinástica na Europa antes de reconhecer o Brasil.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Portugal, visando manter a união dinástica através da sucessão de Dom Pedro I.",
+          "explanation": "Portugal foi um dos últimos a reconhecer, exigindo o pagamento de uma vultosa indenização em 1825.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Reino Unido, que buscava ampliar seus acordos comerciais com o novo império.",
+          "explanation": "O Reino Unido atuou como mediador, mas seu reconhecimento oficial só veio após Portugal aceitar a separação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "question": "A Guerra da Cisplatina (1825-1828) teve como uma de suas consequências mais duradouras para a geopolítica da região:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A criação da República Oriental do Uruguai como um Estado independente e soberano.",
+          "explanation": "A independência do Uruguai foi o resultado de um tratado de paz mediado pela Inglaterra para encerrar o conflito entre Brasil e Argentina.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A anexação definitiva do território ao Império do Brasil como província estratégica.",
+          "explanation": "O Brasil perdeu o domínio sobre a região, que havia sido incorporada anteriormente por Dom João VI.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A unificação das coroas de Brasil e Portugal sob o comando de Dom Pedro I.",
+          "explanation": "Pelo contrário, a crise sucessória em Portugal e o desgaste da guerra levaram Pedro I a abdicar do trono brasileiro.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O fortalecimento da popularidade de Dom Pedro I devido à vitória militar decisiva.",
+          "explanation": "A guerra foi impopular, cara e resultou em derrota diplomática, acelerando o desgaste do imperador.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A extinção imediata do tráfico negreiro por exigência da Argentina vitoriosa.",
+          "explanation": "A questão do tráfico não foi o ponto central do tratado de paz da Cisplatina.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "question": "O Período Regencial (1831-1840) é frequentemente descrito pela historiografia como uma 'experiência republicana' por causa de:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A participação de escravizados e indígenas nas eleições para escolha dos regentes.",
+          "explanation": "O sistema eleitoral permaneceu altamente excludente e censitário durante toda a regência.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A extinção formal da monarquia e a adoção do sistema de eleição direta para presidente.",
+          "explanation": "O Brasil continuou sendo uma monarquia, apenas governada por regentes devido à menoridade do herdeiro.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A abolição total do Poder Moderador durante os dez anos de regência.",
+          "explanation": "O Poder Moderador foi suspenso na prática para os regentes, mas não foi excluído da estrutura jurídica do Estado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A ausência total de conflitos armados, refletindo um consenso democrático entre as elites.",
+          "explanation": "Foi um dos períodos mais violentos da história brasileira, marcado por inúmeras revoltas provinciais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O Ato Adicional de 1834, que concedeu maior autonomia legislativa às províncias.",
+          "explanation": "As reformas descentralizadoras deste período aproximaram a administração do modelo federativo típico de repúblicas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "question": "Qual era o objetivo principal dos defensores do 'Golpe da Maioridade' em 1840?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Centralizar o poder na figura do imperador para conter as revoltas e garantir a unidade territorial.",
+          "explanation": "Acreditava-se que a figura de Dom Pedro II traria a legitimidade necessária para encerrar a instabilidade do período regencial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Garantir o direito de voto às mulheres e aos analfabetos para ampliar a base de apoio.",
+          "explanation": "A cidadania continuou restrita e o sistema político permaneceu dominado pelas elites agrárias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Acelerar a transição para o trabalho livre através da imigração europeia subsidiada.",
+          "explanation": "Embora o debate sobre imigração existisse, o foco imediato do golpe era a estabilidade política e institucional.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Instaurar uma ditadura militar liderada pelos generais que venceram a Farroupilha.",
+          "explanation": "O golpe visava a ascensão de um monarca civil, não de uma junta militar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Promover a separação definitiva entre a Igreja e o Estado brasileiro.",
+          "explanation": "A monarquia manteve o sistema de Padroado, reforçando os laços com a Igreja Católica após a maioridade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "question": "Sobre os partidos Liberal e Conservador no Segundo Reinado, é correto afirmar que:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Havia pouca diferença prática entre eles, sendo ambos defensores da ordem social baseada na grande propriedade.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Os liberais eram exclusivamente urbanos e industriais, enquanto os conservadores eram rurais.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Possuíam programas ideológicos opostos, com os liberais defendendo o fim imediato da escravidão.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O Partido Liberal era proibido de participar de eleições pelo Poder Moderador.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Os conservadores defendiam a transformação do Brasil em uma república federativa descentralizada.",
+          "explanation": null,
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "question": "O Instituto Histórico e Geográfico Brasileiro (IHGB), fundado em 1838, teve como papel fundamental na consolidação do Estado:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A organização das primeiras indústrias de base para garantir a independência econômica.",
+          "explanation": "O foco da instituição era a história e a geografia como ferramentas de construção de identidade, não a economia industrial.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A tradução de textos clássicos gregos para substituir o ensino da língua portuguesa.",
+          "explanation": "O objetivo era exaltar a língua portuguesa e a natureza brasileira como símbolos de civilização.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A fiscalização das fronteiras terrestres contra invasões de países vizinhos.",
+          "explanation": "O papel do IHGB era intelectual e cultural, não militar ou de patrulhamento físico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A defesa dos direitos territoriais dos povos indígenas contra o avanço das fazendas de café.",
+          "explanation": "A narrativa oficial muitas vezes romantizava o indígena do passado (indianismo), mas ignorava as lutas dos povos reais no presente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A construção de uma narrativa histórica oficial que valorizava a monarquia e a identidade nacional.",
+          "explanation": "O IHGB buscava criar raízes históricas e símbolos que justificassem a existência da nação brasileira sob o regime imperial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "question": "O sistema de 'parlamentarismo às avessas' no Segundo Reinado diferenciava-se do modelo britânico porque:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O Legislativo tinha o poder de depor o monarca caso o orçamento não fosse aprovado.",
+          "explanation": "O monarca era inviolável e sagrado, e a constituição garantia sua permanência no trono.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O primeiro-ministro era eleito diretamente pelo povo, sem interferência do rei.",
+          "explanation": "No Brasil, não havia eleição direta para esse cargo; a nomeação passava pelo imperador.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "O imperador detinha o Poder Moderador, que lhe permitia nomear e demitir o gabinete ministerial à vontade.",
+          "explanation": "Diferente da Inglaterra, onde o rei reina mas não governa, no Brasil o imperador mantinha o controle final sobre a política.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Não havia a figura do presidente do conselho de ministros, apenas ministros isolados.",
+          "explanation": "O cargo de Presidente do Conselho de Ministros foi criado em 1847, consolidando o sistema parlamentar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "As eleições eram livres de fraudes e garantiam a soberania do voto popular sobre a coroa.",
+          "explanation": "As fraudes eleitorais eram comuns e o imperador utilizava seu poder para manipular o resultado conforme a necessidade de alternância.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "question": "A Lei de Terras de 1850 foi um marco legal importante porque determinou que:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Toda a terra não cultivada seria distribuída gratuitamente aos imigrantes europeus.",
+          "explanation": "A lei visava justamente impedir o acesso gratuito, obrigando a aquisição de terras por compra.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O acesso à propriedade da terra no Brasil passaria a ser feito exclusivamente por meio da compra.",
+          "explanation": "Isso dificultava o acesso de ex-escravizados e imigrantes pobres à terra, mantendo a estrutura dos latifúndios.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "O governo confiscaria as propriedades dos fazendeiros que ainda utilizassem mão de obra escrava.",
+          "explanation": "A lei foi feita pela própria elite escravocrata para garantir seu domínio sobre o território diante do fim do tráfico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "As terras indígenas seriam devolvidas aos seus povos originários de forma vitalícia.",
+          "explanation": "A lei ignorava as territorialidades indígenas, tratando-as como 'terras devolutas' passíveis de apropriação pelo Estado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ficava proibida a venda de terras para empresas estrangeiras no território nacional.",
+          "explanation": "A lei não restringia a compra por estrangeiros, desde que tivessem o capital necessário para a transação oficial.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "question": "A 'Questão Militar', um dos fatores da crise da monarquia, originou-se principalmente:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pela recusa do exército em lutar na Guerra do Paraguai devido aos baixos salários.",
+          "explanation": "O exército lutou na guerra, mas foi após ela que os conflitos políticos com o império se acirraram.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Pela tentativa do governo imperial de substituir o exército nacional por mercenários britânicos.",
+          "explanation": "O governo tentou fortalecer a Guarda Nacional em detrimento do exército, mas não houve plano de substituição por estrangeiros.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Pelo apoio total do Imperador Dom Pedro II ao movimento abolicionista radical dentro dos quartéis.",
+          "explanation": "Embora muitos oficiais fossem abolicionistas, o imperador demorou a agir, o que gerou atritos com a classe militar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Pelo descontentamento dos oficiais com a interferência de políticos civis em assuntos internos e pela proibição de se manifestarem na imprensa.",
+          "explanation": "Os militares voltaram fortalecidos da Guerra do Paraguai e não aceitavam mais a submissão aos políticos do império.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Pela imposição de uma constituição militarista que retirava o poder de voto dos civis.",
+          "explanation": "A constituição em vigor era a de 1824, e os militares justamente queriam uma nova ordem republicana.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "question": "A proclamação da República em 1889 pode ser caracterizada como um 'golpe' porque:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Houve uma invasão estrangeira que impôs o regime republicano ao Brasil para facilitar o comércio.",
+          "explanation": "O movimento foi estritamente interno, embora influenciado por ideais positivistas e pelo modelo republicano das Américas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Foi uma ação exclusiva de militares e elites dissidentes, sem consulta ou participação da população brasileira.",
+          "explanation": "A mudança de regime foi articulada em gabinetes e quartéis, afastando a família real de forma abrupta e sem plebiscito inicial.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Foi resultado de uma revolta popular massiva que tomou as ruas do Rio de Janeiro.",
+          "explanation": "O povo assistiu a tudo 'bestializado', sem entender que se tratava de uma mudança de regime, como descreveu Aristides Lobo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Teve o apoio unânime de todos os fazendeiros de café que queriam o fim da escravidão.",
+          "explanation": "Muitos fazendeiros tornaram-se republicanos de última hora ('republicanos de 14 de maio') por ressentimento com a Lei Áurea.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Dom Pedro II liderou o movimento para evitar que sua filha, a Princesa Isabel, assumisse o trono.",
+          "explanation": "O imperador foi deposto pelos republicanos e partiu para o exílio, surpreso com o desenrolar dos fatos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "question": "A Constituição de 1891, a primeira da República, estabeleceu o sistema de governo e de voto da seguinte forma:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Parlamentarismo e voto censitário baseado na produção de sacas de café.",
+          "explanation": "O regime tornou-se presidencialista e o critério de renda para votar foi formalmente extinto.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Estado unitário centralizado com voto obrigatório para indígenas e ex-escravizados.",
+          "explanation": "O Brasil tornou-se uma federação (Estados Unidos do Brasil) com grande autonomia para os estados.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ditadura militar e suspensão de todos os direitos políticos e eleições por tempo indeterminado.",
+          "explanation": "Apesar do início militar (República da Espada), a constituição previa eleições periódicas e direitos individuais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Presidencialismo federativo e voto restrito a homens alfabetizados maiores de 21 anos.",
+          "explanation": "A alfabetização tornou-se a nova barreira de exclusão, retirando o direito de voto da grande maioria da população.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Monarquia constitucional e voto universal masculino e feminino para maiores de 18 anos.",
+          "explanation": "A monarquia foi extinta e as mulheres continuaram sem o direito de votar na primeira constituição republicana.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "question": "O termo 'coronelismo', típico da Primeira República, refere-se ao fenômeno em que:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O exército assumia o controle direto das prefeituras para evitar fraudes eleitorais.",
+          "explanation": "O coronelismo era exercido por líderes civis locais, geralmente grandes fazendeiros, e não pelo exército profissional.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Líderes políticos locais usavam seu poder econômico e social para controlar os votos da população em troca de favores.",
+          "explanation": "O 'voto de cabresto' era a ferramenta central desse sistema de poder baseado no clientelismo e na coerção.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Os governadores estaduais eram obrigatoriamente oficiais generais da reserva.",
+          "explanation": "O título de 'coronel' era uma herança simbólica da antiga Guarda Nacional, não um posto ativo na hierarquia militar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Havia uma revolta permanente dos pequenos agricultores contra os grandes latifundiários.",
+          "explanation": "O coronelismo visava justamente manter a submissão dos trabalhadores rurais aos donos de terras.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O governo federal distribuía patentes militares para todos os cidadãos que votassem no partido oficial.",
+          "explanation": "As patentes eram um símbolo de prestígio e poder já consolidado pelas elites locais, não um prêmio para eleitores comuns.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "question": "O que caracterizava a chamada 'Política do Café com Leite' durante a Primeira República?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A proibição da exportação desses produtos para priorizar o abastecimento do mercado interno.",
+          "explanation": "O modelo era agroexportador e visava justamente garantir o lucro das elites com a venda para o exterior.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Uma guerra civil entre produtores de café do Sudeste e pecuaristas do Sul pelo controle das alfândegas.",
+          "explanation": "Houve conflitos pontuais, mas a 'política' em si era um acordo de cooperação e revezamento no poder.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A alternância na presidência da república entre candidatos apoiados pelas oligarquias de São Paulo e Minas Gerais.",
+          "explanation": "Estes dois estados eram os mais ricos e populosos, dominando a cena política federal através de alianças.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "O incentivo governamental para que todos os brasileiros consumissem esses dois produtos diariamente.",
+          "explanation": "O termo é uma metáfora política sobre a alternância de poder entre estados, não uma política nutricional.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O controle total da economia brasileira pelo sindicato dos leiteiros e cafeicultores rurais.",
+          "explanation": "O controle era exercido pelos partidos republicanos estaduais (PRP e PRM), e não por sindicatos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "question": "A Guerra de Canudos (1896-1897) representou um choque entre o projeto republicano e a realidade do sertão porque:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O arraial de Belo Monte era uma experiência de organização social independente que fugia ao controle dos coronéis locais e do Estado.",
+          "explanation": "A autonomia da comunidade incomodava a Igreja, os fazendeiros e o governo, que viam nela uma ameaça à ordem estabelecida.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Os habitantes de Canudos queriam transformar o sertão baiano em um Estado industrializado.",
+          "explanation": "O movimento era voltado para a espiritualidade e a agricultura de subsistência, longe dos ideais de industrialização urbana.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A guerra foi provocada pela recusa dos sertanejos em aceitar a vacinação obrigatória contra a varíola.",
+          "explanation": "A Revolta da Vacina ocorreu no Rio de Janeiro em 1904, anos após o fim de Canudos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Antônio Conselheiro liderava um exército financiado pela coroa portuguesa para restaurar a monarquia.",
+          "explanation": "Embora os republicanos acusassem o movimento de monarquista para justificar a repressão, Canudos era essencialmente um movimento religioso e social de sobrevivência.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O governo federal pretendia construir uma ferrovia que passaria exatamente sobre o terreno da igreja de Canudos.",
+          "explanation": "Embora ferrovias gerassem conflitos (como no Contestado), em Canudos o estopim foi uma disputa comercial sobre madeira e a autonomia do povoado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "question": "A Revolução de 1930 pôs fim à Primeira República e levou Getúlio Vargas ao poder, tendo como estopim político:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A decisão de Dom Pedro II de retornar do exílio para retomar o trono.",
+          "explanation": "Dom Pedro II faleceu no exílio em 1891; em 1930 a monarquia não era uma força política ativa relevante.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O rompimento da aliança entre São Paulo e Minas Gerais e o assassinato de João Pessoa.",
+          "explanation": "Washington Luís apoiou um sucessor paulista, irritando os mineiros, e a morte do candidato a vice da Aliança Liberal inflamou a oposição.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A revolta dos marinheiros negros contra os castigos físicos na Marinha de Guerra.",
+          "explanation": "A Revolta da Chibata ocorreu em 1910, vinte anos antes da Revolução de 1930.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A invasão do Brasil por tropas nazistas, exigindo a formação de um governo forte.",
+          "explanation": "O nazismo ainda não havia ascendido ao poder na Alemanha em 1930 e não houve invasão estrangeira.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A proibição federal da produção de café para combater a crise de 1929.",
+          "explanation": "O governo tentou proteger o café comprando estoques, mas a insatisfação das oligarquias dissidentes com o governo central levou ao golpe.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "question": "Durante o Estado Novo (1937-1945), a propaganda política do regime Vargas, através do DIP (Departamento de Imprensa e Propaganda), buscava criar a imagem do presidente como:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Um subalterno aos interesses dos Estados Unidos que visava a americanização total do Brasil.",
+          "explanation": "O regime era nacionalista e buscava a autonomia industrial e política do país, embora tenha se aliado aos EUA na guerra.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Um monarca restaurador que planejava trazer de volta a Casa de Bragança ao poder.",
+          "explanation": "Vargas consolidou a república autoritária e centralizada, queimando simbolicamente as bandeiras estaduais para reafirmar a unidade nacional republicana.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Um líder revolucionário socialista que pretendia extinguir a propriedade privada.",
+          "explanation": "Vargas combateu o socialismo e o comunismo, especialmente após a Intentona Comunista de 1935.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O 'Pai dos Pobres' e o maior protetor dos direitos dos trabalhadores.",
+          "explanation": "A propaganda focava na concessão de direitos trabalhistas (CLT) para garantir o apoio popular e controlar os sindicatos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Um intelectual afastado das massas que governava apenas por decretos científicos.",
+          "explanation": "O regime buscava justamente o oposto: uma conexão emocional e carismática com o povo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "question": "A Consolidação das Leis do Trabalho (CLT), outorgada em 1943, teve como uma de suas funções políticas ocultas:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Acabar com o salário mínimo para permitir que as empresas contratassem mais pessoas.",
+          "explanation": "O salário mínimo foi uma das principais conquistas instituídas pelo governo Vargas para garantir o sustento básico.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Incentivar a criação de sindicatos livres e independentes de qualquer controle estatal.",
+          "explanation": "A legislação atrelava os sindicatos ao Ministério do Trabalho, proibindo greves e manifestações políticas independentes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Garantir que apenas os trabalhadores estrangeiros tivessem acesso a benefícios sociais.",
+          "explanation": "A CLT visava nacionalizar a mão de obra e proteger o trabalhador brasileiro como parte do projeto de desenvolvimento nacional.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Proibir que mulheres e crianças trabalhassem nas indústrias em qualquer circunstância.",
+          "explanation": "A lei regulamentou o trabalho de mulheres e menores, estabelecendo proteções, mas não o proibiu totalmente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Esvaziar a militância de esquerda ao incorporar pautas trabalhistas ao discurso oficial do Estado.",
+          "explanation": "Ao conceder direitos de cima para baixo, o governo Vargas buscava neutralizar a influência de partidos operários de oposição.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "question": "O governo de Juscelino Kubitschek (1956-1961) é marcado pelo 'Binômio Energia e Transporte' e pelo Plano de Metas, cujo lema era:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Brasil: Ame-o ou Deixe-o.",
+          "explanation": "Este slogan foi utilizado pelo governo militar durante o governo Médici, na década de 1970.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Tudo pelo social e nada pelo capital.",
+          "explanation": "O governo JK foi marcado pela entrada massiva de capital estrangeiro, especialmente na indústria automobilística.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "50 anos de progresso em 5 anos de governo.",
+          "explanation": "JK prometia acelerar a modernização do Brasil através da industrialização pesada e da construção de Brasília.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Paz e Amor no campo e na cidade.",
+          "explanation": "Este lema não possui relação com o projeto desenvolvimentista de JK.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ordem e Progresso acima de tudo.",
+          "explanation": "Embora ressoe o lema da bandeira, não era o slogan específico do Plano de Metas de JK.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "question": "A construção de Brasília, apesar de ser um símbolo de modernidade, revelou contradições sociais profundas, como:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A segregação socioespacial dos 'candangos', que foram viver em cidades-satélites sem infraestrutura.",
+          "explanation": "Os trabalhadores que ergueram a capital foram excluídos do Plano Piloto após a conclusão das obras.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "O uso exclusivo de mão de obra escrava vinda do Sudeste para acelerar os trabalhos.",
+          "explanation": "A escravidão havia sido extinta décadas antes; os trabalhadores eram migrantes remunerados, embora submetidos a condições precárias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A proibição do uso de carros na nova capital para proteger o meio ambiente.",
+          "explanation": "A cidade foi planejada justamente com foco no transporte rodoviário e no automóvel.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A obrigatoriedade de todos os parlamentares viverem em acampamentos de lona.",
+          "explanation": "O Plano Piloto foi projetado para oferecer o máximo de conforto e modernidade para a elite política e burocrática.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O fechamento total das fronteiras brasileiras durante os anos de construção.",
+          "explanation": "O governo JK buscou justamente abrir a economia aos investimentos internacionais para financiar suas obras.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "question": "O Golpe de 1964, que derrubou João Goulart, foi justificado por seus articuladores principalmente como uma medida para:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Expulsar as empresas multinacionais do Brasil e estatizar toda a economia nacional.",
+          "explanation": "O regime militar manteve e, em muitos casos, ampliou a parceria com o capital estrangeiro e empresas multinacionais.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Proteger os direitos das minorias e ampliar a liberdade de expressão artística.",
+          "explanation": "A ditadura resultou em severa censura às artes e perseguição a grupos minoritários e opositores políticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Aumentar os impostos sobre as grandes fortunas e promover a reforma agrária.",
+          "explanation": "Estas eram justamente as propostas de Jango (Reformas de Base) que as elites e militares combateram.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Garantir a imediata sucessão de Dom Pedro III ao trono brasileiro.",
+          "explanation": "O movimento era republicano e visava a instalação de um regime autoritário civil-militar, não a restauração monárquica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Combater a 'ameaça comunista' e restaurar a ordem e a hierarquia militar no país.",
+          "explanation": "No contexto da Guerra Fria, a aproximação de Jango com movimentos sociais foi pintada como um perigo de subversão comunista.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "question": "O Ato Institucional nº 5 (AI-5), baixado em 1968, representou o período mais rígido da ditadura civil-militar ao permitir, entre outras coisas:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A criação de um imposto sobre o consumo para financiar a construção de hospitais públicos.",
+          "explanation": "Embora houvesse políticas fiscais, a essência do AI-5 era de natureza política e repressiva, não tributária.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A realização de eleições diretas para todos os cargos públicos em 48 horas.",
+          "explanation": "O AI-5 consolidou o fim das liberdades democráticas e afastou qualquer possibilidade de eleições diretas presidenciais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A suspensão do direito de habeas corpus para casos de crimes políticos e o fechamento do Congresso Nacional.",
+          "explanation": "Essas medidas permitiram a perseguição sistemática de opositores sem as garantias jurídicas fundamentais.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "A obrigatoriedade do ensino de religiões afro-brasileiras em todas as escolas.",
+          "explanation": "Pelo contrário, o regime enfatizava valores conservadores e tradicionais cristãos como base da 'família brasileira'.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A demissão voluntária de todos os generais que não concordassem com a censura.",
+          "explanation": "O AI-5 serviu justamente para purgar as Forças Armadas de vozes dissidentes, forçando a unidade na 'linha dura'.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "question": "A campanha das 'Diretas Já' (1983-1984) teve como objetivo mobilizar a sociedade para exigir:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A manutenção dos militares no poder por mais trinta anos de forma pacífica.",
+          "explanation": "O movimento era de oposição ao regime militar e pedia a redemocratização imediata.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A aprovação da Emenda Dante de Oliveira, que previa eleições diretas para presidente da República.",
+          "explanation": "A campanha buscava o retorno da soberania popular no voto direto, após décadas de eleições indiretas e governos indicados.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "A estatização de todos os meios de comunicação e a proibição da televisão.",
+          "explanation": "A campanha usou os meios de comunicação para divulgar os grandes comícios e pressionar o parlamento.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A coroação de Tancredo Neves como o primeiro monarca da nova democracia.",
+          "explanation": "Tancredo Neves foi um líder político civil que acabou sendo eleito de forma indireta após a derrota da emenda das diretas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O fechamento de todos os partidos políticos para garantir a união nacional.",
+          "explanation": "Os partidos de oposição (como o PMDB e o recém-criado PT) foram os grandes motores da campanha.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "question": "A Constituição de 1988, conhecida como 'Constituição Cidadã', trouxe avanços significativos para os povos indígenas ao reconhecer:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Seus direitos originários sobre as terras que tradicionalmente ocupam e o respeito às suas culturas e tradições.",
+          "explanation": "Pela primeira vez, o Estado abandonou formalmente o projeto de 'aculturação' forçada e reconheceu a alteridade indígena.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A transformação de todas as aldeias em municípios independentes com moedas próprias.",
+          "explanation": "O reconhecimento é de territorialidade e usufruto das riquezas naturais, mas dentro da estrutura federativa do Brasil.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A obrigatoriedade de todos os indígenas abandonarem suas línguas maternas em favor do português.",
+          "explanation": "A Constituição garante às comunidades o uso de suas línguas e processos próprios de aprendizagem.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A extinção da FUNAI e a transferência da tutela indígena para o Ministério da Agricultura.",
+          "explanation": "A Constituição fortaleceu o papel do Estado na demarcação e proteção, não extinguindo os órgãos de apoio.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O direito à propriedade privada individual de cada indígena sobre o território nacional.",
+          "explanation": "O reconhecimento foca na posse coletiva de terras tradicionalmente ocupadas, não em propriedades privadas individuais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "question": "O Plano Cruzado, lançado em 1986 durante o governo de José Sarney, tinha como principal estratégia para combater a inflação:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A venda de todas as estatais brasileiras para grupos de investimento do Japão.",
+          "explanation": "O processo de privatização mais intenso ocorreu somente na década de 1990, nos governos Collor e FHC.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O congelamento de preços e salários e a criação de uma nova moeda, o Cruzado.",
+          "explanation": "A medida buscou um 'choque' na economia para conter a hiperinflação, incentivando a fiscalização pelos 'fiscais do Sarney'.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "O aumento diário de todos os preços para acompanhar a desvalorização da moeda.",
+          "explanation": "Isso era o que ocorria antes do plano (indexação); o plano visava justamente interromper essa lógica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A concessão de empréstimos sem juros para todos os produtores de café de Minas Gerais.",
+          "explanation": "O plano era de abrangência nacional e urbana, visando o controle de preços no varejo para beneficiar o consumo das massas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A proibição do uso de dinheiro em espécie e a obrigatoriedade do escambo.",
+          "explanation": "O plano introduziu uma nova moeda circulante, mantendo a estrutura monetária do país.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "question": "A criação do Movimento dos Trabalhadores Rurais Sem Terra (MST) em 1984 fundamenta suas ações de ocupação de terras em qual princípio constitucional?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A abolição de todas as fronteiras nacionais para facilitar a migração rural.",
+          "explanation": "O movimento atua dentro do marco legal brasileiro, buscando a democratização do acesso à terra no país.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A obrigatoriedade de todas as fazendas serem transformadas em parques nacionais.",
+          "explanation": "O objetivo do movimento é o acesso à terra para produção agrícola por famílias de trabalhadores, não apenas a preservação ambiental total.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A função social da propriedade, que exige que a terra seja produtiva e respeite leis ambientais e trabalhistas.",
+          "explanation": "Este princípio jurídico permite que terras improdutivas sejam objeto de reforma agrária pelo Estado.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "O direito absoluto à propriedade privada, independentemente do seu uso.",
+          "explanation": "O MST questiona o caráter absoluto da propriedade quando ela não cumpre sua função social.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O direito de sucessão hereditária para todos os trabalhadores que moram na fazenda.",
+          "explanation": "A reivindicação é pelo acesso a novas terras via reforma agrária, não pela herança dos bens do patrão.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "question": "Por que o governo de Dom Pedro II investiu na criação de 'aldeamentos' indígenas no século XIX?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Para garantir que os indígenas pudessem manter seus territórios sagrados isolados dos brancos.",
+          "explanation": "Os aldeamentos visavam justamente o contrário: agrupar os indígenas para facilitar a vigilância e a integração.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Para proteger os indígenas da escravidão, que ainda era permitida apenas para nativos.",
+          "explanation": "A escravidão indígena já havia sido proibida legalmente há muito tempo; o foco agora era o controle social e a mão de obra livre.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Para transformar os indígenas em trabalhadores rurais 'civilizados' e catequizados, integrando-os à nação.",
+          "explanation": "O império via a diversidade indígena como um obstáculo à unidade nacional e buscava 'apagá-la' através da assimilação.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Para transformá-los em soldados de elite na defesa das fronteiras amazônicas.",
+          "explanation": "Embora participassem de conflitos, o objetivo principal do decreto de 1845 era a formação de mão de obra agrícola sedentária.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Para permitir que os indígenas cobrassem pedágio em todas as novas estradas de ferro do país.",
+          "explanation": "Pelo contrário, as terras indígenas eram frequentemente expropriadas para dar lugar a ferrovias e colônias de imigrantes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "question": "A crise sucessória em Portugal após a morte de Dom João VI em 1826 impactou o governo de Dom Pedro I no Brasil porque:",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Os brasileiros exigiam que Dom Pedro I trouxesse seu irmão, Dom Miguel, para governar o Rio de Janeiro.",
+          "explanation": "Dom Miguel era visto como um usurpador absolutista e não tinha apoio entre os liberais brasileiros.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O governo português declarou guerra ao Brasil para retomar o controle das minas de ouro.",
+          "explanation": "Portugal já havia reconhecido a independência em 1825; o conflito agora era uma guerra civil interna em Portugal.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A morte de Dom João VI causou uma crise econômica mundial que zerou as exportações de café.",
+          "explanation": "A crise econômica no Brasil tinha raízes locais (gastos de guerra e queda de preços), não sendo causada diretamente pela sucessão lusa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Dom Pedro I decidiu abandonar o Brasil imediatamente para se tornar rei de Portugal.",
+          "explanation": "Ele enviou sua filha, Maria da Glória, mas o envolvimento emocional e político no conflito português gerou críticas no Brasil.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O receio de que Dom Pedro I buscasse a reunificação das coroas de Brasil e Portugal gerou forte oposição política interna.",
+          "explanation": "Os brasileiros temiam o retorno do 'fantasma' da colonização e o envolvimento do tesouro nacional em guerras dinásticas europeias.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

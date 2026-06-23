@@ -1,0 +1,1240 @@
+{
+  "capturedAt": "2026-04-29T12:08:36.052Z",
+  "source": "notebooklm",
+  "url": "blob:https://053t07og9omw85ew6ihxie49jewqmnbi74d2njnbj54k839rer-h903225159.scf.usercontent.goog/06708963-b516-4d4c-8ce8-48b5c4635ced",
+  "totalQuestions": 30,
+  "subject": "ciencias",
+  "level": "dificil",
+  "questions": [
+    {
+      "index": 1,
+      "question": "Qual é a característica estrutural fundamental que distingue uma célula eucariota de uma procariota, conforme descrito no material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A capacidade de realizar a síntese de proteínas através dos ribossomos.",
+          "explanation": "Ribossomos são organelas não membranosas encontradas em ambos os tipos de células.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A presença de flagelos para locomoção em ambientes líquidos.",
+          "explanation": "Embora comuns em bactérias (procariotas), flagelos podem estar ausentes em várias células de ambos os grupos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A presença de uma membrana plasmática que delimita o conteúdo celular.",
+          "explanation": "Ambos os tipos celulares possuem membrana plasmática para proteção e trocas de substâncias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A existência de material genético contendo informações hereditárias.",
+          "explanation": "Tanto procariotas quanto eucariotas possuem DNA para a produção de novas células.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A presença de um núcleo delimitado por uma membrana chamada carioteca.",
+          "explanation": "A carioteca é a estrutura que organiza o núcleo nas células eucariotas, ausente nas procariotas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "Sobre os vírus, por que eles são classificados como parasitas intracelulares obrigatórios?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Porque só conseguem se reproduzir utilizando a maquinaria de uma célula hospedeira.",
+          "explanation": "Por não possuírem células próprias (acelulares), dependem totalmente de outras células para replicação.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Porque são formados por cápsulas de proteína que necessitam de oxigênio celular.",
+          "explanation": "A cápsula protege o genoma, mas a reprodução é o fator que define o parasitismo obrigatório.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Porque seu material genético é composto exclusivamente por RNA.",
+          "explanation": "Alguns vírus possuem DNA, mas isso não dita a natureza do seu parasitismo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Porque possuem um envelope lipídico que impede sua vida em ambiente externo.",
+          "explanation": "O envelope é uma proteção e auxílio na infecção, mas não a razão da dependência parasitária.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Porque são seres unicelulares que competem com bactérias por nutrientes.",
+          "explanation": "Vírus são acelulares, não possuindo a estrutura de uma célula única.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "Como as vacinas atuam no corpo humano para prevenir doenças causadas por microrganismos?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Elas removem os vírus do corpo através de um processo de filtragem sanguínea.",
+          "explanation": "A vacina não filtra o sangue, ela induz a produção de proteínas de defesa.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Elas introduzem antígenos que estimulam o corpo a produzir seus próprios anticorpos.",
+          "explanation": "A vacina usa o antígeno (morto ou enfraquecido) para treinar o sistema imunológico na defesa.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Elas servem como antibióticos que destroem as células bacterianas invasoras.",
+          "explanation": "Antibióticos tratam infecções existentes, enquanto vacinas são medidas preventivas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Elas injetam anticorpos prontos para atacar vírus e bactérias imediatamente.",
+          "explanation": "Injetar anticorpos prontos é uma característica do soro, não da vacina.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Elas modificam o DNA das células humanas para torná-las imunes a ataques.",
+          "explanation": "A vacinação não altera a genética do indivíduo, apenas estimula a resposta imune proteica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "question": "No contexto da organização dos seres vivos, qual é a sequência correta dos níveis de complexidade apresentada no material para seres pluricelulares?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Organismo → Sistema → Órgão → Tecido → Célula.",
+          "explanation": "Esta sequência está em ordem decrescente, não na ordem de formação biológica crescente.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Célula → Tecido → Órgão → Sistema → Organismo.",
+          "explanation": "Células formam tecidos, que formam órgãos, que compõem sistemas até o indivíduo completo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Tecido → Célula → Sistema → Órgão → Organismo.",
+          "explanation": "A célula é a unidade funcional básica e deve ser o ponto de partida.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Célula → Órgão → Tecido → Organismo.",
+          "explanation": "O tecido é um conjunto de células e deve vir antes do órgão.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Célula → Sistema → Tecido → Órgão → Bioma.",
+          "explanation": "Sistemas são formados por órgãos, e biomas estão além do nível de organismo individual.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "question": "O Bioma Amazônia é frequentemente chamado de 'ar-condicionado do planeta'. Qual processo descrito justifica essa metáfora?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A produção de oxigênio que resfria a atmosfera global.",
+          "explanation": "O oxigênio é vital para a respiração, mas não é o agente primário de resfriamento climático regional.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A absorção excessiva de calor pelas águas dos rios amazônicos.",
+          "explanation": "Embora a água absorva calor, a metáfora foca no transporte de frescor e umidade pela floresta.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A filtragem de poeira e poluentes que tornam o ar mais denso e frio.",
+          "explanation": "A filtragem ocorre, mas não é a razão da Amazônia ser comparada a um sistema de refrigeração.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O isolamento térmico proporcionado pelas copas das árvores gigantes.",
+          "explanation": "O dossel protege o solo, mas a metáfora do ar-condicionado refere-se à circulação global de umidade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A capacidade da floresta de levar umidade e chuva para outras regiões através do vapor d'água.",
+          "explanation": "A floresta distribui umidade que regula as temperaturas e gera chuvas em diversas partes do globo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "question": "Qual é a principal função dos ribossomos dentro de uma célula procariota ou eucariota?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Controlar a entrada e saída de nutrientes e água.",
+          "explanation": "O controle de substâncias é a função da membrana plasmática.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Proteger a célula contra invasores externos como vírus.",
+          "explanation": "A proteção externa é função da parede celular ou membrana plasmática.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Serem responsáveis pela produção de proteínas na célula.",
+          "explanation": "Os ribossomos são as fábricas de proteínas essenciais para o funcionamento celular.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Armazenar o material genético na região do nucleoide.",
+          "explanation": "O material genético é o DNA propriamente dito, não os ribossomos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Realizar a respiração celular para gerar energia.",
+          "explanation": "A respiração celular é função das mitocôndrias em eucariotas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "question": "Considerando os fatores abióticos, como o calor do dia influencia o comportamento dos animais no Bioma Caatinga?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Estimula hábitos noturnos para evitar as altas temperaturas diurnas.",
+          "explanation": "A atividade noturna permite que os animais evitem a perda excessiva de água e o calor extremo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Faz com que desenvolvam pelagens brancas para refletir a luz solar.",
+          "explanation": "Embora o nome signifique 'mata branca', refere-se à vegetação ressecada, não aos animais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Provoca a migração de todas as espécies para o bioma Pantanal no verão.",
+          "explanation": "A fauna local possui adaptações para permanecer no bioma, não migrando em massa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Obriga os animais a se alimentarem exclusivamente de cactos para obter água.",
+          "explanation": "Alguns animais usam cactos, mas isso não é uma regra comportamental para todos devido ao calor.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Induz os animais a hibernarem durante o período de seca intensa.",
+          "explanation": "A hibernação é comum em climas frios, não sendo o comportamento padrão citado para a Caatinga.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "question": "A atmosfera terrestre atual é composta por uma mistura de gases. Qual é o gás mais abundante e qual sua importância citada?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Gás Metano (1%), principal responsável pela retenção de calor natural.",
+          "explanation": "O metano é um gás de efeito estufa, mas sua abundância é inferior a outros componentes.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Gás Nitrogênio (78%), importante na composição de proteínas e DNA dos seres vivos.",
+          "explanation": "O nitrogênio é o componente majoritário e base para moléculas orgânicas vitais.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Gás Oxigênio (21%), essencial para a respiração da maioria dos seres vivos.",
+          "explanation": "O oxigênio é o segundo mais abundante, não o primeiro.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Gás Argônio (1%), necessário para a proteção contra radiações ultravioletas.",
+          "explanation": "O argônio é um gás nobre inerte e não tem função de proteção contra radiação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Gás Carbônico (0,03%), fundamental para o processo de fotossíntese.",
+          "explanation": "Embora essencial, o CO₂ existe em proporções muito pequenas na atmosfera.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "question": "Diferencie o conceito de Efeito Estufa e Aquecimento Global conforme as definições biológicas do material.",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O Efeito Estufa é um problema ambiental, enquanto o Aquecimento Global é um fenômeno natural.",
+          "explanation": "É o contrário: o efeito estufa é natural e necessário, enquanto o aquecimento global é o problema.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O Efeito Estufa é a retenção natural de calor para manter a vida; o Aquecimento Global é o aumento excessivo desse calor por ações humanas.",
+          "explanation": "O material destaca que o efeito estufa permite a vida, mas sua intensificação gera o aquecimento global.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Eles são sinônimos perfeitos e descrevem o mesmo processo de resfriamento da superfície terrestre.",
+          "explanation": "São conceitos distintos relacionados ao aquecimento, não ao resfriamento.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ambos referem-se exclusivamente ao buraco na camada de ozônio causado por gases poluentes.",
+          "explanation": "O texto foca nos gases como CO₂ e metano, não mencionando a camada de ozônio como sinônimo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O Efeito Estufa ocorre apenas no interior de veículos, enquanto o Aquecimento Global ocorre na floresta.",
+          "explanation": "O exemplo do carro é uma analogia didática, mas o fenômeno é atmosférico e global.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "question": "Qual microrganismo é classificado como unicelular e procarionte no material estudado?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Animal.",
+          "explanation": "Animais são pluricelulares e compostos por células eucariotas complexas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Protozoário.",
+          "explanation": "Protozoários são unicelulares, mas possuem núcleo organizado (eucariotas).",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Vírus.",
+          "explanation": "Vírus não são formados por células, sendo classificados como acelulares.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Bactéria.",
+          "explanation": "Bactérias são seres formados por uma única célula de estrutura simplificada sem núcleo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Cogumelo.",
+          "explanation": "Cogumelos são fungos pluricelulares e eucariotas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "question": "No estudo da Amazônia, o que são fatores bióticos e abióticos, respectivamente?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Apenas o material genético dos vírus; apenas a cápsula de proteína.",
+          "explanation": "Esta é uma divisão de partes virais, não uma classificação ecológica de ecossistema.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Fatores sem vida (água) e seres vivos (plantas).",
+          "explanation": "A ordem está invertida conforme a definição biológica correta.",
+          "selectedByUser": false,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Espécies nativas da fauna; espécies introduzidas pelo homem.",
+          "explanation": "Ambas as categorias de espécies são seres vivos e, portanto, bióticas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Plantas e animais; fungos e bactérias.",
+          "explanation": "Todos os exemplos citados são seres vivos, logo, todos são fatores bióticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Seres vivos que habitam o bioma; elementos sem vida como luz e chuva que interagem com eles.",
+          "explanation": "Biótico refere-se à vida, e abiótico aos componentes físico-químicos do ecossistema.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "question": "A vacina BCG é citada como exemplo de imunização contra qual tipo de agente patogênico?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Um fungo pluricelular que afeta a pele.",
+          "explanation": "A tuberculose é uma doença bacteriana, não fúngica.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Uma bactéria causadora da tuberculose.",
+          "explanation": "O texto menciona explicitamente que a BCG atua contra a bactéria da tuberculose.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Um vírus causador da gripe.",
+          "explanation": "Vacinas contra gripe são específicas para o vírus Influenza, não a BCG.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O coronavírus responsável pela pandemia.",
+          "explanation": "O material diferencia vacinas virais (como COVID-19) de vacinas bacterianas (como BCG).",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Um protozoário presente na água contaminada.",
+          "explanation": "A BCG não combate protozoários, mas sim uma infecção bacteriana pulmonar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "question": "Quais estruturas são encontradas em uma célula procariota típica, como a de uma bactéria?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Carioteca, Mitocôndrias e Complexo de Golgi.",
+          "explanation": "Essas são organelas membranosas exclusivas de células eucariotas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Núcleo organizado, Retículo Endoplasmático e Cloroplastos.",
+          "explanation": "Estas estruturas indicam uma organização celular eucariótica avançada.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Membrana plasmática, Ribossomos e material genético disperso no citoplasma.",
+          "explanation": "Procariotas possuem estrutura simples, com DNA livre e organelas não membranosas (ribossomos).",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Cápsula de proteína, Envelope lipídico e RNA.",
+          "explanation": "Estas são características de vírus, que não são células procariotas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Apenas Parede Celular e Flagelo, sem citoplasma.",
+          "explanation": "Toda célula possui citoplasma para abrigar suas funções básicas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "question": "Segundo o material, qual foi o motor principal para a diversidade de formatos dos bicos das aves?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A disputa por comida e a adaptação a dietas específicas.",
+          "explanation": "Diferentes bicos permitem explorar fontes de alimento variadas, reduzindo a competição.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A variação de temperatura entre os biomas brasileiros.",
+          "explanation": "A temperatura regula o comportamento, mas o formato do bico é ditado pela dieta.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A necessidade de atrair parceiros durante o acasalamento.",
+          "explanation": "Embora a estética ajude no acasalamento, o texto foca na sobrevivência alimentar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "O tipo de ninho que cada espécie precisa construir.",
+          "explanation": "Bicos auxiliam na construção, mas a dieta é citada como o principal motor evolutivo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A proteção contra predadores que atacam o rosto das aves.",
+          "explanation": "A defesa é secundária à função primária de obtenção de energia (alimentação).",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "question": "Qual é a relação entre as cianobactérias e a organização celular apresentada no texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "São as únicas células que não possuem ribossomos.",
+          "explanation": "Todas as células procariontes e eucariontes possuem ribossomos para síntese proteica.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "São unicelulares procariotas que possuem material genético sem membrana nuclear.",
+          "explanation": "Como bactérias, as cianobactérias não possuem carioteca protegendo o DNA.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "São seres acelulares que dependem de fungos para sobreviver.",
+          "explanation": "Cianobactérias são células completas, não vírus acelulares.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "São pluricelulares eucariotas que realizam fotossíntese.",
+          "explanation": "Cianobactérias são procariontes e majoritariamente unicelulares.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "São animais microscópicos que vivem em colônias nos oceanos.",
+          "explanation": "Pertencem ao grupo das bactérias, não ao reino animal.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "question": "No Brasil, a eletricidade é predominantemente gerada a partir de qual fonte, e como essa transformação ocorre?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Energia química proveniente de biocombustíveis como o etanol.",
+          "explanation": "Biocombustíveis são focados em transporte, não na geração predominante de rede elétrica.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Energia nuclear através da fissão de átomos de urânio.",
+          "explanation": "A energia nuclear é utilizada no Brasil, mas não é a fonte predominante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Energia térmica obtida pela queima de carvão mineral.",
+          "explanation": "Termelétricas são usadas como reserva, mas não são a base da matriz brasileira.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Energia eólica captada pelo movimento das massas de ar.",
+          "explanation": "A energia eólica cresce no país, mas a principal fonte continua sendo a hidráulica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Energia hidráulica transformada em elétrica nas usinas hidrelétricas.",
+          "explanation": "O material afirma que a origem da eletricidade brasileira é predominantemente da água.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "question": "O que acontece com o CO₂ durante o processo de fotossíntese realizado pelos vegetais?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Ele impede a absorção de luz solar pelas folhas.",
+          "explanation": "O CO₂ é essencial para converter a luz solar em energia química.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Ele é utilizado como reagente para a produção de glicose e oxigênio.",
+          "explanation": "O vegetal consome o gás carbônico para fabricar sua própria matéria orgânica (energia).",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Ele é transformado em nitrogênio para fortalecer as raízes.",
+          "explanation": "O ciclo do nitrogênio é independente do processo direto da fotossíntese.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ele é armazenado nas mitocôndrias para a respiração noturna.",
+          "explanation": "O CO₂ é um produto da respiração, não algo armazenado para ela.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ele é liberado na atmosfera como um resíduo tóxico da planta.",
+          "explanation": "O resíduo liberado na fotossíntese é o oxigênio, não o CO₂ .",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "question": "Sobre o Bioma Pantanal, qual afirmação está correta de acordo com a influência de outros biomas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "É um bioma isolado que não sofre influência de nenhuma outra região.",
+          "explanation": "O Pantanal é conhecido justamente por ser uma área de transição e influência.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Sua fauna é idêntica à da Mata Atlântica devido ao nível de chuvas.",
+          "explanation": "Embora haja influência, as espécies e ecossistemas possuem características próprias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Sua vegetação é composta exclusivamente por gramíneas dos Pampas.",
+          "explanation": "O Pampa influencia o sul do país, enquanto o Pantanal está no Centro-Oeste.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Sofre influência direta da Amazônia, do Cerrado e da Mata Atlântica.",
+          "explanation": "Sua localização e biodiversidade são moldadas pela proximidade com esses grandes biomas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "É influenciado apenas pelo clima seco da Caatinga.",
+          "explanation": "O Pantanal é uma planície inundável, com regime hídrico muito diferente da Caatinga.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "question": "Por que a 'Peste Negra' ou Peste Bubônica é causada por uma bactéria e não por um vírus, segundo o material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Porque ela é transmitida por pulgas, que só carregam bactérias.",
+          "explanation": "Pulgas podem carregar diversos patógenos; o fator definidor é o organismo causador, a Yersinia pestis.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Porque ela foi extinta da Terra por não ser acelular.",
+          "explanation": "O texto afirma que a bactéria nunca foi extinta e reaparece regularmente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Porque a doença pode ser tratada com vacinas de anticorpos prontos.",
+          "explanation": "O tratamento mencionado é via antibióticos, que combatem especificamente bactérias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Porque o agente causador (Yersinia pestis) é um organismo unicelular com estrutura de célula.",
+          "explanation": "A Yersinia pestis é uma bactéria, possuindo organização celular própria, ao contrário dos vírus.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Porque o organismo causador não possui material genético.",
+          "explanation": "Todos os seres vivos e vírus possuem algum tipo de material genético.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "question": "Qual a importância fundamental do gás nitrogênio (N₂ ) para os seres vivos pluricelulares como os humanos?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Serve para resfriar a temperatura interna dos órgãos durante o exercício.",
+          "explanation": "O nitrogênio atmosférico não tem função termorreguladora direta no corpo.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Funciona como um filtro que impede a entrada de poeira nas células.",
+          "explanation": "O nitrogênio é um gás componente do ar, não um filtro físico celular.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "É a principal fonte de energia para as mitocôndrias produzirem ATP.",
+          "explanation": "A glicose (açúcar) é a principal fonte de energia química, não o nitrogênio gasoso.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "É utilizado diretamente nos pulmões para oxigenar o sangue.",
+          "explanation": "Nós não conseguimos absorver o nitrogênio gasoso diretamente pelos pulmões para oxigenação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Está presente na composição química das proteínas e do DNA.",
+          "explanation": "O nitrogênio é um átomo essencial para construir os blocos fundamentais da vida e da hereditariedade.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "question": "Como a perda da mata ciliar (vegetação nas margens dos rios) afeta o ecossistema aquático na Amazônia?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Impede a fotossíntese das algas devido ao excesso de sombra.",
+          "explanation": "A retirada da mata aumenta a exposição solar, não a sombra.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Aumenta a vazão do rio, tornando-o mais profundo e limpo.",
+          "explanation": "A falta de mata ciliar causa erosão, o que diminui a vazão e suja a água.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Transforma o bioma Amazônia em um ecossistema marinho.",
+          "explanation": "A erosão afeta rios de água doce, não altera a natureza oceânica do bioma.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Provoca erosão, carregando terra para o rio, tornando-o turvo e diminuindo sua vazão.",
+          "explanation": "As raízes da mata seguram o solo; sem elas, a chuva leva sedimentos que assoreiam o rio.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Faz com que os peixes cresçam mais rápido devido ao calor direto do sol.",
+          "explanation": "O desequilíbrio térmico e a turbidez da água costumam prejudicar a fauna local.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "question": "Sobre o Tamandauí, qual fator abiótico regula sua atividade principal e quais elementos bióticos compõem sua dieta?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Fator: Vento; Bióticos: Pequenos roedores e aves.",
+          "explanation": "O vento não é o regulador citado, e ele não caça vertebrados.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Fator: Ciclo dia/noite (Luz); Bióticos: Formigas e cupins.",
+          "explanation": "Seus hábitos são noturnos (regulado pela luz) e ele se alimenta de insetos específicos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Fator: Água; Bióticos: Algas e peixes pequenos.",
+          "explanation": "O tamandauí é terrestre/arborícola e não se alimenta de organismos aquáticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Fator: Solo; Bióticos: Frutas e sementes da floresta.",
+          "explanation": "Como tamanduá, ele é insetívoro, não frugívoro.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Fator: Altitude; Bióticos: Folhas de árvores altas.",
+          "explanation": "Ele vive em árvores, mas seu hábito é regulado pela luminosidade e sua dieta é de insetos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "question": "O que define um organismo como pluricelular em oposição a um organismo unicelular?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Viver exclusivamente em ambientes aquáticos de água salgada.",
+          "explanation": "Existem pluricelulares terrestres e aquáticos.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Possuir apenas uma célula grande visível a olho nu.",
+          "explanation": "Unicelulares são formados por uma única célula, geralmente microscópica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A capacidade de se reproduzir apenas dentro de outras células.",
+          "explanation": "Isso descreve vírus, que nem sequer são considerados organismos celulares.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Não possuir material genético organizado em um núcleo.",
+          "explanation": "Isso define procariotas, que podem ser unicelulares.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ser formado por várias células que exibem colaboração e divisão de trabalho.",
+          "explanation": "Pluricelulares possuem tecidos e órgãos onde células diferentes realizam funções distintas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "question": "A Perereca-de-vidro depende de qual fator abiótico específico para sua reprodução e por quê?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Da luz solar direta para aquecer os ovos transparentes.",
+          "explanation": "O excesso de sol poderia desidratar os ovos e o animal, que tem hábitos noturnos.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Da chuva, pois as fêmeas depositam ovos no período chuvoso e os girinos precisam cair na água.",
+          "explanation": "O ciclo de vida dos anfíbios é fortemente dependente da umidade e presença de corpos d'água.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Do vento forte para transportar os girinos entre as árvores.",
+          "explanation": "Os girinos rompem a cápsula e caem na água por gravidade, não pelo vento.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Do solo firme para enterrar seus ovos e protegê-los do calor.",
+          "explanation": "Ela vive às margens dos rios e seus girinos precisam de água.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Do luar intenso para guiar os machos até as fêmeas.",
+          "explanation": "O luar influencia algumas aves citadas, mas não é o fator vital de reprodução da perereca.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "question": "Qual é a composição química básica dos bicos das aves citada no texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pura celulose, vinda das plantas que consomem.",
+          "explanation": "Celulose é um carboidrato vegetal; bicos são estruturas animais proteicas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Fibras musculares rígidas que permitem o movimento de abrir e fechar.",
+          "explanation": "O bico em si não é músculo, mas sim uma estrutura rígida movida por músculos da mandíbula.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Carbonato de cálcio sólido, similar às conchas de moluscos.",
+          "explanation": "O osso tem cálcio, mas o revestimento funcional externo é proteico (queratina).",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Estrutura óssea revestida por uma camada de queratina.",
+          "explanation": "A queratina é a mesma proteína das nossas unhas e cabelos, conferindo resistência.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Quitina, a mesma substância encontrada na carapaça de insetos.",
+          "explanation": "Embora resistente, a quitina é característica de artrópodes e fungos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "question": "De acordo com o material, como são produzidas as vacinas atualmente em laboratório?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pela combinação de oxigênio líquido com glóbulos brancos doados.",
+          "explanation": "Vacinas não são feitas de glóbulos brancos, elas ensinam os glóbulos brancos a agir.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Através da mistura de ervas naturais colhidas na Amazônia.",
+          "explanation": "Vacinas modernas usam biotecnologia e componentes de microrganismos, não apenas extratos vegetais.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Utilizando organismos mortos, enfraquecidos ou derivados deles.",
+          "explanation": "A técnica consiste em usar partes do patógeno que não causam a doença, mas geram memória imune.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Por processos puramente mecânicos de filtragem do ar atmosférico.",
+          "explanation": "Vacinas requerem processos bioquímicos complexos envolvendo microrganismos específicos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Extraindo anticorpos de animais pluricelulares como as baleias.",
+          "explanation": "Embora animais sejam usados em pesquisas, as vacinas focam em antígenos, não em extração de anticorpos de baleias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "question": "A diversidade de biomas no Brasil é grande. Qual bioma é caracterizado pelo clima seco, vegetação ressecada e nome de origem Tupi-Guarani que significa 'mata branca'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Caatinga.",
+          "explanation": "O nome refere-se à aparência clara da vegetação sem folhas durante a estação seca.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Pantanal.",
+          "explanation": "É uma planície alagável, não associada primariamente à secura extrema da mata branca.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Cerrado.",
+          "explanation": "O Cerrado é a savana brasileira, mas o termo 'mata branca' é específico da Caatinga.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Mata Atlântica.",
+          "explanation": "É um bioma de floresta tropical úmida, oposto ao conceito de mata branca ressecada.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Pampa.",
+          "explanation": "O Pampa é caracterizado por campos sulinos e gramíneas, não por 'mata branca'.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "question": "O que constitui o material genético de um vírus como o coronavírus, citado no texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Apenas DNA de fita dupla.",
+          "explanation": "Embora muitos vírus tenham DNA, o coronavírus é especificamente um vírus de RNA.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Enzimas digestivas capturadas de bactérias.",
+          "explanation": "Isso não compõe a informação hereditária (material genético) do vírus.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ribossomos e mitocôndrias microscópicas.",
+          "explanation": "Vírus são acelulares e não possuem organelas como ribossomos ou mitocôndrias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Proteínas puras sem ácidos nucleicos.",
+          "explanation": "Proteínas formam a cápsula, mas o material genético deve ser um ácido nucleico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "DNA ou RNA protegido por uma cápsula de proteína.",
+          "explanation": "Vírus possuem um dos dois tipos de material genético como núcleo de sua estrutura.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "question": "Qual é a principal diferença visual e estrutural entre uma célula de protozoário e uma de bactéria observada nas imagens do material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Apenas a bactéria possui membrana plasmática.",
+          "explanation": "Ambas possuem membrana plasmática para delimitar o citoplasma.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O protozoário é acelular e a bactéria é unicelular.",
+          "explanation": "Ambos são celulares e unicelulares; vírus é que são acelulares.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A bactéria realiza fotossíntese e o protozoário não possui citoplasma.",
+          "explanation": "Nem toda bactéria faz fotossíntese e todos os seres celulares têm citoplasma.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A bactéria é muito maior que o protozoário.",
+          "explanation": "Geralmente, protozoários são maiores e mais complexos que bactérias.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O protozoário possui núcleo organizado (eucariota) e a bactéria tem material genético disperso (procariota).",
+          "explanation": "A organização do núcleo é o principal critério de distinção entre esses dois microrganismos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "question": "De que forma a energia luminosa do Sol se torna aparente e útil para a dinâmica da Terra, segundo o texto?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Ela se mantém estática no espaço sem sofrer mudanças.",
+          "explanation": "A energia solar está em constante transformação ao atingir a Terra.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Ela é produzida pela respiração dos animais noturnos.",
+          "explanation": "A respiração produz calor e CO₂ , não energia luminosa solar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ela serve apenas para iluminar o fundo dos oceanos sem aquecê-los.",
+          "explanation": "A luz solar aquece a superfície e move ciclos como o da água e dos ventos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ela é bloqueada totalmente pelos gases de efeito estufa.",
+          "explanation": "Os gases permitem a entrada de radiação e retêm parte do calor, não bloqueiam tudo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ela se torna aparente quando se TRANSFORMA em outras formas de energia, como na fotossíntese.",
+          "explanation": "A dinâmica terrestre baseia-se na conversão de energia luminosa em química, térmica, etc.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,11 @@ import { UserModule } from './user/user.module';
 import { AppController } from './app.controler';
 import { PrismaModule } from './prisma/prisma.module';
 import { MateriasModule } from './materias/materias.module';
+import { QuestionsModule } from './questions/questions.module';
+import { ExamsModule } from './exams/exams.module';
+import { ImportModule } from './import/import.module';
+import { GeminiModule } from './integrations/gemini/gemini.module';
+import { CorrectionModule } from './correction/correction.module';
 
 @Module({
   imports: [
@@ -15,6 +20,11 @@ import { MateriasModule } from './materias/materias.module';
     UserModule,
     PrismaModule,
     MateriasModule,
+    QuestionsModule,
+    ExamsModule,
+    ImportModule,
+    GeminiModule,
+    CorrectionModule,
   ],
   controllers: [AppController],
 })

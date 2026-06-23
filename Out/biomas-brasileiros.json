@@ -1,0 +1,1240 @@
+{
+  "capturedAt": "2026-04-29T12:04:30.345Z",
+  "source": "notebooklm",
+  "url": "blob:https://2u2xfp52tghvuosv8u9xa9rm5sexh9nvnvsg6p9d814n83ysyi-h903225159.scf.usercontent.goog/a774579f-7834-4f52-b0d7-6822cba4baa5",
+  "totalQuestions": 30,
+  "subject": "ciencias",
+  "level": "dificil",
+  "questions": [
+    {
+      "index": 1,
+      "question": "Considerando a extensão territorial dos biomas no Brasil, qual deles ocupa quase metade do território nacional e detém aproximadamente 1/3 das reservas mundiais de florestas tropicais úmidas?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Caatinga",
+          "explanation": "A Caatinga ocupa cerca de 10% do território e caracteriza-se por um clima semiárido, diferente das florestas tropicais úmidas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Pantanal",
+          "explanation": "Embora seja a maior planície de inundação contínua, este bioma ocupa apenas cerca de 2% do território brasileiro.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Amazônia",
+          "explanation": "A Amazônia cobre cerca de 49% do território brasileiro e abriga a maior floresta tropical do mundo.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Cerrado",
+          "explanation": "O Cerrado é o segundo maior bioma, ocupando cerca de 24% do território, mas não é classificado como floresta tropical úmida dominante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Mata Atlântica",
+          "explanation": "Este bioma ocupa cerca de 15% do território e é o mais ameaçado, restando apenas uma pequena fração de sua cobertura original.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "A Mata Atlântica é classificada como um 'Hotspot de Biodiversidade'. Segundo o material, o que define tecnicamente um 'Hotspot'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Áreas de transição entre dois ou mais biomas distintos.",
+          "explanation": "Áreas de transição são ecótonos; hotspots exigem especificamente alta biodiversidade sob risco severo.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Zonas costeiras com alta produção de petróleo e gás natural.",
+          "explanation": "Hotspots biológicos focam na fauna e flora, não na presença de recursos minerais ou energéticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Áreas com temperaturas médias anuais acima de 30 ∘ C.",
+          "explanation": "O termo não se refere a temperatura climática, mas sim ao status de conservação e diversidade biológica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Regiões de grande biodiversidade que estão em processo de destruição.",
+          "explanation": "Hotspots são áreas ricas em espécies endêmicas que perderam a maior parte de sua cobertura original e estão sob ameaça constante.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Reservas ambientais onde o desmatamento é nulo.",
+          "explanation": "Pelo contrário, para ser um hotspot, a região deve ter sofrido degradação significativa de sua área original.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "O termo 'Caatinga' tem origem na língua tupi-guarani. Qual o significado desse nome e como ele se relaciona com a aparência do bioma na estação seca?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Rio Seco, em alusão à escassez de chuvas e rios temporários.",
+          "explanation": "A intermitência dos rios é real, mas o nome descreve a aparência da floresta em si.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Céu Limpo, pela baixa nebulosidade da região semiárida.",
+          "explanation": "O clima seco impede a formação de nuvens, mas o termo tupi refere-se especificamente à vegetação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Terra de Espinhos, referindo-se às adaptações das xerófitas.",
+          "explanation": "Os espinhos são uma característica marcante, mas o nome tupi traduz-se de forma diferente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Mata Branca, porque a vegetação fica acinzentada e ressecada sem as folhas.",
+          "explanation": "Na seca, as plantas perdem as folhas e os troncos esbranquiçados dão ao bioma uma tonalidade clara e desértica.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Mata Fechada, devido à densidade dos arbustos espinhosos.",
+          "explanation": "Embora a vegetação possa ser densa, o nome foca na coloração e não na densidade física.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "question": "O processo de 'savanização' é uma ameaça crescente para a Floresta Amazônica. De acordo com o texto, qual é a principal consequência biológica desse fenômeno?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Substituição de árvores tropicais por espécies que suportam seca e fogo, reduzindo a biodiversidade original.",
+          "explanation": "Espécies típicas do Cerrado avançam sobre a floresta degradada, eliminando a fauna e flora especialistas em umidade.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Transformação da floresta em um bioma de campos sulinos (Pampas).",
+          "explanation": "Os Pampas exigem climas frios e específicos do sul, enquanto a savanização cria características de cerrado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Melhoria na qualidade do solo para a agricultura de larga escala.",
+          "explanation": "A degradação florestal geralmente leva à perda de fertilidade e lixiviação, não ao seu enriquecimento.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Aumento populacional de animais aquáticos como o peixe-boi.",
+          "explanation": "A perda da cobertura florestal afeta negativamente o ciclo da água, prejudicando os habitats aquáticos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Aumento da umidade relativa do ar devido à troca de espécies.",
+          "explanation": "A savanização ocorre justamente em cenários de maior aridez e menos chuvas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "question": "O Pantanal é reconhecido internacionalmente por uma característica geográfica única. Qual é ela?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Ser a maior planície de inundação contínua do planeta.",
+          "explanation": "O ciclo de cheias e vazantes é o motor fundamental da vida e da paisagem pantaneira.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Possuir a maior concentração de minerais de ferro do mundo.",
+          "explanation": "A Amazônia é citada como tendo grandes reservas minerais, mas o Pantanal é definido pelo seu regime hídrico.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ser o bioma mais antigo do território brasileiro.",
+          "explanation": "A idade geológica não é o fator de diferenciação principal citado em relação aos outros biomas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Apresentar as temperaturas mais baixas registradas no Brasil.",
+          "explanation": "Temperaturas negativas no inverno são características marcantes do Bioma Pampa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Ser o único bioma brasileiro sem influência de biomas vizinhos.",
+          "explanation": "O texto afirma que o Pantanal sofre influência direta da Amazônia, Cerrado e Mata Atlântica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "question": "Sobre o Bioma Pampa, qual afirmação descreve corretamente sua localização e vegetação?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "É restrito ao estado do Rio Grande do Sul e caracteriza-se por vastos campos de gramíneas.",
+          "explanation": "O Pampa é o único bioma brasileiro exclusivo de um único estado e é dominado por vegetação rasteira.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "É uma floresta tropical densa localizada no extremo sul do Brasil.",
+          "explanation": "O Pampa não é uma floresta, mas sim um bioma de campos abertos e gramíneas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ocorre em todo o litoral brasileiro e possui árvores de troncos retorcidos.",
+          "explanation": "A descrição da vegetação refere-se ao Cerrado, e a localização ao litoral descreve a Mata Atlântica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Ocupa 10% do território e possui clima semiárido.",
+          "explanation": "Estas características pertencem à Caatinga; o Pampa é chuvoso e frio no inverno.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Localiza-se no Planalto Central e é a savana mais rica do mundo.",
+          "explanation": "Estas são características do Cerrado, não do Pampa.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "question": "A atmosfera terrestre é composta por uma mistura de gases essencial para a vida. Qual é o gás presente em maior abundância no ar que respiramos, conforme o gráfico apresentado?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Argônio.",
+          "explanation": "O argônio é um gás nobre presente em menos de 1% da atmosfera.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Oxigênio (21%).",
+          "explanation": "O oxigênio é vital para a respiração aeróbica, mas é apenas o segundo gás mais abundante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Nitrogênio (78%).",
+          "explanation": "O gás nitrogênio (N₂ ) compõe a grande maioria do volume da nossa atmosfera.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Gás Carbônico (0,03%).",
+          "explanation": "O CO₂ é fundamental para a fotossíntese, mas está presente em quantidades muito pequenas na atmosfera.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Vapor d'água.",
+          "explanation": "A quantidade de vapor d'água varia muito dependendo do bioma, não sendo o gás principal constante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "question": "A exploração do Pau-brasil foi o primeiro grande ciclo econômico do país. Em que ano foi feito o primeiro contrato comercial para a exploração desta madeira?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "1505",
+          "explanation": "A exploração já estava em curso pleno antes de 1505.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "1530",
+          "explanation": "Este ano marca o início da colonização efetiva com as capitanias, mas o pau-brasil já era explorado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "1500",
+          "explanation": "1500 foi o ano da chegada dos portugueses, mas a exploração comercial contratada veio logo depois.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "1502",
+          "explanation": "O contrato de 1502 marcou o início da exploração sistemática que deu nome ao país.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "1600",
+          "explanation": "No século XVII, o foco econômico já estava migrando para o açúcar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "question": "As plantas xerófitas possuem adaptações morfológicas para sobreviver em ambientes áridos como a Caatinga. Qual das alternativas abaixo NÃO descreve uma dessas adaptações?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Folhas grandes e largas para maximizar a fotossíntese.",
+          "explanation": "Folhas largas aumentariam a perda de água por transpiração, o que seria fatal nesse clima.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Caules carnudos para armazenamento de água.",
+          "explanation": "A suculência é uma estratégia vital para manter reservas hídricas durante a seca.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Presença de pelos que evitam a perda excessiva de água.",
+          "explanation": "Pelos e ceras ajudam a refletir a luz solar e manter a umidade próxima à planta.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Raízes muito longas e extensas.",
+          "explanation": "Raízes profundas são essenciais para buscar água em lençóis freáticos distantes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Folhas reduzidas a espinhos.",
+          "explanation": "Transformar folhas em espinhos reduz drasticamente a área de superfície e a transpiração.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "question": "O Cerrado é de extrema importância para a economia brasileira. Qual é a sua contribuição aproximada para a produção agrícola nacional?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Cerca de 50%.",
+          "explanation": "A produção no Cerrado supera a metade da produção agrícola total do país.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Cerca de 20%.",
+          "explanation": "O valor é significativamente maior, dada a vasta área de cultivo no Planalto Central.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Cerca de 35%.",
+          "explanation": "Este valor subestima o papel do Cerrado como o 'celeiro' do Brasil.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Cerca de 90%.",
+          "explanation": "Embora muito alta, outros biomas e regiões também contribuem com parcelas importantes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Cerca de 70%.",
+          "explanation": "O bioma concentra a maior parte da produção de soja, milho e algodão do Brasil.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "question": "Na Amazônia, o fenômeno da 'Piracema' é vital para a manutenção das populações de peixes. No que consiste esse processo?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A migração de milhares de peixes rio acima para reprodução e desova.",
+          "explanation": "A subida dos rios é necessária para que os peixes encontrem locais adequados para seus ovos.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "A mudança de cor dos peixes para se camuflarem na lama.",
+          "explanation": "Camuflagem é uma adaptação de sobrevivência, mas Piracema refere-se ao deslocamento reprodutivo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A morte em massa de peixes devido à queda do nível dos rios.",
+          "explanation": "Isso seria um evento de mortalidade, não um ciclo biológico de reprodução.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A entrada de água salgada do mar no Rio Amazonas.",
+          "explanation": "O fenômeno do encontro das águas com o mar é a Pororoca, não a Piracema.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "O período em que a pesca é liberada sem restrições de quantidade.",
+          "explanation": "Pelo contrário, na Piracema a pesca é proibida para garantir o nascimento de novos peixes.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "question": "A inclinação do eixo da Terra faz com que a luz e o calor incidam de forma desigual no planeta. Como isso afeta a localização das Florestas Tropicais?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A inclinação do eixo não interfere na formação de biomas densos.",
+          "explanation": "A energia solar é o fator abiótico primário que determina a produtividade de um ecossistema.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Elas se localizam nos polos, onde há mais gelo para refletir a luz.",
+          "explanation": "Os polos recebem raios solares muito inclinados, resultando em frio extremo e baixa biodiversidade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "As florestas tropicais preferem áreas de sombra constante nos vales profundos.",
+          "explanation": "As plantas dessas florestas competem intensamente pela luz solar no dossel.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Elas se concentram próximas à linha do Equador, onde os raios solares incidem quase diretamente.",
+          "explanation": "A abundância de luz e calor constante favorece a alta produção de biomassa e biodiversidade.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Elas se formam apenas em latitudes elevadas devido ao excesso de chuvas.",
+          "explanation": "Latitudes elevadas têm estações muito marcadas e menos energia solar disponível.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "question": "Qual é a ave considerada o símbolo do Pantanal, conhecida por seu grande porte e pescoço vermelho?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Tuiuiú (ou Jaburu)",
+          "explanation": "O Jaburu é a ave emblemática cujos ninhos gigantes marcam a paisagem pantaneira.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Gavião-carijó",
+          "explanation": "Embora presente em vários biomas, não possui o status de símbolo específico do Pantanal.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Ema",
+          "explanation": "A ema é a maior ave da América do Sul e é símbolo dos Pampas e Cerrado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Arara-azul",
+          "explanation": "A arara-azul é belíssima e presente na região, mas não é o símbolo oficial citado.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Carcará",
+          "explanation": "O carcará é comum na Caatinga e em áreas abertas, sendo uma ave de rapina.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "question": "A Mata Atlântica é o lar da maioria da população brasileira. Qual a porcentagem aproximada de brasileiros que vivem na área originalmente ocupada por este bioma?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "72%",
+          "explanation": "A grande maioria dos brasileiros reside na região litorânea, historicamente ocupada pela Mata Atlântica.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "50%",
+          "explanation": "A concentração populacional é ainda maior do que a metade do país.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "30%",
+          "explanation": "Este valor subestima a enorme urbanização ocorrida na faixa litorânea do Brasil.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "95%",
+          "explanation": "Embora alta, existem milhões de brasileiros vivendo na Amazônia, Cerrado e outras regiões.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "15%",
+          "explanation": "15% é a área que o bioma ocupa no território nacional, não a porcentagem da população.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "question": "O Tamandauí é citado como o menor tamanduá do Brasil. Sobre seus hábitos, o que regula sua atividade biológica principal?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "O tipo de solo, pois ele precisa cavar buracos para dormir.",
+          "explanation": "O tamandauí é arbóreo e passa o dia enroscado no alto das árvores, não no solo.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "A presença de predadores terrestres no chão da floresta.",
+          "explanation": "Embora evite o chão, o texto foca no ciclo de luz como regulador de sua atividade.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A temperatura da água dos rios amazônicos.",
+          "explanation": "Sendo um mamífero terrestre/arbóreo, a água do rio não é o fator abiótico primário para seu ciclo diário.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "A alternância entre dia e noite (luz), pois ele tem hábitos noturnos.",
+          "explanation": "Como animal noturno, seu metabolismo e busca por alimento são ativados pela ausência de luz solar.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "A velocidade do vento nas copas das árvores.",
+          "explanation": "O vento pode afetar o equilíbrio, mas não regula se o animal está ativo ou em repouso.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "question": "No Pampa, a pecuária é uma atividade muito desenvolvida desde a colonização. Qual característica da flora favoreceu historicamente essa atividade econômica?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A presença de grandes árvores frutíferas para alimentar o gado.",
+          "explanation": "O gado bovino alimenta-se primariamente de vegetação rasteira, não de frutos de árvores.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "O solo arenoso que facilita a drenagem da água.",
+          "explanation": "Solos arenosos podem levar à desertificação; a vantagem do Pampa está na cobertura vegetal.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "A abundância de mais de 400 tipos de gramíneas (gramas).",
+          "explanation": "A diversidade de pastagens naturais de alta qualidade torna a região ideal para a criação de gado.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "A existência de cactos sem espinhos que servem de ração.",
+          "explanation": "Cactos são típicos da Caatinga; o Pampa é dominado por gramas em campos abertos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A ausência total de chuvas, que impede que o gado fique doente.",
+          "explanation": "O Pampa possui clima chuvoso e bem distribuído, o que garante o crescimento constante da pastagem.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "question": "A Amazônia é descrita metaforicamente como o 'ar-condicionado do planeta'. Qual função ambiental justifica esse apelido?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "A floresta bloqueia a entrada de raios UV em todo o hemisfério sul.",
+          "explanation": "O bloqueio de UV é função da camada de ozônio, não diretamente da biomassa florestal.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Ela espalha frescor e umidade (vapor d'água) para outras regiões e continentes.",
+          "explanation": "A transpiração das árvores lança milhões de litros de água na atmosfera, regulando o clima global.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Ela absorve todo o calor do sol, impedindo o aquecimento dos oceanos.",
+          "explanation": "Ela ajuda a mitigar o aquecimento, mas não tem capacidade de absorver 'todo' o calor solar.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "As folhas das árvores funcionam como ventiladores naturais gigantes.",
+          "explanation": "O resfriamento ocorre por processos termodinâmicos da água e sombra, não por movimento mecânico das folhas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "A floresta produz gelo em suas camadas mais altas através da fotossíntese.",
+          "explanation": "A fotossíntese produz oxigênio e glicose, não gelo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "question": "Sobre o desmatamento na Amazônia, o mapa de 2011 (Imagem 2) destaca áreas marcadas em vermelho. O que essas áreas representam e onde se concentram?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pontos de desmatamento, localizados principalmente nas bordas sul e leste (Arco do Desmatamento).",
+          "explanation": "A pressão agropecuária e urbana entra na floresta por essas fronteiras, gerando uma cicatriz de destruição visível no mapa.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Locais onde a nova Mulher-Maravilha, Yara Flor, foi avistada.",
+          "explanation": "Yara Flor é uma personagem fictícia de HQ citada como curiosidade cultural, não um dado cartográfico real.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Zonas de proteção integral onde ninguém pode entrar.",
+          "explanation": "Zonas protegidas costumam ser marcadas em verde ou cores que denotam preservação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Áreas de reflorestamento concluído, concentradas no extremo norte.",
+          "explanation": "O vermelho no contexto ambiental de monitoramento geralmente indica destruição ou alerta, não recuperação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Regiões de inundação natural dos rios igapós.",
+          "explanation": "Inundações seguem o curso dos rios, enquanto as marcas vermelhas seguem estradas e frentes de expansão humana.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "question": "A biodiversidade da Mata Atlântica inclui diversas espécies de árvores de valor comercial que foram exploradas à beira da extinção. Além do Pau-brasil, qual destas é citada no material?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Eucalipto",
+          "explanation": "O eucalipto é uma espécie exótica introduzida, não nativa da biodiversidade original.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Pinheiro-do-paraná",
+          "explanation": "Embora seja da região, esta espécie específica não consta na lista de exemplos diretos do texto.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Seringueira",
+          "explanation": "A seringueira é nativa da Amazônia, não sendo o foco da exploração madeireira da Mata Atlântica litorânea.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Cacto Mandacaru",
+          "explanation": "O mandacaru é um símbolo da Caatinga, adaptado a ambientes muito mais secos.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Jequitibá",
+          "explanation": "O jequitibá é mencionado como um dos grandes representantes da flora remanescente.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "question": "No Pantanal, o regime de águas divide o ano em dois períodos marcantes. Em quais meses ocorre tipicamente a estação das cheias?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "De Junho a Setembro.",
+          "explanation": "Este período corresponde à seca, quando as águas baixam e os campos aparecem.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "De Maio a Agosto.",
+          "explanation": "Este é o início da vazante e o período mais seco do ano.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "De Outubro a Abril.",
+          "explanation": "Durante esses meses, as chuvas intensas fazem com que os rios transbordem e alaguem a planície.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Não há estação definida, alaga-se o ano inteiro.",
+          "explanation": "O Pantanal possui uma sazonalidade muito rígida que define a vida dos animais e plantas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Apenas nos meses de Dezembro e Janeiro.",
+          "explanation": "Embora chova muito nestes meses, o ciclo de inundação é mais longo e dura cerca de seis meses.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "question": "A vegetação do Cerrado apresenta troncos retorcidos e cascas grossas. Qual é o principal motivo evolutivo para essas características?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Para absorver a umidade do ar através da casca.",
+          "explanation": "A casca grossa serve para proteção e isolamento, não para absorção hídrica direta.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Para facilitar a escalada de animais como o lobo-guará.",
+          "explanation": "O lobo-guará é um animal terrestre que não possui o hábito de escalar árvores.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Adaptação à escassez extrema de oxigênio no solo.",
+          "explanation": "A falta de oxigênio no solo é comum em manguezais, não no Cerrado seco.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Proteção contra o fogo periódico e adaptação à acidez do solo.",
+          "explanation": "A casca grossa isola o tecido vivo da árvore do calor das queimadas naturais e antrópicas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Para evitar que os pássaros façam ninhos nos galhos.",
+          "explanation": "Pelo contrário, essas árvores oferecem muitos abrigos para a fauna local.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "question": "Segundo o texto, qual bioma brasileiro é considerado o mais preservado de todos?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Mata Atlântica",
+          "explanation": "É exatamente o oposto: é o bioma mais degradado do país.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Amazônia",
+          "explanation": "A Amazônia sofre pressões gigantescas de desmatamento, embora ainda tenha grandes áreas contínuas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Caatinga",
+          "explanation": "A Caatinga sofre com o uso de lenha e processos de desertificação.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Pantanal",
+          "explanation": "Devido ao difícil acesso e ao ciclo de inundações, ele mantém uma maior integridade proporcional.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Cerrado",
+          "explanation": "O Cerrado tem sido rapidamente convertido em áreas de pastagem e monoculturas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "question": "Em relação aos fatores abióticos, qual é a principal função das florestas na manutenção do lençol freático?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Elas facilitam a infiltração da água no solo através das raízes e serapilheira.",
+          "explanation": "Sem a floresta, a água escorre pela superfície causando erosão e não abastece as reservas subterrâneas.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Elas impedem que a água da chuva chegue ao solo.",
+          "explanation": "As copas interceptam a água, mas o objetivo final é facilitar a infiltração suave no solo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "As árvores bombeiam água do solo diretamente para o mar.",
+          "explanation": "As árvores transpiram água para a atmosfera, não a bombeiam para o oceano.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Elas transformam o gás nitrogênio em água para abastecer os rios.",
+          "explanation": "A transformação química de nitrogênio em água não ocorre na natureza desta forma.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Elas aquecem a água subterrânea para acelerar o crescimento das plantas.",
+          "explanation": "A floresta costuma manter o solo e a água mais frescos devido à sombra.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "question": "A Ararinha-azul é um exemplo triste de perda de biodiversidade na Caatinga. Em que ano ela foi vista pela última vez na natureza antes de ser considerada extinta pelo IBAMA?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "2000",
+          "explanation": "O último indivíduo conhecido na vida selvagem desapareceu na virada do milênio.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "1500",
+          "explanation": "Nesta época o bioma estava intocado e a espécie era abundante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "2019",
+          "explanation": "Em 2019 já era considerada oficialmente extinta na natureza há quase duas décadas.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "1980",
+          "explanation": "Havia registros da ave nesta década, mas seu desaparecimento final ocorreu mais tarde.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "2021",
+          "explanation": "Esta data marca o ano de publicação/uso do material, não o evento de extinção.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "question": "Dentre os animais do Pampa, qual roedor é especificamente mencionado como estando sob ameaça de extinção?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Tuco-tuco",
+          "explanation": "Este pequeno roedor subterrâneo sofre com a perda de habitat natural para a agricultura.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "Preá",
+          "explanation": "O preá é comum nos campos, mas não é o destaque de ameaça específica nesta questão.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Capivara",
+          "explanation": "As capivaras são muito abundantes em quase todos os biomas brasileiros.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Rato-do-mato",
+          "explanation": "É um termo genérico, enquanto o material especifica uma espécie local.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Esquilo-da-amazônia",
+          "explanation": "Como o nome indica, ele pertence a outro bioma completamente diferente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "question": "O gráfico de 'Focos de Incêndio em 2019' (Imagem 2) revela um aumento alarmante em qual bioma, atingindo um crescimento de +492,8% em relação ao ano anterior?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Mata Atlântica",
+          "explanation": "Este bioma teve um aumento de +61,9%, o que é alto, mas longe dos +492%.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Cerrado",
+          "explanation": "O Cerrado teve um aumento de +61,9%, o maior número absoluto desde 2017, mas não o maior crescimento percentual.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Amazônia",
+          "explanation": "A Amazônia teve um aumento de +30,4%, muito menor em termos percentuais relativos que o bioma recordista.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Pantanal",
+          "explanation": "Embora seja um bioma de águas, o Pantanal sofreu a maior alta percentual de queimadas em 2019.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Pampa",
+          "explanation": "O Pampa teve um aumento de +91,3%, quase dobrando, mas ainda abaixo do índice do Pantanal.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "question": "A 'suculência' é uma estratégia citada para cactos e bromélias na Caatinga. O que essa característica permite à planta?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Escorregar do bico de predadores que tentam comê-las.",
+          "explanation": "As plantas se protegem com espinhos, não sendo 'escorregadias' por serem suculentas.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Captar nitrogênio diretamente do ar através dos poros.",
+          "explanation": "Plantas suculentas captam CO₂ e água, mas a fixação de nitrogênio é um processo diferente.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Produzir frutos mais doces para atrair morcegos.",
+          "explanation": "A suculência refere-se ao tecido da planta, não necessariamente ao sabor do fruto.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Crescer mais rápido do que as árvores da Amazônia.",
+          "explanation": "O crescimento em climas secos é geralmente muito mais lento devido à economia de energia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Armazenar água em tecidos especializados para sobreviver à estiagem.",
+          "explanation": "Ao reter água no caule ou folhas, a planta mantém seu metabolismo durante meses sem chuva.",
+          "selectedByUser": true,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "question": "Qual bioma é descrito como a 'Savana mais rica do mundo em biodiversidade'?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Pampa",
+          "explanation": "Os Pampas são campos ou pradarias subtropicais, com estrutura de vegetação diferente da savana.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Savana Africana",
+          "explanation": "A savana africana é famosa por grandes mamíferos, mas a biodiversidade total de espécies no Cerrado é superior.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Caatinga",
+          "explanation": "A Caatinga é um bioma semiárido exclusivo do Brasil, mas não é classificada tecnicamente como 'savana rica'.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Cerrado",
+          "explanation": "O Cerrado brasileiro possui uma riqueza incomparável de plantas e animais endêmicos entre as savanas globais.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "E",
+          "text": "Pantanal",
+          "explanation": "O Pantanal é um complexo de ecossistemas inundáveis, não uma savana típica.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "question": "A Mata Atlântica hoje restringe-se a uma pequena porcentagem de sua cobertura original. Segundo uma das fontes do texto, qual é esse valor atual remanescente?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "24%",
+          "explanation": "Esta é a área ocupada pelo Cerrado no território nacional.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "50%",
+          "explanation": "Se metade da Mata Atlântica ainda existisse, ela não seria considerada um hotspot sob ameaça extrema.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "12,4% ou 7,3%",
+          "explanation": "Diferentes fontes citadas no texto apontam para estes valores críticos de preservação da mata original.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "15%",
+          "explanation": "15% é a área total que o bioma representava no território brasileiro, não o que restou dele.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "49%",
+          "explanation": "Este valor corresponde à extensão atual do Bioma Amazônia.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "question": "O experimento sugerido com os potes de sementes (rega diária vs. sem rega) visa demonstrar a importância de qual elemento abiótico?",
+      "alternatives": [
+        {
+          "label": "A",
+          "text": "Oxigênio",
+          "explanation": "Ambos os potes estão expostos ao ar, logo o oxigênio não é a variável testada.",
+          "selectedByUser": true,
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Qualidade do solo",
+          "explanation": "O texto orienta colocar 'terra' em ambos, sugerindo que o solo é o mesmo.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "Água",
+          "explanation": "A variável que muda entre os potes é a presença ou ausência de rega, provando sua essencialidade para a germinação.",
+          "selectedByUser": true,
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "Temperatura",
+          "explanation": "Assumindo que os potes estão no mesmo local, a temperatura é uma variável constante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        },
+        {
+          "label": "E",
+          "text": "Luz Solar",
+          "explanation": "Para testar a luz, um pote deveria ficar no escuro e outro no claro, mantendo a água constante.",
+          "selectedByUser": false,
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
