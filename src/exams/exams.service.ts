@@ -3,6 +3,7 @@ import {
   NotFoundException,
   BadRequestException,
   InternalServerErrorException,
+  ForbiddenException,
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { QuestionsService } from '../questions/questions.service';
@@ -29,7 +30,7 @@ export class ExamsService {
     private questionsService: QuestionsService,
   ) {}
 
-  async create(dto: CreateExamDto) {
+  async create(dto: CreateExamDto, loggedUserId: string) {
     const materia = await this.prisma.materia.findUnique({
       where: { id: dto.materiaId },
     });
@@ -40,11 +41,12 @@ export class ExamsService {
         title: dto.title,
         description: dto.description,
         materiaId: dto.materiaId,
+        userId: loggedUserId,
       },
     });
   }
 
-  async findOne(id: string) {
+  async findOne(id: string, loggedUserId: string) {
     const exam = await this.prisma.exam.findUnique({
       where: { id },
       include: {
@@ -53,12 +55,19 @@ export class ExamsService {
       },
     });
     if (!exam) throw new NotFoundException('Prova não encontrada');
+    if (exam.userId !== loggedUserId)   {
+      throw new ForbiddenException('Você não tem permissão para acessar esta prova');
+    }
+    
     return exam;
   }
 
-  async findAll(materiaId?: string) {
+  async findAll(materiaId?: string, loggedUserId?: string) {
     return this.prisma.exam.findMany({
-      where: { ...(materiaId && { materiaId }) },
+      where: { 
+        userId: loggedUserId,
+        ...(materiaId && { materiaId }),
+      },
       include: {
         materia: true,
         versions: { select: { id: true, versionLabel: true } },
@@ -67,8 +76,8 @@ export class ExamsService {
     });
   }
 
-  async generateVersions(examId: string, dto: GenerateVersionsDto) {
-    const exam = await this.findOne(examId);
+  async generateVersions(examId: string, dto: GenerateVersionsDto, loggedUserId: string) {
+    const exam = await this.findOne(examId, loggedUserId);
 
     const questions = await this.questionsService.pickRandom(
       exam.materiaId,
@@ -167,14 +176,14 @@ export class ExamsService {
     return versions;
   }
 
-  async regenerate(examId: string, dto: GenerateVersionsDto) {
-    await this.findOne(examId);
+  async regenerate(examId: string, dto: GenerateVersionsDto, loggedUserId: string) {
+    await this.findOne(examId, loggedUserId);
     await this.prisma.examVersion.deleteMany({ where: { examId } });
     await this.prisma.exam.update({
       where: { id: examId },
       data: { status: ExamStatus.draft },
     });
-    return this.generateVersions(examId, dto);
+    return this.generateVersions(examId, dto, loggedUserId);
   }
 
   async getVersion(versionId: string) {
@@ -281,8 +290,8 @@ export class ExamsService {
     }
   }
 
-  async remove(id: string) {
-    await this.findOne(id);
+  async remove(id: string, loggedUserId: string) {
+    await this.findOne(id, loggedUserId);
     return this.prisma.exam.delete({ where: { id } });
   }
 }

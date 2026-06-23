@@ -7,6 +7,7 @@ import {
   Param,
   Query,
   ParseIntPipe,
+  Req,
 } from '@nestjs/common';
 import { ExamsService } from './exams.service';
 import { CreateExamDto } from './dto/create-exam.dto';
@@ -18,28 +19,45 @@ export class ExamsController {
   constructor(private readonly examsService: ExamsService) {}
 
   @Post()
-  create(@Body() dto: CreateExamDto) {
-    return this.examsService.create(dto);
+  create(@Req() request, @Body() dto: CreateExamDto) {
+
+    const loggedUserId = request.user.sub;
+
+    console.log('2. USER NO CONTROLLER:', request.user); // <-- ADICIONE ISTO
+    console.log('3. ID EXTRAIDO:', loggedUserId);
+    return this.examsService.create(dto, loggedUserId);
   }
 
   @Get()
-  findAll(@Query('materiaId') materiaId?: string) {
-    return this.examsService.findAll(materiaId);
+  findAll(@Req() request, @Query('materiaId') materiaId?: string) {
+    const loggedUserId = request.user.sub;
+    return this.examsService.findAll(materiaId, loggedUserId);
   }
 
   @Get(':id')
-  findOne(@Param('id') id: string) {
-    return this.examsService.findOne(id);
+  findOne(@Req() request, @Param('id') id: string) {
+    const loggedUserId = request.user.sub;
+    return this.examsService.findOne(id, loggedUserId);
   }
 
   @Post(':id/generate')
-  generateVersions(@Param('id') id: string, @Body() dto: GenerateVersionsDto) {
-    return this.examsService.generateVersions(id, dto);
+  generateVersions(
+    @Req() request,
+    @Param('id') id: string,
+    @Body() dto: GenerateVersionsDto,
+  ) {
+    const loggedUserId = request.user.sub;
+    return this.examsService.generateVersions(id, dto, loggedUserId);
   }
 
   @Post(':id/regenerate')
-  regenerate(@Param('id') id: string, @Body() dto: GenerateVersionsDto) {
-    return this.examsService.regenerate(id, dto);
+  regenerate(
+    @Req() request,
+    @Param('id') id: string,
+    @Body() dto: GenerateVersionsDto,
+  ) {
+    const loggedUserId = request.user.sub;
+    return this.examsService.regenerate(id, dto, loggedUserId);
   }
 
   @Get('versions/:versionId')
@@ -62,7 +80,8 @@ export class ExamsController {
   }
 
   @Delete(':id')
-  remove(@Param('id') id: string) {
-    return this.examsService.remove(id);
+  remove(@Req() request, @Param('id') id: string) {
+    const loggedUserId = request.user.sub;
+    return this.examsService.remove(id, loggedUserId);
   }
 }
