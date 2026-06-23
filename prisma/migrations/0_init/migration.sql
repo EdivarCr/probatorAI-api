@@ -1,3 +1,6 @@
+-- CreateSchema
+CREATE SCHEMA IF NOT EXISTS "public";
+
 -- CreateEnum
 CREATE TYPE "DifficultyLevel" AS ENUM ('facil', 'medio', 'dificil');
 
@@ -6,6 +9,28 @@ CREATE TYPE "AlternativeLabel" AS ENUM ('A', 'B', 'C', 'D', 'E');
 
 -- CreateEnum
 CREATE TYPE "ExamStatus" AS ENUM ('draft', 'generated', 'archived');
+
+-- CreateTable
+CREATE TABLE "users" (
+    "id" TEXT NOT NULL,
+    "email" TEXT NOT NULL,
+    "name" TEXT,
+    "password" TEXT NOT NULL,
+    "role" TEXT NOT NULL DEFAULT 'professor',
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" TIMESTAMP(3) NOT NULL,
+
+    CONSTRAINT "users_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
+CREATE TABLE "subjects" (
+    "id" TEXT NOT NULL,
+    "name" TEXT NOT NULL,
+    "description" TEXT,
+
+    CONSTRAINT "subjects_pkey" PRIMARY KEY ("id")
+);
 
 -- CreateTable
 CREATE TABLE "questions" (
@@ -91,6 +116,20 @@ CREATE TABLE "answer_keys" (
     CONSTRAINT "answer_keys_pkey" PRIMARY KEY ("id")
 );
 
+-- CreateTable
+CREATE TABLE "_MateriaToUser" (
+    "A" TEXT NOT NULL,
+    "B" TEXT NOT NULL,
+
+    CONSTRAINT "_MateriaToUser_AB_pkey" PRIMARY KEY ("A","B")
+);
+
+-- CreateIndex
+CREATE UNIQUE INDEX "users_email_key" ON "users"("email");
+
+-- CreateIndex
+CREATE UNIQUE INDEX "subjects_name_key" ON "subjects"("name");
+
 -- CreateIndex
 CREATE INDEX "questions_materia_id_idx" ON "questions"("materia_id");
 
@@ -148,6 +187,9 @@ CREATE INDEX "answer_keys_exam_version_id_idx" ON "answer_keys"("exam_version_id
 -- CreateIndex
 CREATE UNIQUE INDEX "answer_keys_exam_version_id_question_position_key" ON "answer_keys"("exam_version_id", "question_position");
 
+-- CreateIndex
+CREATE INDEX "_MateriaToUser_B_index" ON "_MateriaToUser"("B");
+
 -- AddForeignKey
 ALTER TABLE "questions" ADD CONSTRAINT "questions_materia_id_fkey" FOREIGN KEY ("materia_id") REFERENCES "subjects"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
 
@@ -177,3 +219,10 @@ ALTER TABLE "answer_keys" ADD CONSTRAINT "answer_keys_exam_version_id_fkey" FORE
 
 -- AddForeignKey
 ALTER TABLE "answer_keys" ADD CONSTRAINT "answer_keys_question_id_fkey" FOREIGN KEY ("question_id") REFERENCES "questions"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "_MateriaToUser" ADD CONSTRAINT "_MateriaToUser_A_fkey" FOREIGN KEY ("A") REFERENCES "subjects"("id") ON DELETE CASCADE ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "_MateriaToUser" ADD CONSTRAINT "_MateriaToUser_B_fkey" FOREIGN KEY ("B") REFERENCES "users"("id") ON DELETE CASCADE ON UPDATE CASCADE;
+

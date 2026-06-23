@@ -21,6 +21,8 @@ model User {
   materias  Materia[]
   createdAt DateTime  @default(now())
   updatedAt DateTime  @updatedAt
+  exams       Exam[]
+  
 
   @@map("users")
 }
@@ -106,7 +108,8 @@ model Exam {
   status      ExamStatus @default(draft)
   createdAt   DateTime   @default(now()) @map("created_at")
   updatedAt   DateTime   @updatedAt @map("updated_at")
-
+  userId      String     @map("user_id")
+  user        User       @relation(fields: [userId], references: [id], onDelete: Cascade)
   versions ExamVersion[]
 
   @@index([materiaId])
@@ -123,6 +126,7 @@ model ExamVersion {
 
   questions  ExamVersionQuestion[]
   answerKeys AnswerKey[]
+  corrections ExamCorrection[]
 
   @@unique([examId, versionLabel])
   @@index([examId])
@@ -173,4 +177,33 @@ model AnswerKey {
   @@unique([examVersionId, questionPosition])
   @@index([examVersionId])
   @@map("answer_keys")
+}
+
+model ExamCorrection {
+  id             String          @id @default(uuid())
+  examVersionId  String          @map("exam_version_id")
+  examVersion    ExamVersion     @relation(fields: [examVersionId], references: [id], onDelete: Cascade)
+  studentName    String?         @map("student_name")
+  totalQuestions Int             @map("total_questions")
+  correctAnswers Int             @map("correct_answers")
+  wrongAnswers   Int             @map("wrong_answers")
+  blankAnswers   Int             @map("blank_answers")
+  finalGrade     Float           @map("final_grade")
+  createdAt      DateTime        @default(now()) @map("created_at")
+  updatedAt      DateTime        @updatedAt @map("updated_at")
+  answers        StudentAnswer[]
+  @@index([examVersionId])
+  @@map("exam_corrections")
+}
+model StudentAnswer {
+  id               String            @id @default(uuid())
+  correctionId     String            @map("correction_id")
+  correction       ExamCorrection    @relation(fields: [correctionId], references: [id], onDelete: Cascade)
+  questionPosition Int               @map("question_position")
+  officialLabel    AlternativeLabel  @map("official_label")
+  markedLabel      AlternativeLabel? @map("marked_label")
+  status           String            // "CORRETO" | "ERRADO" | "EM_BRANCO"
+  @@unique([correctionId, questionPosition])
+  @@index([correctionId])
+  @@map("student_answers")
 }
