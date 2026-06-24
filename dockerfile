@@ -1,8 +1,13 @@
-FROM node:20-slim AS development
+FROM node:22-slim AS development
 WORKDIR /usr/src/app
 
-# 1. Instala o OpenSSL necessário para o Prisma funcionar na imagem slim
-RUN apt-get update -y && apt-get install -y openssl-dev openssl direntry || apt-get install -y openssl
+# 1. Instala o OpenSSL necessário para o Prisma e Chromium para o Puppeteer funcionar na imagem slim
+RUN apt-get update -y && apt-get install -y openssl chromium
+
+# Evita o download automático do Chrome pelo Puppeteer durante o npm install (evita erro de extração)
+ENV PUPPETEER_SKIP_DOWNLOAD=true
+# Define o caminho para o Chromium instalado pelo sistema operacional
+ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
 
 # 2. Copia os arquivos de dependências
 COPY package*.json ./
@@ -29,12 +34,14 @@ RUN npm run build
 
 # ---
 # Estágio Final: Produção
-FROM node:20-alpine AS runner
+FROM node:22-alpine AS runner
 WORKDIR /usr/src/app
 ENV NODE_ENV=production
 
-# Alpine precisa de uma lib específica para o Prisma funcionar em prod
-RUN apk add --no-cache openssl
+# Alpine precisa de openssl para o Prisma e chromium para o Puppeteer funcionar
+RUN apk add --no-cache openssl chromium
+ENV PUPPETEER_SKIP_DOWNLOAD=true
+ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
 
 COPY package*.json ./
 # O cliente Prisma já foi gerado no estágio "builder" e é copiado abaixo;

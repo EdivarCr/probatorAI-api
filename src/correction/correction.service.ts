@@ -1,4 +1,4 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import { Injectable, NotFoundException, ForbiddenException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { HomologarCorrecaoDto } from '../integrations/gemini/dto/approve correction.dto';
 import { AlternativeLabel, AnswerKey } from '@prisma/client';
@@ -94,40 +94,46 @@ export class CorrectionService {
   }
 
   async getAllCorrections(userId: string) {
-    const query = this.prisma.examCorrection.findMany({
+    const corrections = await this.prisma.examCorrection.findMany({
       where: {
         examVersion: {
           exam: {
-            userId: userId
-          }
-        }
-      }
+            userId: userId,
+          },
+        },
+      },
     });
 
-    if (!query) {
+    if (!corrections || corrections.length === 0) {
       throw new NotFoundException('Nenhuma correção encontrada para o usuário.');
     }
 
-    return query;
+    return corrections;
   }
 
   async getOneCorrection(id: string, userId: string) {
-    const query = this.prisma.examCorrection.findUnique({
+    const correction = await this.prisma.examCorrection.findUnique({
       where: { id },
       include: {
         examVersion: {
           include: {
-            exam: true
-          }
+            exam: true,
+          },
         },
-        answers: true
-      }
+        answers: true,
+      },
     });
 
-    if (!query) {
-      throw new NotFoundException('Nenhuma correção encontrada para o usuário.');
+    if (!correction) {
+      throw new NotFoundException('Correção não encontrada.');
     }
 
-    return query;
+    if (correction.examVersion.exam.userId !== userId) {
+      throw new ForbiddenException(
+        'Você não tem permissão para acessar esta correção.',
+      );
+    }
+
+    return correction;
   }
 }
