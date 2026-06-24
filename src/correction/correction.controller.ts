@@ -25,7 +25,7 @@ export class CorrectionController {
   @Get()
   @HttpCode(HttpStatus.OK)
   async findAll(@Req() request) {
-    const LoggedUserId = request.user.id;
+    const LoggedUserId = request.user.sub;
     const correcao =
       await this.corretionService.getAllCorrections(LoggedUserId);
     return correcao;
@@ -34,7 +34,7 @@ export class CorrectionController {
   @Get(':id')
   @HttpCode(HttpStatus.OK)
   async findOne(@Req() request, @Param('id') id: string) {
-    const LoggedUserId = request.user.id;
+    const LoggedUserId = request.user.sub;
     const correcao = await this.corretionService.getOneCorrection(
       id,
       LoggedUserId,
